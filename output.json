@@ -13,6 +13,7 @@
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: Party",
       "Description: Contemporary multicoloured strapless dress by PUCCI. Adorned with the brand's iconic vibrant abstract print. This eye-catching piece exudes playful elegance. Its fitted silhouette offers a flattering drape, perfect for a glamorous party occasion. Made in Italy. Size: International. Condition: Never worn."
     ],
     "ground_truth": [
@@ -42,6 +43,7 @@
       "brand: MARA HOFFMAN",
       "colour: Black",
       "condition: Never worn",
+      "occasion: beachwear",
       "Description: Contemporary black swimsuit from MARA HOFFMAN. This elegant one-piece features a classic, timeless silhouette. Solid black for versatile styling. Perfect for beachwear. No size label. Composition not specified. Condition: Never worn."
     ],
     "ground_truth": [
@@ -74,6 +76,7 @@
       "colour: Pink",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: Beachwear",
       "Description: Contemporary pink sarong by Christian Dior. Crafted from soft cotton, perfect for beachwear. Made in Italy. Composition: 100% Cotton. Condition: Never worn."
     ],
     "ground_truth": [
@@ -104,6 +107,7 @@
       "condition: Never worn",
       "label Size: 38",
       "Country of Origin: IT",
+      "occasion: beachwear",
       "Description: Contemporary white bikini from CHANEL. This chic two-piece swimwear is perfect for elegant beachwear. The pristine white hue offers a timeless appeal. Made in Italy. Size: 38 IT. Condition: Never worn."
     ],
     "ground_truth": [
@@ -138,6 +142,7 @@
       "condition: Never worn",
       "label Size: XS",
       "Country of Origin: ID",
+      "occasion: Beachwear",
       "Description: Contemporary black bikini top by ISA BOULDER. This luxurious beachwear piece is crafted from high-quality recycled polyamide, offering a sleek and sophisticated silhouette. Designed for comfort and style, it is fully lined. Perfect for an elevated poolside or beach look. Size XS. Composition: 78% Recycled Polyamide, 22% Elastane. Condition: Never worn. New with tags."
     ],
     "ground_truth": [
@@ -166,6 +171,7 @@
       "brand: MAR HOFFMAN",
       "colour: Black",
       "condition: Never worn, with tag",
+      "occasion: Beachwear",
       "Description: Contemporary one-piece swimsuit by MAR HOFFMAN. This sleek black swimsuit embodies minimalist elegance. Designed for beachwear, it offers a timeless silhouette. No material composition indicated. Size: Not specified. Condition: Never worn, with tag. Notes: No defects."
     ],
     "ground_truth": [
@@ -195,6 +201,7 @@
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: Beachwear",
       "Description: Contemporary beach towel from PRADA. This luxurious accessory features a vibrant multicoloured design. Perfect for elegant beachwear moments. Made in Italy. Condition: Never worn."
     ],
     "ground_truth": [
@@ -223,6 +230,7 @@
       "brand: ZIMMERMANN",
       "colour: Black",
       "condition: Never worn, with tag",
+      "occasion: beachwear",
       "Description: Black bikini by ZIMMERMANN. This classic piece features a timeless silhouette in black. Ideal for beachwear. Condition: New with tags. Notes: None."
     ],
     "ground_truth": [
@@ -251,6 +259,7 @@
       "subcategory: Unidentifiable Garment",
       "colour: Multicoloured",
       "condition: Good condition",
+      "occasion: Any",
       "Description: Contemporary women's garment. This unique clothing piece boasts a captivating multicoloured design, offering a vibrant and versatile aesthetic suitable for any occasion. Presented in good condition, this preloved item is ready for its next chapter. Due to its unidentifiable nature, specific sub-category, material composition, and brand details are not available. No size label is present. Condition: Good condition. Notes: No noted defects."
     ],
     "ground_truth": [
@@ -281,6 +290,7 @@
       "condition: Never worn",
       "label Size: 34",
       "Country of Origin: IT",
+      "occasion: Beachwear",
       "Description: Contemporary Pink Triangle Bikini Top from CHANEL. This chic piece is perfect for beachwear. It features a classic triangle silhouette with adjustable tie fastenings at the neck and back. Made in Italy. Size: 34 IT. Condition: Never worn."
     ],
     "ground_truth": [
@@ -311,6 +321,7 @@
       "colour: Multicoloured",
       "model: FF Monogram",
       "condition: Never worn",
+      "occasion: Beachwear",
       "Description: Contemporary bikini, FF Monogram model by FENDI. Immerse yourself in iconic style with this vibrant multicoloured two-piece. Featuring the distinguished FF monogram print throughout, this classic silhouette is perfect for sophisticated beachwear. Condition: Never worn. Notes: No defects."
     ],
     "ground_truth": [
@@ -346,6 +357,7 @@
       "defects 1: Grade: Minor, Location: Near the back clasp, Type: Pulled threads",
       "defects 2: Grade: Moderate, Location: Internal brand tag, Type: Pulled threads",
       "label Size: 36",
+      "occasion: athletic activities",
       "Description: Contemporary navy blue sports bra from the iconic CHANEL brand. This stylish piece from the CHANEL CLUB collection offers both support and luxury, perfect for athletic pursuits. Featuring a classic sports bra silhouette. Size: 36 FR. Composition: Not specified. Condition: Good condition. Notes: Minor pulled threads are present near the back clasp. Moderate pulled threads are noted on the internal brand tag."
     ],
     "ground_truth": [
@@ -375,6 +387,7 @@
       "brand: MARA HOFFMAN",
       "colour: Black",
       "condition: Never worn",
+      "occasion: Beachwear",
       "Description: Contemporary one-piece swimsuit by MARA HOFFMAN. This sleek, black design offers a sophisticated silhouette, perfect for elegant beachwear. A true wardrobe essential for sun-drenched escapes. Condition: Never worn."
     ],
     "ground_truth": [
@@ -405,6 +418,7 @@
       "condition: Never worn",
       "label Size: FR 38",
       "Country of Origin: IT",
+      "occasion: Beachwear",
       "Description: Contemporary red bikini from ERES. This classic two-piece is crafted from a high-quality stretch fabric, ensuring a comfortable and flattering fit. Ideal for beachwear. Made in Italy. Size: FR 38. Condition: Never worn."
     ],
     "ground_truth": [
@@ -435,6 +449,7 @@
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: Party",
       "Description: Contemporary Kimono Dress by DOLCE & GABBANA. This multicoloured piece features a vibrant print, showcasing the brand's iconic aesthetic. Designed with a flowing silhouette and elegant wide sleeves, it is perfect for a party occasion. Condition: New with tags."
     ],
     "ground_truth": [
@@ -463,6 +478,7 @@
       "brand: ZIMMERMANN",
       "colour: Multicoloured",
       "condition: Never worn, with tag",
+      "occasion: beachwear",
       "Description: Contemporary women's one-piece swimsuit by ZIMMERMANN. This elegant swimwear piece is crafted from a premium stretch-blend fabric, ideal for beachwear. It boasts a vibrant multicoloured floral print, characteristic of the brand's sophisticated aesthetic. Features an flattering silhouette. No label size. Composition: No composition label. Condition: New with tags. Notes: None."
     ],
     "ground_truth": [
@@ -496,6 +512,7 @@
       "condition: Never worn",
       "label Size: S",
       "Country of Origin: IT",
+      "occasion: Beachwear",
       "Description: Contemporary pink bikini, Resort Exclusive model by GUCCI. This stylish two-piece is designed for beachwear. The vibrant pink color makes a statement. Featuring a classic, flattering silhouette. Size: S. Composition: Not specified. Condition: Never worn."
     ],
     "ground_truth": [
@@ -526,6 +543,7 @@
       "condition: Never worn",
       "label Size: FR 40",
       "Country of Origin: FR",
+      "occasion: beachwear",
       "Description: Contemporary green bikini by ERES. This classic two-piece design is perfect for beachwear. Made in France. Size: FR 40. Condition: New with tags."
     ],
     "ground_truth": [
@@ -556,6 +574,7 @@
       "colour: White",
       "condition: Never worn, with tag",
       "Country of Origin: IT",
+      "occasion: Casual",
       "Description: Contemporary Briefs by MIU MIU. White color. Made in Italy. Condition: New with tags."
     ],
     "ground_truth": [
@@ -586,6 +605,7 @@
       "condition: Very good condition",
       "label Size: S",
       "Country of Origin: IT",
+      "occasion: Beachwear",
       "Description: Contemporary one-piece swimsuit from Moncler. Crafted for beachwear, this stylish piece comes in a beautiful lilac hue. It features a sleek, form-fitting silhouette. Size: S. Composition: Material composition not specified on label. Condition: Very good condition."
     ],
     "ground_truth": [
@@ -615,6 +635,7 @@
       "colour: Multicoloured",
       "model: GG Monogram",
       "condition: Never worn",
+      "occasion: Casual outings",
       "Description: Contemporary Scarf. GG Monogram model from GUCCI. This eye-catching accessory features the iconic GG Monogram pattern in a vibrant multicoloured palette. Crafted for style and versatility, it adds a luxurious touch to any casual ensemble. Condition: New with tags. No defects."
     ],
     "ground_truth": [
@@ -643,6 +664,7 @@
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: casual outings",
       "Description: Contemporary wide-leg trousers from GUCCI. These exquisite trousers feature a vibrant multicoloured print, emblematic of GUCCI's iconic design. The flowing wide-leg silhouette provides a sophisticated and comfortable fit. Crafted with the exceptional quality and attention to detail synonymous with the brand. Made in Italy. Perfect for elevating casual outings with a touch of luxury. Condition: New with tags. Notes: None."
     ],
     "ground_truth": [
@@ -671,6 +693,7 @@
       "brand: BALENCIAGA",
       "colour: Navy Blue",
       "condition: Very good condition",
+      "occasion: casual outings",
       "Description: Contemporary wide-leg drawstring trousers by BALENCIAGA. These trousers are presented in a deep navy blue, featuring a relaxed silhouette and an adjustable drawstring waist for optimal comfort. Ideal for casual outings. Size: Not specified. Composition: Not specified. Condition: Very good condition. Notes: None."
     ],
     "ground_truth": [
@@ -700,6 +723,7 @@
       "colour: Brown",
       "model: LAMYLAND",
       "condition: Never worn",
+      "occasion: Casual outings",
       "Description: Contemporary clothing piece from Rick Owens' acclaimed LAMYLAND collection. This compelling garment comes in a rich brown hue, embodying the designer's avant-garde vision. It is ideal for crafting distinctive casual ensembles. Experience the unique allure of Rick Owens' distinctive designs.Size: None indicated.Composition: Undisclosed.Condition: Never worn."
     ],
     "ground_truth": [
@@ -729,6 +753,7 @@
       "brand: JACQUEMUS",
       "colour: Black",
       "condition: Never worn",
+      "occasion: Business settings",
       "Description: Contemporary black mini dress from JACQUEMUS. This exquisite piece, a highlight of the LE CHOUCHOU collection, showcases the brand's iconic blend of minimalist design and striking silhouettes. Crafted in a sophisticated black, its clean lines and precise tailoring make it a versatile choice for business settings or chic evening occasions. Every detail reflects JACQUEMUS's renowned quality and contemporary vision.Size: Not specified.Composition: Material details not provided.Condition: New with tags."
     ],
     "ground_truth": [
@@ -758,6 +783,7 @@
       "brand: WARDROBE.NYC",
       "colour: Black",
       "condition: Never worn",
+      "occasion: Business",
       "Description: Contemporary black stirrup trousers by WARDROBE.NYC. These sleek trousers are designed with a tailored fit, perfect for business occasions. The signature stirrup detail offers a modern touch. Size: No label size specified. Composition: No material composition specified. Condition: Never worn."
     ],
     "ground_truth": [
@@ -787,6 +813,7 @@
       "brand: BALMAIN",
       "colour: Brown",
       "condition: Never worn",
+      "occasion: Evening Wear",
       "Description: Contemporary flared trousers by BALMAIN. These elegant trousers feature a flowing, flared silhouette in a deep brown hue. Designed for sophisticated evening wear, this piece is an exquisite addition to any wardrobe. Size: No size label. Condition: Never worn."
     ],
     "ground_truth": [
@@ -819,6 +846,7 @@
       "condition: Good condition",
       "defects 1: Grade: Moderate, Location: Inner thigh/crotch area, Type: Pulled threads",
       "Country of Origin: IT",
+      "occasion: Party",
       "Description: Contemporary multicoloured trousers from VALENTINO. These elegant trousers feature a vibrant graphic print, perfect for making a statement at any party. They offer a refined straight-leg silhouette, completed with a front zip and hook closure for a seamless look, and two discreet side pockets for practicality. Crafted with the renowned Italian excellence of VALENTINO. Condition: Good condition. Notes: Moderate pulled threads are present in the inner thigh/crotch area."
     ],
     "ground_truth": [
@@ -848,6 +876,7 @@
       "colour: Multicoloured",
       "condition: Very good condition",
       "Country of Origin: IT",
+      "occasion: Casual outings",
       "Description: Contemporary trousers by GUCCI. These multicoloured trousers feature a vibrant and eye-catching print, perfect for chic casual outings. Designed with an effortless flair, they include a classic front button and zip closure. Made in Italy. No size label. Condition: Very good condition. No noted defects."
     ],
     "ground_truth": [
@@ -877,6 +906,7 @@
       "colour: Beige",
       "condition: Never worn, with tag",
       "Country of Origin: IT",
+      "occasion: casual",
       "Description: Contemporary Beige trousers by MaxMara. A sophisticated and versatile addition to your casual wardrobe. Crafted with MaxMara's renowned quality. These trousers boast a timeless, classic cut. They ensure both comfort and effortless elegance. Details include a mid-rise waist and practical side pockets. The design embodies understated chic. Made in Italy. Size: Not specified. Composition: Not specified. Condition: New with tags."
     ],
     "ground_truth": [
@@ -910,6 +940,7 @@
       "defects 1: Grade: Minor, Location: Near the top of the waistband, Type: Snags / Pulled thread",
       "label Size: 38",
       "Country of Origin: IT",
+      "occasion: Casual",
       "Description: Contemporary black Monogram Trousers by LOUIS VUITTON. These elegant trousers showcase the iconic Monogram pattern throughout. Size: 38 IT. Composition: Not available. Condition: Very good condition. Notes: Minor snags/pulled thread near the top of the waistband."
     ],
     "ground_truth": [
@@ -939,6 +970,7 @@
       "colour: Off White",
       "condition: Very good condition",
       "label Size: 38",
+      "occasion: Business settings",
       "Description: Contemporary Off White trousers from Prada. Tailored cut. Mid-rise waist. Front zip, hook and button closure. Belt loops. Two side pockets. Two back welt pockets. Size: 38 IT. Condition: Very good condition."
     ],
     "ground_truth": [
@@ -967,6 +999,7 @@
       "brand: JW ANDERSON",
       "colour: Khaki",
       "condition: Never worn",
+      "occasion: casual outings",
       "Description: Contemporary khaki cargo trousers by JW Anderson. These trousers are designed for a relaxed and modern fit. They feature utilitarian details, including multiple flap pockets on the legs, characteristic of cargo styling. Finished with a classic button and zip fly closure. Condition: Never worn."
     ],
     "ground_truth": [
@@ -999,6 +1032,7 @@
       "colour: Multicoloured",
       "condition: Very good condition",
       "Country of Origin: IT",
+      "occasion: Casual outings",
       "Description: Contemporary EMILIO PUCCI wide-leg trousers. Crafted from a luxurious 100% viscose. These trousers feature a vibrant, multicoloured abstract print, emblematic of the brand's iconic design. Perfect for casual outings, they offer both comfort and sophisticated style. Fully lined in 100% cotton for a flawless drape. Made in Italy.Composition: 100% Viscose. Lining: 100% Cotton.Condition: Very good condition.Notes: None."
     ],
     "ground_truth": [
@@ -1027,6 +1061,7 @@
       "brand: Chloe",
       "colour: Black",
       "condition: Very good condition",
+      "occasion: business settings",
       "Description: Contemporary black trousers by Chloe. Elegant and versatile, designed for business settings. They feature a sophisticated straight-leg cut, offering a refined silhouette. These timeless trousers are equipped with practical side pockets and a concealed front closure, ensuring a sleek finish. Condition: Very good condition."
     ],
     "ground_truth": [
@@ -1057,6 +1092,7 @@
       "colour: Black",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: athletic activities",
       "Description: Contemporary Fendi leggings. Black color. Designed for athletic activities. Crafted in Italy. These sleek leggings embody Fendi's luxurious aesthetic for activewear. No label size. No composition label. Condition: Never worn."
     ],
     "ground_truth": [
@@ -1085,6 +1121,7 @@
       "brand: JOSEPH",
       "colour: Black",
       "condition: Never worn",
+      "occasion: Casual",
       "Description: These elegant black trousers from JOSEPH offer a sophisticated addition to any wardrobe. A truly timeless piece, perfect for versatile styling. Condition: Never worn."
     ],
     "ground_truth": [
@@ -1118,6 +1155,7 @@
       "defects 1: Grade: Minor, Location: On the lower front leg fabric, Type: Exterior stains/spots",
       "defects 2: Grade: Minor, Location: Near the waistband on the upper front, Type: Exterior stains/spots",
       "Country of Origin: IT",
+      "occasion: Business",
       "Description: Contemporary tailored trouser by GUCCI. This Navy Blue piece offers a refined, classic silhouette. Ideal for a business wardrobe. Features a classic waistband with belt loops, and side slit pockets. Condition: Good condition. Notes: Minor exterior stains/spots on the lower front leg fabric. Minor exterior stains/spots near the waistband on the upper front."
     ],
     "ground_truth": [
@@ -1146,6 +1184,7 @@
       "brand: Palm Angels",
       "colour: Black",
       "condition: Never worn",
+      "occasion: casual outings",
       "Description: Contemporary Flared Track Pants by Palm Angels. These iconic black track pants feature the brand's signature white side stripes. Designed with a flattering flared leg silhouette. An elasticated waistband ensures a comfortable fit. Equipped with side pockets. Condition: Never worn. No label size."
     ],
     "ground_truth": [
@@ -1174,6 +1213,7 @@
       "brand: Rick Owens",
       "colour: Black",
       "condition: Very good condition",
+      "occasion: Casual outings",
       "Description: Contemporary. Men's joggers by Rick Owens. These black joggers embody the designer's distinctive avant-garde aesthetic. Crafted from a comfortable fabric, they feature an elasticated waistband with a drawstring closure. The design includes practical side pockets and a modern tapered leg silhouette. A versatile piece perfect for casual outings or elevated streetwear ensembles. Material: Not specified. Condition: Very good condition. No noted defects."
     ],
     "ground_truth": [
@@ -1203,6 +1243,7 @@
       "colour: Off White",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: business settings",
       "Description: Contemporary trousers by BRUNELLO CUCINELLI. These elegant trousers are presented in a refined Off White shade. Crafted in Italy, they are perfect for business settings, showcasing the brand's renowned quality. Condition: Never worn."
     ],
     "ground_truth": [
@@ -1235,6 +1276,7 @@
       "defects 1: Grade: Minor, Location: General surface of the fabric, particularly around the label, Type: Pilling",
       "defects 2: Grade: Minor, Location: Overall fabric, Type: Washed or Worn",
       "Country of Origin: IT",
+      "occasion: Smart Casual",
       "Description: Black cashmere perforated scarf by LOUIS VUITTON. Crafted from luxurious 100% cashmere. This elegant accessory features a distinctive perforated design. Made in Italy. Composition: 100% Cashmere. Condition: Good condition. Notes: Minor pilling visible on the general surface of the fabric, especially around the label. Slight signs of wear consistent with use on the overall fabric."
     ],
     "ground_truth": [
@@ -1265,6 +1307,7 @@
       "colour: Blue",
       "condition: Very good condition",
       "defects 1: Grade: Minor, Location: Faint light spot near the center of the blue fabric shown in the close-up image., Type: Discolouration",
+      "occasion: Social outings",
       "Description: Contemporary Hermès Carré. This iconic square scarf is crafted from exquisite silk, featuring a vibrant blue hue and an intricate, signature pattern. A versatile accessory, perfect for elevating any ensemble.\nComposition: 100% Silk.\nCondition: Very good condition.\nNotes: Faint light spot near the center of the blue fabric."
     ],
     "ground_truth": [
@@ -1300,6 +1343,7 @@
       "condition: Very good condition",
       "defects 1: Grade: Minor, Location: Throughout the fabric surface, Type: Pilling",
       "Country of Origin: IT",
+      "occasion: Casual",
       "Description: A luxurious Grey Scarf by CHANEL. Crafted from a sumptuous blend of cashmere and silk, this accessory offers unparalleled softness and elegance. The timeless grey hue ensures versatile styling. Perfect for casual occasions. Size: One size. Composition: 74% Cashmere, 24% Silk. Condition: Very good condition. Notes: Minor pilling throughout the fabric surface."
     ],
     "ground_truth": [
@@ -1329,6 +1373,7 @@
       "brand: Hermès",
       "colour: Multicoloured",
       "condition: Never worn, with tag",
+      "occasion: Casual outings",
       "Description: Contemporary accessory. This Hermès scarf features the enchanting \"Mille et Un Lapins\" print. It is a famous multicoloured design. The pattern depicts a charming array of rabbits. This luxurious accessory is crafted from silk. It is a versatile square scarf. Condition: Never worn, with tag."
     ],
     "ground_truth": [
@@ -1361,6 +1406,7 @@
       "condition: Never worn",
       "label Size: U",
       "Country of Origin: IT",
+      "occasion: Casual outings",
       "Description: Contemporary scarf by DIOR. Crafted in luxurious silk. This elegant piece features a timeless beige hue. Made in Italy. Size: U. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [
@@ -1389,6 +1435,7 @@
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: Casual",
       "Description: Contemporary Balenciaga Logo Scarf. Crafted from a luxurious multicoloured textile, this striking accessory features a prominent logo pattern. It embodies the brand's contemporary aesthetic, perfect for adding a chic touch to casual looks. Condition: Never worn. Notes: No defects."
     ],
     "ground_truth": [
@@ -1417,6 +1464,7 @@
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: Casual",
       "Description: Contemporary multicoloured scarf by LOEWE. This vibrant accessory is perfect for adding a chic touch to any casual ensemble. Made in Italy. Condition: Never worn."
     ],
     "ground_truth": [
@@ -1445,6 +1493,7 @@
       "brand: Chloé",
       "colour: Navy Blue",
       "condition: Never worn",
+      "occasion: casual outings",
       "Description: Contemporary Scarf by Chloé. This elegant accessory features a classic Navy Blue hue. Perfect for casual outings, it adds a touch of sophistication to any look. Condition: Never worn. Notes: None."
     ],
     "ground_truth": [
@@ -1477,6 +1526,7 @@
       "model: Brides de Gala",
       "condition: Very good condition",
       "Country of Origin: FR",
+      "occasion: Casual outings",
       "Description: Contemporary Twilly, Brides de Gala model, from Hermes. Crafted from luxurious 100% silk. This vibrant multicoloured twilly features the iconic Brides de Gala print. Made in France. Size: One Size. Composition: 100% Silk. Condition: Very good condition. Notes: No defects."
     ],
     "ground_truth": [
@@ -1510,6 +1560,7 @@
       "condition: Never worn",
       "label Size: 58/64 (O/S)",
       "Country of Origin: BG",
+      "occasion: casual outings",
       "Description: Contemporary Grey monogram knit beanie by MARC JACOBS. Crafted from luxurious 100% Wool. This stylish accessory features an eye-catching monogram pattern, perfect for casual outings. Made in BG. Size: 58/64 (O/S). Composition: 100% Wool. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1531,6 +1582,7 @@
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: Casual outings",
       "Description: Contemporary Foulard by Fendi. Crafted from 100% pure silk. This luxurious multicoloured foulard features a vibrant print. Meticulously hand-rolled edges highlight its quality. Made in Italy. Size: One Size. Composition: 100% Silk. Condition: Never worn. Notes: None."
     ],
     "ground_truth": [],
@@ -1558,6 +1610,7 @@
       "model: Lagune Tropicale",
       "condition: Never worn, with tag",
       "Country of Origin: IT",
+      "occasion: Casual outings",
       "Description: Contemporary carré scarf by Loro Piana, Lagune Tropicale model. Crafted from a luxurious cotton blend. This exquisite square scarf features a vibrant multicoloured tropical print, perfect for elevating casual ensembles. Made in Italy.Size: One size.Composition: 90% Cotton, 6% Cashmere, 4% Silk.Condition: Never worn, with tag.Notes: No defects."
     ],
     "ground_truth": [],
@@ -1578,6 +1631,7 @@
       "colour: White",
       "condition: Good condition",
       "defects 1: Grade: Minor, Location: A small brown spot on the main body of the scarf, Type: Exterior stains/spots",
+      "occasion: Casual outings",
       "Description: Contemporary white scarf from BALENCIAGA. Features an iconic Balenciaga logo print. Condition: Good condition. Notes: A small brown spot on the main body of the scarf."
     ],
     "ground_truth": [],
@@ -1600,6 +1654,7 @@
       "model: World Food Programme",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: Casual",
       "Description: Contemporary multicoloured World Food Programme scarf by Balenciaga. Crafted from soft cotton, this statement accessory features a bold graphic print. A versatile piece that adds a pop of colour and unique style to any look. Composition: 100% Cotton. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1618,6 +1673,7 @@
       "colour: Multicoloured",
       "condition: Good condition",
       "defects 1: Grade: Minor, Location: Throughout the gold metallic knit, Type: Pulled threads",
+      "occasion: Casual outings",
       "Description: This contemporary multicoloured knit scarf is a vibrant accessory, boasting a rich palette of colours subtly interwoven with shimmering metallic threads. Its versatile nature makes it an ideal piece for elevating casual ensembles with a touch of refined glamour.Size: One size.Composition: Knit with metallic threads.Condition: Good condition.Notes: Minor pulled threads are present throughout the gold metallic knit."
     ],
     "ground_truth": [],
@@ -1640,6 +1696,7 @@
       "condition: Very good condition",
       "defects 1: Grade: Minor, Location: Small spot on the lighter pink section visible in image 3, Type: Exterior stains/spots",
       "defects 2: Grade: Minor, Location: Small spot on the darker pink section near the 'H' of the logo visible in image 5, Type: Exterior stains/spots",
+      "occasion: casual outings",
       "Description: Pink scarf by CHANEL. This sophisticated accessory features a chic two-tone design. Adorned with the iconic CHANEL logo, it is perfect for casual outings. One size. Condition: Very good condition. Notes: Minor exterior spot on the lighter pink section. Small spot on the darker pink section near the 'H' of the logo."
     ],
     "ground_truth": [],
@@ -1660,6 +1717,7 @@
       "brand: LOUIS VUITTON",
       "colour: Multicoloured",
       "condition: Never worn",
+      "occasion: Everyday",
       "Description: Contemporary multicoloured Bandeau from LOUIS VUITTON. Crafted from luxurious silk, this iconic accessory features the vibrant Louis Vuitton monogram print. Its versatile design allows for multiple styling options. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1678,6 +1736,7 @@
       "brand: Cartier",
       "colour: Pink",
       "condition: Never worn",
+      "occasion: Casual outings",
       "Description: Contemporary Pink scarf from Cartier. This elegant accessory showcases a striking pink color. Its classic design makes it a versatile addition to any wardrobe. Perfect for casual outings. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1697,6 +1756,7 @@
       "colour: Navy Blue",
       "condition: Very good condition",
       "defects 1: Grade: Minor, Location: Faint line/crease on the solid dark blue fabric near the patterned end., Type: Storage Marks",
+      "occasion: casual outings",
       "Description: Contemporary scarf by CHANEL. This elegant square accessory is presented in a sophisticated navy blue. It showcases a distinguished patterned design, characteristic of the iconic house, finished with meticulous hand-rolled edges. Ideal for casual outings, adding a luxurious touch to any ensemble. Condition: Very good condition. Notes: Faint line/crease on the solid dark blue fabric near the patterned end, consistent with minor storage marks."
     ],
     "ground_truth": [],
@@ -1715,6 +1775,7 @@
       "brand: Christian Dior",
       "colour: Pink",
       "condition: Never worn",
+      "occasion: Casual outings",
       "Description: Contemporary Scarf by Christian Dior. This elegant accessory, designed for the modern woman, is presented in a charming pink hue. It features meticulously finished edges, showcasing the House's exquisite craftsmanship and attention to detail. A versatile and timeless piece, this scarf is perfect for adding a chic touch to any casual ensemble. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1734,6 +1795,7 @@
       "colour: Multicoloured",
       "model: Chevalier de l'Artillerie",
       "condition: Never worn",
+      "occasion: Social events",
       "Description: Contemporary scarf, model Chevalier de l'Artillerie. From Hermès, crafted from luxurious silk. This exquisite square scarf showcases a vibrant, multicoloured print depicting an intricate equestrian-themed motif. Features hand-rolled edges. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1756,6 +1818,7 @@
       "model: Les Clés",
       "condition: Very good condition",
       "defects 1: Grade: Minor, Location: Several small white spots on the black border near one corner, Type: Exterior stains/spots",
+      "occasion: Everyday",
       "Description: Multicoloured silk scarf. Model Les Clés. A timeless piece from HERMÈS PARIS. Crafted in luxurious silk. This iconic square scarf features a vibrant and intricate equestrian-inspired print. Condition: Very good condition. Notes: Several small white spots are present on the black border near one corner."
     ],
     "ground_truth": [],
@@ -1777,6 +1840,7 @@
       "colour: Multicoloured",
       "model: Fleurs de Lotus",
       "condition: Never worn",
+      "occasion: Casual outings",
       "Description: Contemporary scarf, model Fleurs de Lotus, by Hermès, in silk. This iconic square scarf features a vibrant multicoloured floral print. It is designed with meticulously hand-rolled edges. Composition: 100% silk. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1795,6 +1859,7 @@
       "brand: Hermes",
       "colour: Multicoloured",
       "condition: Never worn",
+      "occasion: Smart Casual",
       "Description: Contemporary pleated scarf by Hermes. An exquisite accessory crafted from luxurious silk. This elegant piece showcases a vibrant, multicoloured print, typical of Hermes' iconic designs. It offers versatile styling options. One size. Composition: 100% silk. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1816,6 +1881,7 @@
       "colour: Yellow",
       "condition: Very good condition",
       "Country of Origin: FR",
+      "occasion: casual outings",
       "Description: Elevate any ensemble with this exquisite yellow HERMÈS silk scarf. Crafted from 100% pure silk, this luxurious accessory showcases a vibrant 'Early America' themed print, perfect for adding a touch of heritage and color to casual outings. Features impeccable hand-rolled edges, a hallmark of Hermès craftsmanship. One size. Composition: 100% Silk. Condition: Very good condition."
     ],
     "ground_truth": [],
@@ -1835,6 +1901,7 @@
       "brand: HERMÈS PARIS",
       "colour: Multicoloured",
       "condition: Never worn",
+      "occasion: Business",
       "Description: Contemporary multicoloured accessory by HERMÈS PARIS. This exquisite piece showcases the iconic 'Armes de Chasse' motif, a testament to HERMÈS' rich heritage and artistic excellence. The vibrant palette and intricate detailing make it a sophisticated collectible. Ideal for enhancing a professional look or as a cherished decorative item. Condition: Never worn. Notes: None."
     ],
     "ground_truth": [],
@@ -1853,6 +1920,7 @@
       "brand: CHANEL",
       "colour: Multicoloured",
       "condition: Very good condition",
+      "occasion: casual outings",
       "Description: This captivating multicoloured scarf is an exquisite accessory from the iconic house of CHANEL. Crafted from luxurious silk, it features a vibrant, eye-catching print. This elegant piece is perfect for adding a touch of timeless sophistication to any casual ensemble.Composition: 100% Silk.Condition: Very good condition."
     ],
     "ground_truth": [],
@@ -1871,6 +1939,7 @@
       "brand: Herm\nThe JSON is:```json{",
       "colour: Multicoloured",
       "condition: Never worn",
+      "occasion: Casual outings",
       "Description: Contemporary Hermès scarf. Crafted in luxurious silk. This multicoloured accessory features a vibrant, iconic print. A timeless piece from the prestigious Hermès house. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1889,6 +1958,7 @@
       "brand: Hermès",
       "colour: Blue",
       "condition: Never worn",
+      "occasion: Everyday wear",
       "Description: Hermès scarf. Crafted from luxurious silk. This contemporary piece features a vibrant graphic print in shades of blue. An exquisite accessory perfect for everyday wear.Composition: 100% Silk.Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1908,6 +1978,7 @@
       "colour: Multicoloured",
       "model: ETRIERS",
       "condition: Never worn",
+      "occasion: Casual outings",
       "Description: Contemporary Scarf, model ETRIERS, by HERMÈS. Crafted from luxurious silk. This exquisite multicoloured accessory features the iconic 'ETRIERS' equestrian print, a signature design of the house. Vibrant and timeless. Composition: 100% Silk. Condition: Never worn. No defects."
     ],
     "ground_truth": [],
@@ -1931,6 +2002,7 @@
       "model: Les Tambours",
       "condition: Good condition",
       "defects 1: Grade: Minor, Location: Scattered small dark spots visible on the green fabric sections of the scarf., Type: Exterior stains/spots",
+      "occasion: casual outings",
       "Description: Timeless HERMES scarf. Model 'Les Tambours'. Crafted from luxurious silk. Features a vibrant multicoloured print depicting drums and musical motifs. This iconic square scarf adds an elegant touch to any ensemble. Perfect for casual outings. One size. Composition: 100% Silk. Condition: Good condition. Notes: Minor scattered small dark spots present on the green fabric sections."
     ],
     "ground_truth": [],
@@ -1950,6 +2022,7 @@
       "brand: Herm\nThe JSON you provided has a syntax error. ",
       "colour: Multicoloured",
       "condition: Very good condition",
+      "occasion: Smart Casual",
       "Description: This elegant accessory is a square scarf (carré) by Herm. It features the enchanting \"Les Merises\" design. Crafted from luxurious silk, it showcases a vibrant multicoloured palette. The iconic pattern depicts cherries and botanical elements. Hand-rolled edges reflect the meticulous craftsmanship. Composition: 100% Silk. Condition: Very good condition. Notes: No defects to note."
     ],
     "ground_truth": [],
@@ -1971,6 +2044,7 @@
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
+      "occasion: Casual outings",
       "Description: Contemporary Multicoloured Scarf by DOLCE & GABBANA. Crafted from luxurious silk. Features a vibrant, eye-catching pattern. Made in Italy. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -1993,6 +2067,7 @@
       "colour: Multicoloured",
       "condition: Very good condition",
       "Country of Origin: FR",
+      "occasion: Casual outings",
       "Description: Hermès Piaff scarf in sumptuous silk. This classic accessory showcases a vibrant multicoloured equestrian print. A timeless piece for casual outings. Composition: 100% Silk. Condition: Very good condition."
     ],
     "ground_truth": [],
@@ -2011,6 +2086,7 @@
       "brand: GUCCI",
       "colour: Multicoloured",
       "condition: Never worn",
+      "occasion: Smart Casual",
       "Description: Contemporary multicoloured scarf by GUCCI. This vibrant accessory elevates any smart casual ensemble. Its captivating design reflects the iconic brand aesthetic. Size: Undisclosed. Composition: Undisclosed. Condition: Never worn. Notes: None."
     ],
     "ground_truth": [],
@@ -2030,6 +2106,7 @@
       "colour: Blue",
       "model: Diane",
       "condition: Never worn",
+      "occasion: Casual",
       "Description: Contemporary silk scarf, the iconic Diane model, by HERMÈS. This luxurious piece is crafted from 100% silk. It features a stunning blue color with a sophisticated HERMÈS print, showcasing the brand's renowned artistry. The scarf is elegantly finished with meticulously hand-rolled edges. Size: One size. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -2048,6 +2125,7 @@
       "brand: HERMÈS PARIS",
       "colour: Multicoloured",
       "condition: Never worn",
+      "occasion: Casual outings",
       "Description: Contemporary scarf by HERMÈS PARIS. Crafted from luxurious silk, this multicoloured scarf features an iconic artistic print. Its impeccable design is highlighted by signature hand-rolled edges, showcasing the brand's exquisite craftsmanship. A versatile piece perfect for elevating any casual ensemble. Size: One size. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -2066,6 +2144,7 @@
       "brand: Hermès",
       "colour: Multicoloured",
       "condition: Never worn",
+      "occasion: Smart Casual",
       "Description: Contemporary accessory, Brides de Gala model by Hermès. Crafted from luxurious silk. This exquisite square scarf features a vibrant multicoloured Brides de Gala print. It showcases iconic equestrian themes. Meticulously hand-rolled edges highlight Hermès craftsmanship. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -2087,6 +2166,7 @@
       "colour: Pink",
       "condition: Never worn",
       "Country of Origin: FR",
+      "occasion: Casual outings",
       "Description: Pink silk accessory by Hermès, showcasing the exquisite Planifleurs design. This luxurious piece is crafted from 100% silk. Its vibrant pink hue adds a sophisticated pop of color. Perfect for elegant styling. Made in France. Size: One size. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -2108,6 +2188,7 @@
       "brand: TOM FORD",
       "colour: Brown",
       "condition: Never worn",
+      "occasion: business settings",
       "Description: Contemporary men's suit from TOM FORD. This exquisite piece embodies the brand's signature luxury and impeccable tailoring. Presented in a sophisticated brown, it is designed for a distinguished presence in business settings. The jacket boasts classic notched lapels, a structured silhouette, and meticulous hand-finished details, reflecting TOM FORD's commitment to sartorial excellence. The accompanying trousers offer a refined, streamlined fit. This suit is a timeless investment, representing modern elegance and unparalleled craftsmanship. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -2130,6 +2211,7 @@
       "colour: Grey",
       "model: Dior",
       "condition: Very good condition",
+      "occasion: business settings",
       "Description: Contemporary grey suit from Dior. This impeccably tailored piece embodies classic elegance, perfect for business settings. The jacket features a single-breasted design, notched lapels, and a two-button front closure. It is complete with front flap pockets and a chest pocket, fully lined for a smooth drape. The matching trousers offer a timeless straight-leg cut, belt loops, and practical side and back pockets with a secure zip and hook closure. Its elegant grey hue ensures versatility.Composition: High-quality fabric blend.Condition: Very good condition."
     ],
     "ground_truth": [],
@@ -2151,6 +2233,7 @@
       "brand: PRADA",
       "colour: Grey",
       "condition: Very good condition",
+      "occasion: business settings",
       "Description: Contemporary grey suit by PRADA. Crafted from a refined wool blend for a structured, elegant silhouette. The jacket features notched lapels, a two-button closure, and long sleeves with buttoned cuffs. It includes two flap pockets at the front and a single chest pocket, fully lined for comfort and a pristine drape. The matching tailored trousers boast a straight leg, belt loops, side slip pockets, and two back buttoned pockets, secured with a zip and hook front closure. This sophisticated ensemble is perfect for business settings and formal occasions, embodying PRADA's signature understated luxury. Condition: Very good condition. Composition: Wool blend."
     ],
     "ground_truth": [],
@@ -2173,6 +2256,7 @@
       "colour: Black",
       "condition: Never worn",
       "label Size: 46",
+      "occasion: Formal",
       "Description: Contemporary suit by Dior. This elegant two-piece suit in black is a timeless garment for men. Perfect for formal occasions. The blazer features a classic notched lapel and a single-breasted front button closure. It includes two flap pockets at the front and a chest pocket. Fully lined for comfort and structure. The matching trousers are tailored with a straight leg. Size: 46. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -2194,6 +2278,7 @@
       "brand: DIOR",
       "colour: Grey",
       "condition: Never worn",
+      "occasion: Business settings",
       "Description: Contemporary suit, a sophisticated piece by DIOR. This two-piece men's suit is crafted in a refined grey premium suiting fabric, ideal for business settings. The jacket features classic notched lapels, long sleeves with elegant buttoned cuffs, and a sleek button-front closure. It is complete with functional front pockets and a smooth, full lining. The coordinating trousers present a timeless straight-leg silhouette, with standard pockets and a clean front zip and button fastening. Size: Not specified. Composition: Not specified. Condition: Never worn. Notes: None."
     ],
     "ground_truth": [],
@@ -2212,6 +2297,7 @@
       "brand: H\nME PLISS\n ISSEY MIYAKE",
       "colour: Black",
       "condition: Never worn",
+      "occasion: Smart Casual",
       "Description: Contemporary black boiler suit from H ME PLISS ISSEY MIYAKE. This striking piece is crafted from the brand's iconic pleated technical fabric. It offers exceptional comfort and a distinctive, fluid drape. The suit features a classic collar and a front button closure. Long sleeves with buttoned cuffs complete the design. Two discreet side pockets add functionality. Its versatile design transitions seamlessly from smart casual to modern avant-garde looks. Size: M International. Composition: 100% Polyester. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -2235,6 +2321,7 @@
       "colour: Navy Blue",
       "condition: Very good condition",
       "defects 1: Grade: Minor, Location: On the fabric surface, as seen in the close-up image., Type: Pilling",
+      "occasion: Business settings",
       "Description: This sophisticated men's suit by TOM FORD is crafted from a luxurious navy blue fabric. The single-breasted jacket features sharp notched lapels and a two-button front closure. It is designed with long sleeves, buttoned cuffs, and classic flap pockets. The jacket is fully lined for a superior finish. The matching trousers offer a tailored fit, complete with belt loops and functional side pockets. This ensemble is ideal for business settings and formal occasions. Size: Not specified. Composition: Not specified. Condition: Very good condition. Notes: Minor pilling on the fabric surface, as seen in the close-up image."
     ],
     "ground_truth": [],
@@ -2265,6 +2352,7 @@
       "defects 2: Grade: Moderate, Location: Brown spot on the right sleeve of the blazer, Type: Exterior stains/spots",
       "defects 3: Grade: Moderate, Location: Multiple large stains on the upper back of the pants, Type: Exterior stains/spots",
       "Country of Origin: IT",
+      "occasion: formal events",
       "Description: Contemporary men's suit by GUCCI. This refined two-piece tailored suit comes in an eye-catching pink shade. The blazer features classic notched lapels, long sleeves, and a single-breasted silhouette with front button closures. It is detailed with piped pockets. The matching trousers are designed with a straight leg, a concealed front closure, and practical side and back pockets. Made in Italy. Condition: Fair condition. Notes: Faint dark discolouration on the upper left shoulder of the blazer. Brown spot on the right sleeve of the blazer. Multiple large stains on the upper back of the pants."
     ],
     "ground_truth": [],
@@ -2287,6 +2375,7 @@
       "colour: Navy Blue",
       "condition: Very good condition",
       "defects 1: Grade: Minor, Location: Slight flattening of the corduroy nap throughout the garment, consistent with light wear, Type: Other signs of wear",
+      "occasion: Business",
       "Description: Contemporary men's suit by TOM FORD. Crafted in a rich navy blue corduroy. The jacket features notched lapels, a two-button closure, and flap pockets. The trousers include belt loops and side pockets. Fully lined. No size label. No composition label. Condition: Very good condition. Notes: Minor flattening of the corduroy nap throughout the garment, consistent with light wear."
     ],
     "ground_truth": [],
@@ -2315,6 +2404,7 @@
       "colour: Grey",
       "condition: Never worn",
       "label Size: I 48",
+      "occasion: Formal events",
       "Description: Contemporary grey Tuxedo Trousers by GUCCI. Crafted from a luxurious blend of wool and silk. This impeccably tailored piece offers a sophisticated silhouette. Features a concealed front closure. Includes classic side slash pockets and refined rear welt pockets. Complete with belt loops. Fully lined in smooth viscose for ultimate comfort. Size: I 48. Composition: 59% Wool, 24% Silk. Lining: 100% Viscose. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -2336,6 +2426,7 @@
       "brand: TOM FORD",
       "colour: Navy Blue",
       "condition: Very good condition",
+      "occasion: Formal",
       "Description: Contemporary TOM FORD navy blue suit. Crafted from a luxurious suiting fabric, this ensemble offers refined elegance. The single-breasted jacket features sophisticated notched lapels and a two-button closure. It includes classic flap pockets and a chest welt pocket. The cuffs are detailed with buttons. Fully lined, the jacket offers a double-vented back for ease of movement. The matching flat-front trousers are designed with a secure zip and hook closure, complemented by belt loops. They feature practical side slip pockets and two neat back welt pockets. Color: Navy Blue. Size: Unknown. Condition: Very good condition."
     ],
     "ground_truth": [],
@@ -2357,6 +2448,7 @@
       "condition: Never worn",
       "defects 1: Grade: Minor, Location: Interior lining, near the bottom hem, Type: Visible Holes",
       "Country of Origin: IT",
+      "occasion: Business",
       "Description: Contemporary double-breasted blazer by GUCCI. This men's elegant piece comes in a rich Navy Blue. Designed with notched lapels and a classic double-breasted front button closure. It features long sleeves, standard blazer pockets, and is fully lined. A quintessential garment for business occasions, reflecting exquisite Italian craftsmanship. Condition: Never worn. Notes: Minor visible hole in the interior lining, near the bottom hem."
     ],
     "ground_truth": [],
@@ -2381,6 +2473,7 @@
       "condition: Good condition",
       "defects 1: Grade: Moderate, Location: Stain on the front left pant leg, Type: Exterior stains/spots",
       "Country of Origin: IT",
+      "occasion: Business",
       "Description: Contemporary grey tailored suit from PRADA. This men's suit is perfectly suited for business occasions. The blazer features classic notched lapels and a single-breasted two-button closure, complemented by precisely cut trousers. Crafted with Italian precision. Made in Italy. Condition: Good condition. Notes: Moderate exterior stain on the front left pant leg."
     ],
     "ground_truth": [],
@@ -2402,6 +2495,7 @@
       "brand: TOM FORD",
       "colour: Grey",
       "condition: Never worn",
+      "occasion: Business settings",
       "Description: This sophisticated two-piece suit from TOM FORD embodies timeless elegance. Crafted in a refined grey hue, it features a classic notched lapel, a two-button closure, and multiple pockets for functionality. The jacket is fully lined for a luxurious feel and impeccable drape. The trousers are tailored for a sleek silhouette. Perfect for business settings, this suit radiates sartorial excellence. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -2429,6 +2523,7 @@
       "defects 1: Grade: Moderate, Location: Front of trousers, near crotch area, Type: Exterior stains/spots",
       "defects 2: Grade: Moderate, Location: Lower front left side of jacket, Type: Exterior stains/spots",
       "Country of Origin: IT",
+      "occasion: Business",
       "Description: Contemporary Navy Blue suit by TOM FORD. This exquisite two-piece suit is ideal for business occasions. Crafted from a premium wool blend. The jacket features notched lapels, a single-breasted closure, and multiple pockets. Fully lined. The matching trousers are tailored, with belt loops and practical pockets. Made in Italy. No label size. No composition label. Condition: Good condition. Notes: Moderate exterior stains on the front of the trousers, near the crotch area. Moderate exterior stains on the lower front left side of the jacket."
     ],
     "ground_truth": [],
@@ -2447,6 +2542,7 @@
       "brand: Vivienne Westwood",
       "colour: Brown",
       "condition: Very good condition",
+      "occasion: Business settings",
       "Description: Contemporary men's blazer by Vivienne Westwood. This elegant brown blazer is perfectly tailored for business settings, showcasing the brand's distinctive aesthetic. It features classic notched lapels, long sleeves, and a structured silhouette. Details include front button closures and multiple pockets. Fully lined for comfort and a refined finish. Size: Not specified. Composition: Not specified. Condition: Very good condition. Notes: None."
     ],
     "ground_truth": [],
@@ -2468,6 +2564,7 @@
       "brand: Dior",
       "colour: Blue",
       "condition: Never worn",
+      "occasion: Formal and business settings",
       "Description: A timeless men's suit by Dior, presented in a sophisticated blue. This never-worn ensemble epitomizes modern elegance. Ideal for formal and business occasions. The meticulously tailored jacket boasts classic notched lapels. It features long sleeves with buttoned cuffs. Two flap pockets and a chest pocket adorn the front. The jacket is fully lined for a luxurious feel. Complementary trousers complete the silhouette. They feature side pockets and back pockets. Condition: Never worn."
     ],
     "ground_truth": [],
@@ -2491,6 +2588,7 @@
       "condition: Very good condition",
       "defects 1: Grade: Minor, Location: Lower back of the jacket, Type: Exterior stains/spots",
       "Country of Origin: IT",
+      "occasion: Business",
       "Description: Contemporary Grey two-piece suit by HERMES. This sophisticated ensemble showcases impeccable tailoring. The jacket features a classic silhouette with notched lapels, a two-button front closure, and flap pockets. The matching trousers offer a straight leg and convenient side and back pockets. Both pieces are fully lined, highlighting the luxurious craftsmanship. Made in Italy. No size label available. Composition details not available.\nCondition: Very good condition. Notes: Minor exterior stains/spots on the lower back of the jacket."
     ],
     "ground_truth": [],
@@ -2512,6 +2610,7 @@
       "brand: TOM FORD",
       "colour: Grey",
       "condition: Never worn",
+      "occasion: Formal",
       "Description: Contemporary grey suit by TOM FORD. This sophisticated two-piece embodies TOM FORD's luxurious aesthetic, perfect for a formal occasion. The single-breasted jacket features notched lapels, a two-button closure, two flap pockets, and a chest pocket. It is fully lined with four-button cuffs. The flat-front trousers include belt loops, a zip and hook closure, two side pockets, and two back welt pockets. Crafted from a high-quality fabric, characteristic of TOM FORD's exquisite tailoring. Size: Label size not specified. Composition: Material details not specified. Condition: Never worn. Notes: No defects."
     ],
     "ground_truth": [],
@@ -2533,6 +2632,7 @@
       "brand: Dior",
       "colour: Navy Blue",
       "condition: Very good condition",
+      "occasion: Business",
       "Description: Navy Blue suit by Dior. This impeccably tailored two-piece suit embodies classic sophistication. The jacket features notched lapels, a two-button front closure, and flap pockets, alongside a chest pocket. It is fully lined, ensuring a refined drape and comfort. The coordinating trousers complete the sleek silhouette, making this suit an ideal choice for business occasions. Condition: Very good condition. No notes."
     ],
     "ground_truth": [],
