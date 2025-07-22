@@ -1,37 +1,6 @@
 [
   {
     "images": [
-      "https://images.vestiairecollective.com/img/preduct/72397204-photo_3-2052320015.jpg",
-      "https://images.vestiairecollective.com/img/preduct/72397204-photo_1-208047363.jpg",
-      "https://images.vestiairecollective.com/img/preduct/72397204-photo_2-1243606550.jpg"
-    ],
-    "estimated": [
-      "gender: women",
-      "category: clothing",
-      "subcategory: Strapless Dress",
-      "brand: PUCCI",
-      "colour: Multicoloured",
-      "condition: Never worn",
-      "Country of Origin: IT",
-      "occasion: Party",
-      "Description: Contemporary multicoloured strapless dress by PUCCI. Adorned with the brand's iconic vibrant abstract print. This eye-catching piece exudes playful elegance. Its fitted silhouette offers a flattering drape, perfect for a glamorous party occasion. Made in Italy. Size: International. Condition: Never worn."
-    ],
-    "ground_truth": [
-      "UNIVERSE: women",
-      "MATERIAL: Polyamide",
-      "CATEGORY: clothing",
-      "SUBCATEGORY: swimwear",
-      "COLOUR: multicolour",
-      "BRAND: Emilio Pucci",
-      "CONDITION: Never worn",
-      "SIZE: 42 IT",
-      "COUNTRY_OF_ORIGIN_ACTUAL: IT",
-      "PRODUCT_DESCRIPTION_EN: Emilio Pucci Pareo. Multicolour signature striped pareo with ruched detail to the side of one hip. Slit to the side. 80% Polyamide, 20% Elastane. Made in Italy.\nSize: 42IT. Measurements: Waist: 33cm, Hip: 32cm, Length: 92cm.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
-    ],
-    "Title": "PUCCI Strapless dress International"
-  },
-  {
-    "images": [
       "https://images.vestiairecollective.com/img/preduct/60833667-photo_2-258952272.jpg",
       "https://images.vestiairecollective.com/img/preduct/60833667-photo_1-2054869907.jpg",
       "https://images.vestiairecollective.com/img/preduct/60833667-photo_3-100462188.jpg"
@@ -245,34 +214,6 @@
       "PRODUCT_DESCRIPTION_EN: Zimmermann Two-Piece bikini. Black triangular bikini with racer back strap detailing and front closure. Hipster underwear. 80% Polyester, 20% Elastane.\nSize: 12UK. Sold with original tags.\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
     "Title": "ZIMMERMANN bikini"
-  },
-  {
-    "images": [
-      "https://images.vestiairecollective.com/img/preduct/1954028-photo_1-378212369.jpg",
-      "https://images.vestiairecollective.com/img/preduct/1954028-photo_2-1052065904.jpg",
-      "https://images.vestiairecollective.com/img/preduct/1954028-photo_3-1824908421.jpg",
-      "https://images.vestiairecollective.com/img/preduct/1954028-photo_4-1840077449.jpg"
-    ],
-    "estimated": [
-      "gender: women",
-      "category: clothing",
-      "subcategory: Unidentifiable Garment",
-      "colour: Multicoloured",
-      "condition: Good condition",
-      "occasion: Any",
-      "Description: Contemporary women's garment. This unique clothing piece boasts a captivating multicoloured design, offering a vibrant and versatile aesthetic suitable for any occasion. Presented in good condition, this preloved item is ready for its next chapter. Due to its unidentifiable nature, specific sub-category, material composition, and brand details are not available. No size label is present. Condition: Good condition. Notes: No noted defects."
-    ],
-    "ground_truth": [
-      "UNIVERSE: women",
-      "MATERIAL: Cotton - elasthane",
-      "CATEGORY: clothing",
-      "SUBCATEGORY: swimwear",
-      "COLOUR: blue",
-      "BRAND: Missoni",
-      "CONDITION: Very good condition",
-      "PRODUCT_DESCRIPTION_EN: One piece swimsuit, with label. "
-    ],
-    "Title": ""
   },
   {
     "images": [
