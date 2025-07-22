@@ -8,12 +8,12 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: dress",
+      "subcategory: Strapless Dress",
       "brand: PUCCI",
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Contemporary Pucci dress. This vibrant multicoloured dress showcases Pucci's iconic abstract print. It features an elegant cut, embodying the brand's luxurious aesthetic. The piece is a true statement of fashion artistry. Size: Not specified. Composition: Not specified. Dimensions: Not specified. Condition: New with tags. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary multicoloured strapless dress by PUCCI. Adorned with the brand's iconic vibrant abstract print. This eye-catching piece exudes playful elegance. Its fitted silhouette offers a flattering drape, perfect for a glamorous party occasion. Made in Italy. Size: International. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -27,7 +27,7 @@
       "COUNTRY_OF_ORIGIN_ACTUAL: IT",
       "PRODUCT_DESCRIPTION_EN: Emilio Pucci Pareo. Multicolour signature striped pareo with ruched detail to the side of one hip. Slit to the side. 80% Polyamide, 20% Elastane. Made in Italy.\nSize: 42IT. Measurements: Waist: 33cm, Hip: 32cm, Length: 92cm.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "PUCCI women Multicoloured"
+    "Title": "PUCCI Strapless dress International"
   },
   {
     "images": [
@@ -38,11 +38,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: one-piece swimsuit",
+      "subcategory: swimsuit",
       "brand: MARA HOFFMAN",
       "colour: Black",
-      "condition: Very good condition",
-      "Description: Contemporary one-piece swimsuit by MARA HOFFMAN. This essential piece is crafted from a high-quality stretch fabric. Its sleek black design offers timeless allure. The swimsuit features a classic scoop neckline. A chic low back enhances its modern appeal. The high-cut leg creates an elongating silhouette. It is fully lined for optimal comfort and support. No pockets. No size label. Composition: Polyamide, Elastane. Condition: Very good condition. This item has been curated through Vestiaire’s Consignment service. It has already been authenticated by Vestiaire’s experts and is ready to ship from one of our warehouses."
+      "condition: Never worn",
+      "Description: Contemporary black swimsuit from MARA HOFFMAN. This elegant one-piece features a classic, timeless silhouette. Solid black for versatile styling. Perfect for beachwear. No size label. Composition not specified. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -55,7 +55,7 @@
       "SIZE: XL International",
       "PRODUCT_DESCRIPTION_EN: Mara Hoffman Kia swimsuit in black. One-piece with cutout waist. Adjustable straps. High leg. Made in USA.\nSize XL. Measurements: Bust 18in, Length (from top of bust to crotch) 27in\nComposition: 78% Recycled Econyl Nylon, 22% Spandex\nComes with original tag"
     ],
-    "Title": "MARA HOFFMAN women Black"
+    "Title": "MARA HOFFMAN swimsuit"
   },
   {
     "images": [
@@ -71,10 +71,10 @@
       "material: Cotton",
       "exact Material Composition: 100% Cotton",
       "brand: Christian Dior",
-      "colour: Multicoloured",
-      "condition: Very good condition",
+      "colour: Pink",
+      "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Contemporary Christian Dior Sarong. Crafted from luxurious Cotton. This exquisite multicoloured sarong showcases a vibrant, artful print. Its versatile design offers effortless elegance. Wear it as a skirt, dress, or shawl. No specific label size, providing adaptable styling for various silhouettes. This piece epitomizes chic resort wear.Composition: 100% Cotton.Dimensions: Not applicable, designed for flexible wrap styling.Condition: Very good condition. No flaws to note.This item has been curated through Vestiaire’s Consignment service. It has already been authenticated by Vestiaire’s experts and is ready to ship from one of our warehouses."
+      "Description: Contemporary pink sarong by Christian Dior. Crafted from soft cotton, perfect for beachwear. Made in Italy. Composition: 100% Cotton. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -87,7 +87,7 @@
       "SIZE: Not specified International",
       "PRODUCT_DESCRIPTION_EN: Dior Pareo in pink cotton. Toile De Jouy print. Rolled edges. Made in Italy.\nOne Size. Measurements: Length 62in, Width 47in\nComposition: 100% Cotton\nComes with original tag."
     ],
-    "Title": "Christian Dior women Multicoloured Cotton"
+    "Title": "CHRISTIAN DIOR Cotton Sarong"
   },
   {
     "images": [
@@ -98,13 +98,13 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: swimsuit",
+      "subcategory: bikini",
       "brand: CHANEL",
       "colour: White",
-      "condition: Very good condition",
+      "condition: Never worn",
       "label Size: 38",
       "Country of Origin: IT",
-      "Description: Contemporary. Swimsuit from CHANEL. This white swimsuit radiates effortless chic. Its sleek, timeless silhouette offers elegant simplicity. A fully lined interior ensures comfort and a flawless fit. It is a quintessential piece for sophisticated resort wear. Size: 38 IT. Condition: Very good condition. Sold by a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "Description: Contemporary white bikini from CHANEL. This chic two-piece swimwear is perfect for elegant beachwear. The pristine white hue offers a timeless appeal. Made in Italy. Size: 38 IT. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -117,7 +117,7 @@
       "SIZE: 38 FR",
       "PRODUCT_DESCRIPTION_EN: Fabulous White Bikini By Chanel - Designed with Silver, Gold and Clear Sequins.\n\nTriangle cups with self ties, all four of which end in gold baubles.\n\nSize: FR38 - Both\nComposition: 53% Polyester , 31% Polyamide , 11% Elastane , 5% Viscose\n\nSold with the original plastic pouch.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "CHANEL women White 38"
+    "Title": "CHANEL bikini 38 IT"
   },
   {
     "images": [
@@ -128,17 +128,17 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: swimwear",
+      "subcategory: Bikini top",
       "material: Polyamide",
       "exact Material Composition: OUTER 78% RECYCLED PA 22% EA LINING 90% POLY 10% ELASTANE",
       "other Materials 1: Elastane",
       "other Materials 2: Polyester",
       "brand: ISA BOULDER",
       "colour: Black",
-      "condition: Very good condition",
+      "condition: Never worn",
       "label Size: XS",
       "Country of Origin: ID",
-      "Description: Contemporary swimwear by ISA BOULDER. This striking piece is crafted from a luxurious recycled polyamide blend. It features a sleek black finish. The design offers both a sophisticated aesthetic and exceptional comfort, ensuring a perfect fit.\n\nSize: XS.\nComposition: Outer: 78% Recycled Polyamide, 22% Elastane. Lining: 90% Polyester, 10% Elastane.\nCondition: Very good condition.\nSold by a member of our VIP community. Authenticity and quality are already checked. In stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary black bikini top by ISA BOULDER. This luxurious beachwear piece is crafted from high-quality recycled polyamide, offering a sleek and sophisticated silhouette. Designed for comfort and style, it is fully lined. Perfect for an elevated poolside or beach look. Size XS. Composition: 78% Recycled Polyamide, 22% Elastane. Condition: Never worn. New with tags."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -151,7 +151,7 @@
       "SIZE: XS International",
       "PRODUCT_DESCRIPTION_EN: Black polyamide swimwear. Adjustable straps. Gathers on chest. Hook closure on back;  Composition : 78% polyamide recycled - lining :  90% polyester, 10% elastane. Size : XS international. Measurement  : 28cm (chest width) x 10cm (length). Made in Italy. No packaging. Note : very slight mark and top frame."
     ],
-    "Title": "ISA BOULDER women Black XS Polyamide"
+    "Title": "ISA BOULDER Recycled Polyamide Bikini top XS International"
   },
   {
     "images": [
@@ -162,11 +162,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: swimsuits",
+      "subcategory: One-piece swimsuit",
       "brand: MAR HOFFMAN",
       "colour: Black",
       "condition: Never worn, with tag",
-      "Description: Contemporary Mara Hoffman swimsuit. This essential piece is crafted from a high-quality, unspecified material blend. It features a classic, solid black hue. The sleek design offers a flattering silhouette. It provides a comfortable fit, ideal for resort style. This beautiful item is sold new with tags. Size: Label size is not provided. Please refer to the garment for precise details. Composition: Unspecified material blend. Dimensions: Specific measurements are not provided. Please consult the garment's sizing. Condition: New with tags, never worn. Sold by a trusted member of our VIP community. Authenticity and quality are already checked. In stock in our French warehouse. Shipped in 24h."
+      "Description: Contemporary one-piece swimsuit by MAR HOFFMAN. This sleek black swimsuit embodies minimalist elegance. Designed for beachwear, it offers a timeless silhouette. No material composition indicated. Size: Not specified. Condition: Never worn, with tag. Notes: No defects."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -179,7 +179,7 @@
       "SIZE: S International",
       "PRODUCT_DESCRIPTION_EN: Mara Hoffman Kia swimsuit in black. Adjustable straps. Hook closure. Cutout at the waist. Made in USA.\nSize S. Measurements: Bust 15in, Length (from top of bust to crotch) 23in\nComposition: 78% Recycled Econyl Nylon, 22% Spandex\nComes with original tag"
     ],
-    "Title": "MAR HOFFMAN women Black"
+    "Title": "MAR HOFFMAN One-piece swimsuit"
   },
   {
     "images": [
@@ -193,10 +193,9 @@
       "subcategory: Beach Towel",
       "brand: PRADA",
       "colour: Multicoloured",
-      "condition: Never worn, with tag",
-      "label Size: TU",
+      "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Contemporary. Beach Towel. Prada. Crafted from high-quality cotton. This rectangular accessory features a vibrant multicoloured print. It offers a plush terry texture for ultimate comfort. Made in Italy. Sold with its original tag. Size: TU (Taille Unique). Composition: 100% Cotton. Dimensions: Approximately 180 cm length, 90 cm width. Condition: New with tags. This item is flawless. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary beach towel from PRADA. This luxurious accessory features a vibrant multicoloured design. Perfect for elegant beachwear moments. Made in Italy. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -209,7 +208,7 @@
       "SIZE: Not specified International",
       "PRODUCT_DESCRIPTION_EN: Navy and white striped cotton beach towel accessory. Black brand signature detail. White fringes finish on the edges. White reverse side. Made in Italy. Composition: 100% Cotton. Dimensions: 100 x 180 cm. No packaging."
     ],
-    "Title": "PRADA women Multicoloured TU"
+    "Title": "PRADA Beach Towel"
   },
   {
     "images": [
@@ -220,11 +219,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: swimsuit",
+      "subcategory: bikini",
       "brand: ZIMMERMANN",
       "colour: Black",
       "condition: Never worn, with tag",
-      "Description: Contemporary ZIMMERMANN black swimsuit. A testament to ZIMMERMANN's iconic design, this piece offers a sleek and flattering silhouette. It embodies effortless elegance for resort wear. New with tags. Size: Not specified. Composition: Material details not specified. Dimensions: Not specified. Sold by a valued member of our VIP community. Authenticity and quality have been meticulously checked. This item is in stock in our warehouse and ships within 24 hours."
+      "Description: Black bikini by ZIMMERMANN. This classic piece features a timeless silhouette in black. Ideal for beachwear. Condition: New with tags. Notes: None."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -237,7 +236,7 @@
       "SIZE: 12 UK",
       "PRODUCT_DESCRIPTION_EN: Zimmermann Two-Piece bikini. Black triangular bikini with racer back strap detailing and front closure. Hipster underwear. 80% Polyester, 20% Elastane.\nSize: 12UK. Sold with original tags.\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "ZIMMERMANN women Black"
+    "Title": "ZIMMERMANN bikini"
   },
   {
     "images": [
@@ -249,10 +248,10 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: T-shirt",
-      "colour: Silver",
+      "subcategory: Unidentifiable Garment",
+      "colour: Multicoloured",
       "condition: Good condition",
-      "Description: Silver T-shirt. This versatile piece offers effortless style. It features a classic round neckline and short sleeves. The striking silver hue adds a modern touch. No size label. Material composition not specified. Measurements not provided. In good condition. No notable flaws. Sold by a valued member of our VIP community. Authenticity and quality have been thoroughly checked. In stock in our French warehouse, ready to ship within 24 hours."
+      "Description: Contemporary women's garment. This unique clothing piece boasts a captivating multicoloured design, offering a vibrant and versatile aesthetic suitable for any occasion. Presented in good condition, this preloved item is ready for its next chapter. Due to its unidentifiable nature, specific sub-category, material composition, and brand details are not available. No size label is present. Condition: Good condition. Notes: No noted defects."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -264,7 +263,7 @@
       "CONDITION: Very good condition",
       "PRODUCT_DESCRIPTION_EN: One piece swimsuit, with label. "
     ],
-    "Title": "women Silver"
+    "Title": ""
   },
   {
     "images": [
@@ -276,14 +275,13 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: bikini top",
+      "subcategory: Triangle Bikini Top",
       "brand: CHANEL",
       "colour: Pink",
-      "model: P71323V64080",
-      "condition: Never worn, with tag",
+      "condition: Never worn",
       "label Size: 34",
       "Country of Origin: IT",
-      "Description: Contemporary pink bikini top, model P71323V64080 by CHANEL. Crafted from luxurious swim fabric. Features classic triangle cups. Designed with adjustable halter and back tie straps for a perfect fit. Adorned with subtle, iconic CC logo hardware. The color is a vibrant pink, perfect for summer. Size: 34 IT. Composition: Not specified. Condition: New with tags. Sold by Vogue Finds, a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "Description: Contemporary Pink Triangle Bikini Top from CHANEL. This chic piece is perfect for beachwear. It features a classic triangle silhouette with adjustable tie fastenings at the neck and back. Made in Italy. Size: 34 IT. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -297,7 +295,7 @@
       "COUNTRY_OF_ORIGIN_ACTUAL: IT",
       "PRODUCT_DESCRIPTION_EN: Chanel bikini top. Pink triangle top with halterneck tie straps and clip in back strap. Crystal embellished CC detail. 64% Polyester, 36% Elastane. Made in Italy.\nSize: 34FR Measurements: Chest: 28cm, Length: 25cm.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "CHANEL women Pink 34"
+    "Title": "CHANEL Triangle bikini top 34 IT"
   },
   {
     "images": [
@@ -308,14 +306,12 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: swimsuits",
+      "subcategory: Bikini",
       "brand: FENDI",
       "colour: Multicoloured",
-      "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: Entire item, Type: Lingerie/Swimwear items",
-      "defects 2: Grade: Minor, Location: Slight fuzziness on yellow fabric trim of top and bottom, Type: Other signs of wear",
-      "defects 3: Grade: Minor, Location: Missing original retail hang tags, Type: Original tags missing",
-      "Description: A vibrant, multicoloured Fendi swimsuit. This contemporary piece features a chic yellow fabric trim on both the top and bottom, adding a distinctive detail. Size: Not specified. Composition: Material information not available. Condition: Very good condition. Minor fuzziness is present on the yellow fabric trim of both pieces. The original retail hang tags are missing. This item exhibits expected minor wear for swimwear. Sold by a valued member of our VIP community. Authenticity and quality have been rigorously checked. This item is in stock and ships within 24 hours."
+      "model: FF Monogram",
+      "condition: Never worn",
+      "Description: Contemporary bikini, FF Monogram model by FENDI. Immerse yourself in iconic style with this vibrant multicoloured two-piece. Featuring the distinguished FF monogram print throughout, this classic silhouette is perfect for sophisticated beachwear. Condition: Never worn. Notes: No defects."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -328,7 +324,7 @@
       "SIZE: 40 IT",
       "PRODUCT_DESCRIPTION_EN: Multicolore polyamide two-piece swimsuit. FF logo motif. Side-tie briefs. Triangle top with tie line in the back. Composition: 80% polyamide, 20% elastane. Size: 40 IT. Made in Italy. Note: slight rubbing and slight marks - slightly undone stitching on the back tie - slight mark on the right lining of the triangle - slight cracking of the elastic tie."
     ],
-    "Title": "FENDI women Multicoloured"
+    "Title": "FENDI FF Monogram Bikini"
   },
   {
     "images": [
@@ -342,15 +338,15 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: Sports bra",
+      "subcategory: sports bra",
       "brand: CHANEL",
       "colour: Navy Blue",
       "model: CHANEL CLUB",
       "condition: Good condition",
       "defects 1: Grade: Minor, Location: Near the back clasp, Type: Pulled threads",
-      "defects 2: Grade: Minor, Location: On the brand/size tag, Type: Pulled threads",
+      "defects 2: Grade: Moderate, Location: Internal brand tag, Type: Pulled threads",
       "label Size: 36",
-      "Description: Contemporary CHANEL CLUB sports bra by CHANEL. This iconic navy blue piece offers premium performance. It features a classic, supportive design, perfect for active lifestyles. The renowned CHANEL CC logo detailing elevates its aesthetic. The sports bra is size 36. Composition: Not specified. Dimensions: Not specified. It is in good condition. Minor pulled threads are present near the back clasp. Additional minor pulled threads are noted on the brand/size tag. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary navy blue sports bra from the iconic CHANEL brand. This stylish piece from the CHANEL CLUB collection offers both support and luxury, perfect for athletic pursuits. Featuring a classic sports bra silhouette. Size: 36 FR. Composition: Not specified. Condition: Good condition. Notes: Minor pulled threads are present near the back clasp. Moderate pulled threads are noted on the internal brand tag."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -364,7 +360,7 @@
       "COUNTRY_OF_ORIGIN_ACTUAL: IT",
       "PRODUCT_DESCRIPTION_EN: Navy polyamide swimwear top from Contemporary Collection. Two shoulder straps. Rounded neckline. Shiny blue brand signature on the chest. Navy elasticated waistband. Back clasp with engraved branding. No lining.\n\nMade in Italy estimated.\n\nSize: 36 FR. Total length: 30 cm, Chest width: 36 cm, Armholes width: 19 cm, Waist width: 31 cm.\n\nComposition: Polyamide estimated.\n\nNotes: No composition label. Micro scratches on the clasp. Discreet pulled threads on the edges. No complementary panty.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "CHANEL women Navy Blue 36"
+    "Title": "CHANEL Sports bra 36 FR"
   },
   {
     "images": [
@@ -375,11 +371,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: swimsuit",
+      "subcategory: One-Piece Swimsuit",
       "brand: MARA HOFFMAN",
       "colour: Black",
-      "condition: Never worn, with tag",
-      "Description: Contemporary swimsuit. By MARA HOFFMAN. This sleek piece is a true essential. It embodies modern elegance and quality. The design is a timeless one-piece. It features a sophisticated square neckline. A chic low back provides an alluring detail. The classic black color ensures versatile styling. It is crafted from a high-quality stretch swim fabric. The swimsuit is fully lined for optimal comfort and support. Condition: Never worn, with tag. This item is in pristine condition. Sold by a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "condition: Never worn",
+      "Description: Contemporary one-piece swimsuit by MARA HOFFMAN. This sleek, black design offers a sophisticated silhouette, perfect for elegant beachwear. A true wardrobe essential for sun-drenched escapes. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -392,7 +388,7 @@
       "SIZE: XL International",
       "PRODUCT_DESCRIPTION_EN: Mara Hoffman Idalia swimsuit in black. Square neckline. High leg. Low back. Made in USA.\nSize XL. Measurements: Bust 18in, Length (from top of strap to crotch) 30in\nComposition: 78% Econyl regenerated nylon, 22% Lycra\nComes with original tag"
     ],
-    "Title": "MARA HOFFMAN women Black"
+    "Title": "MARA HOFFMAN One-Piece Swimsuit"
   },
   {
     "images": [
@@ -403,13 +399,13 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: Swimsuit",
+      "subcategory: Bikini",
       "brand: ERES",
       "colour: Red",
-      "condition: Very good condition",
+      "condition: Never worn",
       "label Size: FR 38",
       "Country of Origin: IT",
-      "Description: Contemporary red ERES swimsuit. This piece embodies ERES's savoir-faire. It is crafted from a high-quality stretch polyamide blend. The iconic red hue and minimalist design highlight its premium construction. This swimsuit offers a flattering, sculpting fit. It is a truly chic swimwear essential. The rich, vibrant red enhances its elegant silhouette. Designed for both comfort and timeless style. Size: FR 38. Composition: 77% Polyamide, 23% Elastane. Condition: Very good condition. No specific flaws present. Sold by a VIP Consignor, a valued member of our community. Authenticity and quality have been rigorously checked. This item is in stock in our French warehouse, ready to ship within 24 hours."
+      "Description: Contemporary red bikini from ERES. This classic two-piece is crafted from a high-quality stretch fabric, ensuring a comfortable and flattering fit. Ideal for beachwear. Made in Italy. Size: FR 38. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -422,7 +418,7 @@
       "SIZE: 38 FR",
       "PRODUCT_DESCRIPTION_EN: Burgundy stretch two-piece swimwear. Dark grey patch on both pieces. Adjustable neck straps. Clip clasp at back. Lined crotch.\n\nComposition: 77% polyamide, 23% elastane.\n\nMade in Italy.\n\nTop size 38. Chest 36 cm. Bottom size 42. Waist 36 cm.\n\nPackaging: rubber pouch (in good condition).\n\nNotes: A few slight signs of washing and tiny pulled threads on details.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "ERES women Red FR 38"
+    "Title": "ERES Stretch Bikini FR 38"
   },
   {
     "images": [
@@ -434,12 +430,12 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: Dresses",
+      "subcategory: Kimono Dress",
       "brand: DOLCE & GABBANA",
       "colour: Multicoloured",
-      "condition: Very good condition",
+      "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Contemporary Dolce & Gabbana multicoloured dress. A vibrant floral print adorns this stunning piece. Midi length. Features a chic square neckline and wide straps. The fitted bodice flows into a beautiful flared A-line skirt. It has a hidden back zip closure. The dress is fully lined for comfort. Size: 40 IT. Dimensions: Total length: 110 cm, Chest width: 44 cm, Waist width: 36 cm. Condition: Very good condition. No visible defects. Sold by a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "Description: Contemporary Kimono Dress by DOLCE & GABBANA. This multicoloured piece features a vibrant print, showcasing the brand's iconic aesthetic. Designed with a flowing silhouette and elegant wide sleeves, it is perfect for a party occasion. Condition: New with tags."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -452,7 +448,7 @@
       "SIZE: Not specified IT",
       "PRODUCT_DESCRIPTION_EN: Silk Printed Robe by Dolce and Gabbana\n\nDesigned with an effortlessly floaty aesthetic , glide around in this stunning number with an air of grace and sophistication whilst you make your morning coffee and sun gaze to start your day..\n\nFeatures include a self tie belt and two pockets.\n\nOne size piece, Please see measurements.\n\nSleeve: 41cm\nLength: 148cm\nBust: 70cm\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "DOLCE & GABBANA women Multicoloured"
+    "Title": "DOLCE & GABBANA Kimono Dress"
   },
   {
     "images": [
@@ -463,11 +459,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: swimsuites",
+      "subcategory: One-Piece Swimsuit",
       "brand: ZIMMERMANN",
       "colour: Multicoloured",
       "condition: Never worn, with tag",
-      "Description: Contemporary ZIMMERMANN swimsuit. A multicoloured masterpiece. This elegant one-piece offers a flattering silhouette. It features refined neckline details and subtle ruching. Fully lined for supreme comfort. The vibrant print makes a chic statement. Sold with original tags. Size: Not specified. Composition: Not available. Dimensions: Not available. Condition: Never worn, with tag. Sold by [Seller Name], a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary women's one-piece swimsuit by ZIMMERMANN. This elegant swimwear piece is crafted from a premium stretch-blend fabric, ideal for beachwear. It boasts a vibrant multicoloured floral print, characteristic of the brand's sophisticated aesthetic. Features an flattering silhouette. No label size. Composition: No composition label. Condition: New with tags. Notes: None."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -481,7 +477,7 @@
       "COUNTRY_OF_ORIGIN_ACTUAL: CN",
       "PRODUCT_DESCRIPTION_EN: Raspberry Dots and purple stretch Separates Sculpt Link one-piece swimwear. Purple resin insert on the draped chest. Detachable straps. Purple lining.\n\nComposition: 57% polyamide, 43% elastane.\n\nMade in China.\n\nSize 1. Chest 89 cm, waist 70 cm, hips 96 cm, length 53 cm.\n\nWith paper tags and removable straps.\n\nNotes: slight marks on the lining due to trying.\n\nThis item has been curated through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "ZIMMERMANN women Multicoloured"
+    "Title": "ZIMMERMANN One-Piece Swimsuit"
   },
   {
     "images": [
@@ -493,14 +489,14 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: Swimsuit",
+      "subcategory: Bikini",
       "brand: GUCCI",
       "colour: Pink",
       "model: Resort Exclusive",
-      "condition: Never worn, with tag",
+      "condition: Never worn",
       "label Size: S",
       "Country of Origin: IT",
-      "Description: Contemporary Pink Swimsuit, Resort Exclusive model by GUCCI. This luxurious swimwear piece is crafted from a high-quality stretch material, offering both comfort and a flattering fit. The vibrant pink color makes a bold yet elegant statement, embodying the unique style of Gucci's resort collections. Its refined design ensures a chic look for any discerning buyer.\n\nSize: S / IT.\nComposition: 80% Polyamide, 20% Elastane.\nCondition: Never worn, with tag.\nSold by a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary pink bikini, Resort Exclusive model by GUCCI. This stylish two-piece is designed for beachwear. The vibrant pink color makes a statement. Featuring a classic, flattering silhouette. Size: S. Composition: Not specified. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -513,7 +509,7 @@
       "SIZE: S International",
       "PRODUCT_DESCRIPTION_EN: Indian pink stretch two-piece swimsuit. Double G buckle in gold-plated brass on the tanga. Black lining.\r\nEstimated composition: polyamide/elastane. Made in Italy.\r\nSize S. Triangle 17.5 cm wide x 14.5 cm long. Tanga hips 37cm, length from hip to crotch 20.5cm.\r\nDetails: small threads pulled on the main fabric. Tiny marks on the brass. Threads pulled on the label. Missing composition label."
     ],
-    "Title": "GUCCI women Pink S"
+    "Title": "GUCCI Bikini S"
   },
   {
     "images": [
@@ -524,14 +520,13 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: swimsuit",
+      "subcategory: bikini",
       "brand: ERES",
       "colour: Green",
       "condition: Never worn",
-      "defects 1: Grade: Minor, Location: Entire item, Type: Lingerie/Swimwear items",
       "label Size: FR 40",
       "Country of Origin: FR",
-      "Description: Contemporary green swimsuit by ERES. This luxurious piece embodies the brand's iconic design and exceptional quality. It features an elegant, classic silhouette, designed for a flattering fit. Its vibrant green hue is captivating. Sold without additional elements. Size: FR 40. Composition: Not specified. Dimensions: Not specified. Condition: Never worn, with only minor signs of handling consistent with the nature of delicate swimwear. Sold by [Seller Name], a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary green bikini by ERES. This classic two-piece design is perfect for beachwear. Made in France. Size: FR 40. Condition: New with tags."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -544,7 +539,7 @@
       "SIZE: 8 US",
       "PRODUCT_DESCRIPTION_EN: Eres swim suit in green polyamide. Underwire top. Tie closure at the neck and clasp closure at the back. Made in France.\nSize 8 US. Measurements: Top- Bust 12in, Strap length 16.5in. Bottom- Waist 13in, Length 8.75\nComposition: 77% Polyamide, 23% Elastane"
     ],
-    "Title": "ERES women Green FR 40"
+    "Title": "ERES Bikini FR 40"
   },
   {
     "images": [
@@ -556,13 +551,12 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: underwear",
+      "subcategory: Briefs",
       "brand: MIU MIU",
       "colour: White",
       "condition: Never worn, with tag",
-      "label Size: 4",
       "Country of Origin: IT",
-      "Description: Contemporary white underwear by MIU MIU. This piece embodies refined simplicity. Its classic brief silhouette offers comfort and style. The pristine white hue ensures versatile appeal. Sold with its original tags. Size: 4 IT. Composition: Not specified. Dimensions: Not specified. Condition: New with tags. No flaws to note. This item has been curated through Vestiaire’s Consignment service. It has already been authenticated by Vestiaire’s experts and is ready to ship from one of our warehouses."
+      "Description: Contemporary Briefs by MIU MIU. White color. Made in Italy. Condition: New with tags."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -575,7 +569,7 @@
       "SIZE: 4 US",
       "PRODUCT_DESCRIPTION_EN: Miu Miu white cotton mini shorts. Elasticated waist with Miu Miu branding to the hip. 100% Cotton. Made in Italy.\nSize: 4US. Waist: 37cm, Length: 25cm.\nSold with tags and box.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses"
     ],
-    "Title": "MIU MIU women White 4"
+    "Title": "MIU MIU Briefs"
   },
   {
     "images": [
@@ -586,13 +580,13 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: swimsuit",
+      "subcategory: One-piece Swimsuit",
       "brand: MONCLER",
       "colour: Lilac",
-      "condition: Never worn, with tag",
+      "condition: Very good condition",
       "label Size: S",
       "Country of Origin: IT",
-      "Description: Contemporary swimsuit by MONCLER. Crafted from premium technical swim fabric. This women's swimsuit features a flattering design. It is presented in a beautiful Lilac color. The piece offers comfortable integrated support. Made in Italy. Sold with original tags. Size S / IT. Composition: Technical swim fabric. Condition: Never worn, with tag. Sold by a valued member of our VIP community. Authenticity and quality are fully checked. In stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary one-piece swimsuit from Moncler. Crafted for beachwear, this stylish piece comes in a beautiful lilac hue. It features a sleek, form-fitting silhouette. Size: S. Composition: Material composition not specified on label. Condition: Very good condition."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -605,7 +599,7 @@
       "SIZE: S International",
       "PRODUCT_DESCRIPTION_EN: Moncler one-piece swimsuit in pink. Branding on side. Zip closure at front. Scoop back. Made in Italy.\nSize S. Measurements: bust 16 in, waist 12.5 in, length 29 in.\nComposition: 73% Polyamide, 27% Elastane."
     ],
-    "Title": "MONCLER women Lilac S"
+    "Title": "MONCLER One-piece Swimsuit S International"
   },
   {
     "images": [
@@ -619,8 +613,9 @@
       "subcategory: Scarf",
       "brand: GUCCI",
       "colour: Multicoloured",
-      "condition: Very good condition",
-      "Description: A captivating multicoloured scarf from GUCCI. This iconic accessory elevates any ensemble with its vibrant charm. It is in very good condition. Sold by [Seller Name], a valued member of our VIP community. Authenticity and quality have been meticulously verified. This exceptional piece is in stock at our French warehouse, ready for immediate dispatch within 24 hours."
+      "model: GG Monogram",
+      "condition: Never worn",
+      "Description: Contemporary Scarf. GG Monogram model from GUCCI. This eye-catching accessory features the iconic GG Monogram pattern in a vibrant multicoloured palette. Crafted for style and versatility, it adds a luxurious touch to any casual ensemble. Condition: New with tags. No defects."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -632,7 +627,7 @@
       "CONDITION: Never worn",
       "PRODUCT_DESCRIPTION_EN: Gucci silk scarf. Brown scarf with diamond print GG monogram in different sizes throughout. Orange and purple border. Rolled hems. 100% Silk. Made in Italy.\n90X90CM.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "GUCCI women Multicoloured"
+    "Title": "GUCCI Scarf"
   },
   {
     "images": [
@@ -643,12 +638,12 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: trousers",
+      "subcategory: Printed Wide-Leg Trousers",
       "brand: GUCCI",
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Contemporary, elegant multicoloured trousers by GUCCI. This pristine piece showcases exquisite craftsmanship. Mid-waist design with classic belt loops. Features a refined front button, hook, and zip closure. Equipped with practical side pockets and two tailored piped pockets at the back. Fully lined for an impeccable drape and superior comfort. The item is never worn, presenting in perfect, pristine condition. Size label not available. Material composition not available. Dimensions not available. Sold by a valued member of our VIP community. Authenticity and quality have been rigorously checked. This exclusive item is in stock in our French warehouse and ships within 24 hours."
+      "Description: Contemporary wide-leg trousers from GUCCI. These exquisite trousers feature a vibrant multicoloured print, emblematic of GUCCI's iconic design. The flowing wide-leg silhouette provides a sophisticated and comfortable fit. Crafted with the exceptional quality and attention to detail synonymous with the brand. Made in Italy. Perfect for elevating casual outings with a touch of luxury. Condition: New with tags. Notes: None."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -661,7 +656,7 @@
       "SIZE: 42 IT",
       "PRODUCT_DESCRIPTION_EN: Amazing Printed Linen Trousers by GUCCI\n\nDesigned with a large gold tone front to back zip!\n\nSize: IT42\nComposition: 100% Linen\nMeasurements: 35.5cm Waist , 108cm Length\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "GUCCI women Multicoloured"
+    "Title": "GUCCI Printed Wide-Leg Trousers"
   },
   {
     "images": [
@@ -672,11 +667,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: Trousers",
+      "subcategory: Wide-leg Drawstring Trousers",
       "brand: BALENCIAGA",
       "colour: Navy Blue",
       "condition: Very good condition",
-      "Description: Navy Blue trousers from BALENCIAGA. These trousers embody the brand's contemporary aesthetic. The deep Navy Blue shade offers timeless appeal. The garment's specific cut details, such as fit, waist style, and leg silhouette, are not detailed. Pockets or lining information is also not available. This item is not accompanied by additional elements like a box or dustbag. Size information is not specified. Composition percentages are not available. Dimensions are not provided. The trousers are in very good condition, showing no specific flaws. Sold by a member of our VIP community, this piece has undergone rigorous authenticity and quality checks. It is in stock in our warehouse and ready for dispatch within 24 hours."
+      "Description: Contemporary wide-leg drawstring trousers by BALENCIAGA. These trousers are presented in a deep navy blue, featuring a relaxed silhouette and an adjustable drawstring waist for optimal comfort. Ideal for casual outings. Size: Not specified. Composition: Not specified. Condition: Very good condition. Notes: None."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -689,7 +684,7 @@
       "SIZE: 40 FR",
       "PRODUCT_DESCRIPTION_EN: BALENCIAGA Black Wide Leg Silky Pants\n\nFeaturing a drawstring waistband, two side and two back pockets.\nSize: FR40\nMeasurements: 45cm Waist , 108cm Length\nComposition: 73% Acetate , 27% Viscose\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "BALENCIAGA women Navy Blue"
+    "Title": "BALENCIAGA Wide-leg Drawstring Trousers"
   },
   {
     "images": [
@@ -700,12 +695,12 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: Pants",
+      "subcategory: LAMYLAND",
       "brand: Rick Owens",
       "colour: Brown",
       "model: LAMYLAND",
       "condition: Never worn",
-      "Description: Men's pants. LAMYLAND model by Rick Owens. This iconic piece embodies the designer's avant-garde vision. It is presented in a deep, rich brown hue. The premium fabric selection ensures exceptional quality and a luxurious drape. This item is new with tags, flawless. Composition: Details unlisted. Sold by a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "Description: Contemporary clothing piece from Rick Owens' acclaimed LAMYLAND collection. This compelling garment comes in a rich brown hue, embodying the designer's avant-garde vision. It is ideal for crafting distinctive casual ensembles. Experience the unique allure of Rick Owens' distinctive designs.Size: None indicated.Composition: Undisclosed.Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: men",
@@ -719,7 +714,7 @@
       "COUNTRY_OF_ORIGIN_ACTUAL: IT",
       "PRODUCT_DESCRIPTION_EN: Rick Owens x Lamyland pants in brown nylon. From 2018 Collection. Elasticated waistband with drawstring. Side pockets. Rear pockets with Velcro flap closure. Button up fly. Made in Italy.\nSize: XS\nMeasurements: Waist 14.5in, Length: 42in.\nComposition: 100% polyamide (nylon)."
     ],
-    "Title": "Rick Owens men Brown"
+    "Title": "RICK OWENS LAMYLAND"
   },
   {
     "images": [
@@ -730,13 +725,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: trousers",
+      "subcategory: LE CHOUCHOU",
       "brand: JACQUEMUS",
       "colour: Black",
-      "model: LE CHOUCHOU",
-      "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: Inner top edge of the waistband, Type: Pulled threads",
-      "Description: Contemporary black trousers, LE CHOUCHOU model by JACQUEMUS. These chic trousers feature a timeless black hue. They are in very good condition, with only minor pulled threads noted on the inner top edge of the waistband. This exquisite item has been curated through Vestiaire’s Consignment service. It has been meticulously authenticated by Vestiaire’s experts and is ready to ship directly from one of our warehouses."
+      "condition: Never worn",
+      "Description: Contemporary black mini dress from JACQUEMUS. This exquisite piece, a highlight of the LE CHOUCHOU collection, showcases the brand's iconic blend of minimalist design and striking silhouettes. Crafted in a sophisticated black, its clean lines and precise tailoring make it a versatile choice for business settings or chic evening occasions. Every detail reflects JACQUEMUS's renowned quality and contemporary vision.Size: Not specified.Composition: Material details not provided.Condition: New with tags."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -749,7 +742,7 @@
       "SIZE: 36 FR",
       "PRODUCT_DESCRIPTION_EN: Black wool large trouser from Le Chouchou Collection. High waist with thin belt. Silver-tone pin buckle. Belt loops. Frayed edges finish. Front hidden zip, hook and button closures. Large legs. No lining, tonal interior. Size: 36 FR. Composition: 100% Virgin Wool. Measurements: Total length: 107 cm, Waist width: 37 cm, Legs width: 29 cm, Crotch length: 28 cm. Notes: Discreet tonal spots next to the crotch on the front of the toruser. Discreet friction marks on the pin buckle. Partially unstitched ankles's seams."
     ],
-    "Title": "JACQUEMUS women Black"
+    "Title": "JACQUEMUS Black mini dress"
   },
   {
     "images": [
@@ -761,11 +754,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: Trousers",
-      "brand: WARDBROBE.NYC",
+      "subcategory: Stirrup Trousers",
+      "brand: WARDROBE.NYC",
       "colour: Black",
-      "condition: Very good condition",
-      "Description: WARDBROBE.NYC black trousers. These trousers offer a contemporary, straight-leg silhouette. They feature a sleek, high-waist design with a concealed front zip and hook closure. Functional side pockets enhance practicality. The classic black hue provides versatile styling. This item is in very good condition. Sold by a valued member of our VIP community. Authenticity and quality are fully checked. In stock in our French warehouse, ready for shipment within 24 hours."
+      "condition: Never worn",
+      "Description: Contemporary black stirrup trousers by WARDROBE.NYC. These sleek trousers are designed with a tailored fit, perfect for business occasions. The signature stirrup detail offers a modern touch. Size: No label size specified. Composition: No material composition specified. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -779,7 +772,7 @@
       "COUNTRY_OF_ORIGIN_ACTUAL: SK",
       "PRODUCT_DESCRIPTION_EN: Wardrobe.NYC Wool Tuxedo Trousers in black. Features a concealed zipper with hook and eye closures. Creased. Seam pockets. Satin panel at side seams. Back welt pockets. Straight fit. Elastic gore insert at hem.  Made in Slovakia.\nSize S.\nMeasurements; Waist 15.5in, Hips 18in, Rise 9.5in, Length 39in.\nComposition; 100% Wool. Contrast 100% Silk.\nSold with original tag."
     ],
-    "Title": "WARDBROBE.NYC women Black"
+    "Title": "WARDROBE.NYC Stirrup Trousers"
   },
   {
     "images": [
@@ -790,12 +783,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: trousers",
+      "subcategory: Flared Trousers",
       "brand: BALMAIN",
       "colour: Brown",
-      "condition: Good condition",
-      "defects 1: Grade: Minor, Location: Throughout the fabric, particularly on the inner thighs and knees, Type: Pilling",
-      "Description: Contemporary trousers from BALMAIN. These sophisticated trousers feature a rich brown color. Condition: Good condition. Minor pilling is present throughout the fabric, particularly on the inner thighs and knees. This item is sold by a member of our VIP community. Authenticity and quality have been checked. It is in stock in our French warehouse and ships within 24 hours."
+      "condition: Never worn",
+      "Description: Contemporary flared trousers by BALMAIN. These elegant trousers feature a flowing, flared silhouette in a deep brown hue. Designed for sophisticated evening wear, this piece is an exquisite addition to any wardrobe. Size: No size label. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -808,7 +800,7 @@
       "SIZE: 38 FR",
       "PRODUCT_DESCRIPTION_EN: Balmain brushed cotton trousers. High waisted with gold-tone button detail to the front of the trousers. Flared hems. Zip closure to the side. 100% Cotton. Made in Italy.\nSize: 38FR. Measurements: Waist: 40cm, Hip: 46cm, Inseam: 81cm, Length: 103cm.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "BALMAIN women Brown"
+    "Title": ""
   },
   {
     "images": [
@@ -824,10 +816,10 @@
       "subcategory: trousers",
       "brand: VALENTINO",
       "colour: Multicoloured",
-      "condition: Very good condition",
-      "defects 1: Grade: Moderate, Location: Interior seam, Type: Pulled threads",
+      "condition: Good condition",
+      "defects 1: Grade: Moderate, Location: Inner thigh/crotch area, Type: Pulled threads",
       "Country of Origin: IT",
-      "Description: A pair of exquisite VALENTINO trousers, showcasing a vibrant multicoloured aesthetic. These captivating trousers embody contemporary elegance. They are presented in very good condition, with moderate pulled threads noted on an interior seam. Sold by a valued member of our VIP community. Authenticity and quality are thoroughly checked. This item is in stock in our French warehouse, ready for shipment within 24 hours."
+      "Description: Contemporary multicoloured trousers from VALENTINO. These elegant trousers feature a vibrant graphic print, perfect for making a statement at any party. They offer a refined straight-leg silhouette, completed with a front zip and hook closure for a seamless look, and two discreet side pockets for practicality. Crafted with the renowned Italian excellence of VALENTINO. Condition: Good condition. Notes: Moderate pulled threads are present in the inner thigh/crotch area."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -840,7 +832,7 @@
       "SIZE: 38 IT",
       "PRODUCT_DESCRIPTION_EN: Valentino pants in black velvet. Side pockets. Floral print. Bow details at the waist. Hook and zipper closure. Made in Italy.\r\nSize 38 IT\r\nMeasurements: Waist 14in, Length 44in\r\nComposition: 80% Viscose, 20% Silk\r\n\r\nPlease note: Tears to both pockets in the lining, but pockets are still functional"
     ],
-    "Title": "VALENTINO women Multicoloured"
+    "Title": "VALENTINO Trousers"
   },
   {
     "images": [
@@ -851,12 +843,12 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: Pants",
+      "subcategory: Trousers",
       "brand: GUCCI",
       "colour: Multicoloured",
-      "condition: Never worn, with tag",
+      "condition: Very good condition",
       "Country of Origin: IT",
-      "Description: Contemporary women's pants from the iconic GUCCI. These exquisite trousers captivate with their vibrant multicoloured design, a testament to GUCCI's distinctive aesthetic. The piece is in pristine, never-worn condition, complete with its original tag, signifying its untouched quality and readiness for a new wardrobe. Size: Not specified. Composition: Exact material composition is not specified. Dimensions: Detailed measurements are not available for this item. Sold by 'Curated Style', a valued member of our VIP community. Authenticity and quality are thoroughly checked. This item is in stock in our French warehouse, ready for shipment within 24 hours."
+      "Description: Contemporary trousers by GUCCI. These multicoloured trousers feature a vibrant and eye-catching print, perfect for chic casual outings. Designed with an effortless flair, they include a classic front button and zip closure. Made in Italy. No size label. Condition: Very good condition. No noted defects."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -869,7 +861,7 @@
       "SIZE: 42 IT",
       "PRODUCT_DESCRIPTION_EN: Textured black and beige check print from Gucci. Featuring side zip with Gucci engraved, three-quarter lengths, two front pockets. Made in Italy.\n\nSize- 42 IT\nMeasurements- 83cm length, 34cm waist.\nComposition- 56% cotton, 22% polyamide, 5% polyester, 5% viscose.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "GUCCI women Multicoloured"
+    "Title": "GUCCI Trousers"
   },
   {
     "images": [
@@ -880,12 +872,12 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: pants",
+      "subcategory: trousers",
       "brand: MaxMara",
       "colour: Beige",
       "condition: Never worn, with tag",
       "Country of Origin: IT",
-      "Description: Contemporary beige tailored trousers by MaxMara. Crafted with impeccable precision in Italy. This versatile pair is new with tags, ensuring pristine condition. Featuring a sophisticated straight-leg silhouette and a flattering high-waist. Details include a concealed front zip and hook closure, two functional side pockets, and two elegant back welt pockets. Practical belt loops complete the design. Unlined for a sleek drape. Sold with original tags. Size: Not indicated. Please consult MaxMara's general size guide. Composition: Not indicated. Dimensions: Not provided. Condition: New with tags. Pristine condition, no flaws. Sold by [Seller Name], a valued member of our VIP community. Authenticity and quality have been meticulously checked. This item is in stock in our French warehouse and ships within 24 hours."
+      "Description: Contemporary Beige trousers by MaxMara. A sophisticated and versatile addition to your casual wardrobe. Crafted with MaxMara's renowned quality. These trousers boast a timeless, classic cut. They ensure both comfort and effortless elegance. Details include a mid-rise waist and practical side pockets. The design embodies understated chic. Made in Italy. Size: Not specified. Composition: Not specified. Condition: New with tags."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -898,7 +890,7 @@
       "SIZE: 38 IT",
       "PRODUCT_DESCRIPTION_EN: Nude pink and navy blue dancers allover print satin twill large trousers. High elasticated boxer belt. Flat front yoke. Zip closure on the side. Unlined.\nComposition: 100% silk. Made in Italy. Size 38. Waist 34 cm, length 113 cm. With attached tag.\nDetails: a few small marks at the bottom of legs. A few slight pulled threads in places."
     ],
-    "Title": "MaxMara women Beige"
+    "Title": "MAXMARA Trousers"
   },
   {
     "images": [
@@ -910,14 +902,15 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: Pants",
+      "subcategory: Trousers",
       "brand: LOUIS VUITTON",
       "colour: Black",
+      "model: Monogram",
       "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: On the waistband, Type: Pulled threads",
+      "defects 1: Grade: Minor, Location: Near the top of the waistband, Type: Snags / Pulled thread",
       "label Size: 38",
       "Country of Origin: IT",
-      "Description: Chic black pants by LOUIS VUITTON. These elegant women's pants exemplify sophisticated design. They feature a straight-leg silhouette and a comfortable mid-rise waist. Functionality is ensured with two discreet front slant pockets and two back piped pockets. The rich black hue offers timeless versatility for any wardrobe. Size: 38 IT. Composition: Unknown composition. Measurements: Not available. Condition: Very good condition. Notes: Minor pulled threads are present on the waistband, reflecting gentle prior wear. This item has been curated through Vestiaire’s Consignment service. It has already been authenticated by Vestiaire’s experts and is ready to ship from one of our warehouses."
+      "Description: Contemporary black Monogram Trousers by LOUIS VUITTON. These elegant trousers showcase the iconic Monogram pattern throughout. Size: 38 IT. Composition: Not available. Condition: Very good condition. Notes: Minor snags/pulled thread near the top of the waistband."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -930,7 +923,7 @@
       "SIZE: 38 FR",
       "PRODUCT_DESCRIPTION_EN: Louis Vuitton pants in black silk. Drawstring at the waist band. LV Monogrammed. 3 button closure. Made in Italy.\nSize 38 FR. Measurements: Waist 16in, Rise 11.5in, Inseam 31.5in, Length 42in\nComposition: 100% Silk\n\nPlease note: Small snags to front left pant leg near waistband."
     ],
-    "Title": "LOUIS VUITTON women Black 38"
+    "Title": "LOUIS VUITTON Monogram Trousers 38 IT"
   },
   {
     "images": [
@@ -941,12 +934,12 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: trousers",
+      "subcategory: Trousers",
       "brand: PRADA",
-      "colour: Multicoloured",
+      "colour: Off White",
       "condition: Very good condition",
       "label Size: 38",
-      "Description: Contemporary Prada trousers. Multicoloured. These sophisticated trousers embody effortless style. They feature a classic straight leg fit. The design is clean and versatile. They are a valuable addition to any luxury wardrobe. Size: 38. Composition: Material details not available. Very good condition. No visible defects. Sold by a trusted member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "Description: Contemporary Off White trousers from Prada. Tailored cut. Mid-rise waist. Front zip, hook and button closure. Belt loops. Two side pockets. Two back welt pockets. Size: 38 IT. Condition: Very good condition."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -959,7 +952,7 @@
       "SIZE: 38 IT",
       "PRODUCT_DESCRIPTION_EN: Prada straight leg trousers. Off white  trousers with a burgundy detail to the inseam. Zip closure to the front of the trousers. 100% Viscose. Made in Italy.\nSize: 38IT. Measurements: Waist: 34cm, Hip: 41cm, Inseam: 70cm, Length: 95cm.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "PRADA women Multicoloured 38"
+    "Title": "PRADA Trousers 38 IT"
   },
   {
     "images": [
@@ -970,11 +963,11 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: cargo pants",
+      "subcategory: cargo trousers",
       "brand: JW ANDERSON",
       "colour: Khaki",
       "condition: Never worn",
-      "Description: JW ANDERSON men's cargo pants. A contemporary take on a utilitarian classic. These striking pants feature a versatile khaki hue, perfect for modern styling. Designed with multiple functional pockets, they offer both convenience and an edgy aesthetic. This piece is in never-worn condition, presenting a pristine feel. Sold by a valued member of our VIP community, its authenticity and quality have been meticulously checked. In stock in our French warehouse, ready for swift dispatch within 24 hours."
+      "Description: Contemporary khaki cargo trousers by JW Anderson. These trousers are designed for a relaxed and modern fit. They feature utilitarian details, including multiple flap pockets on the legs, characteristic of cargo styling. Finished with a classic button and zip fly closure. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: men",
@@ -987,7 +980,7 @@
       "SIZE: 48 IT",
       "PRODUCT_DESCRIPTION_EN: Khaki multi-textured fabric cargo trousers. Palladium-color brass accessories. Beige and brown resin branded buttons on the flat belt and flap pockets. Buckled belt at waist and hem. Italian pockets. Patch pockets at back. Ankle length.\nComposition: 100% cotton. Made in Italy. Size 48. Waist 45 cm, length 93 cm.\nDetails: a few slight and small marks in places."
     ],
-    "Title": "JW ANDERSON men Khaki"
+    "Title": "JW ANDERSON Khaki cargo trousers"
   },
   {
     "images": [
@@ -998,16 +991,15 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: trousers",
+      "subcategory: Wide-leg trousers",
       "material: Viscose",
-      "exact Material Composition: Tessuto: 100% Viscosa/Viskose/Rayon; Fodera: 100% Cotone/Baumwolle/Cotton",
+      "exact Material Composition: Tessuto: 100% Viscosa/Viscose/Rayon. Fodera: 100% Cotone/Baumwolle/Cotton.",
       "other Materials 1: Cotton",
       "brand: EMILIO PUCCI",
       "colour: Multicoloured",
-      "model: 62RT03",
       "condition: Very good condition",
       "Country of Origin: IT",
-      "Description: Contemporary trousers, model 62RT03, from Emilio Pucci. Crafted from luxurious viscose. These rare trousers feature an iconic multicoloured abstract print, instantly recognisable as Pucci's signature. The flowy wide-leg design offers an elegant silhouette. They are lined with soft cotton for ultimate comfort. Details include two discreet side pockets and a flat front waistband with a concealed zip and button closure. No label size. Composition: 100% Viscose; Lining: 100% Cotton. Dimensions: (Please refer to measurements if available). Condition: Very good condition. Sold by [Seller Name], a member of our VIP community. Authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary EMILIO PUCCI wide-leg trousers. Crafted from a luxurious 100% viscose. These trousers feature a vibrant, multicoloured abstract print, emblematic of the brand's iconic design. Perfect for casual outings, they offer both comfort and sophisticated style. Fully lined in 100% cotton for a flawless drape. Made in Italy.Composition: 100% Viscose. Lining: 100% Cotton.Condition: Very good condition.Notes: None."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1020,7 +1012,7 @@
       "SIZE: S International",
       "PRODUCT_DESCRIPTION_EN: Emilio Pucci straight leg trousers. Multicolour watercolour stripe detail trousers with slip pockets to the side. Button and zip closure to the front.  100% Viscose. Made in Italy.\nSize: S. Measurements: Waist: 39cm, Hip: 43cm, Inseam: 63cm, Length: 87cm.\nNote: Missing size tag. Please view measurements carefully. Stain to the front of the trousers.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "EMILIO PUCCI women Multicoloured Viscose"
+    "Title": "EMILIO PUCCI Viscose wide-leg trousers"
   },
   {
     "images": [
@@ -1031,11 +1023,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: Trousers",
+      "subcategory: trousers",
       "brand: Chloe",
       "colour: Black",
-      "condition: Never worn",
-      "Description: Discover these exquisite Chloe black trousers. A true representation of sophisticated style. This piece embodies timeless elegance, designed for the discerning buyer.\n\nThese trousers feature a flattering high-waisted silhouette. They are crafted with a concealed front zip and hook closure for a seamless look. Two discreet side slip pockets add functionality without compromising the sleek design. The tailored cut ensures a beautiful drape.\n\nThis versatile item is in impeccable, new-with-tags condition. It boasts no flaws, presenting a rare opportunity to acquire a pristine piece. Perfect for elevated everyday wear or chic evening ensembles.\n\nSize: Not specified. Composition: Not specified.\n\nSold by Our Seller, a valued member of our VIP community. Authenticity and quality are thoroughly checked. This item is in stock in our French warehouse, ready for shipment within 24 hours."
+      "condition: Very good condition",
+      "Description: Contemporary black trousers by Chloe. Elegant and versatile, designed for business settings. They feature a sophisticated straight-leg cut, offering a refined silhouette. These timeless trousers are equipped with practical side pockets and a concealed front closure, ensuring a sleek finish. Condition: Very good condition."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1049,7 +1041,7 @@
       "COUNTRY_OF_ORIGIN_ACTUAL: BG",
       "PRODUCT_DESCRIPTION_EN: Black stretch slim trousers. Flat belt with loops and hook closure. Hidden zip closure and Italian pockets on front. Piped pockets at back.\n\nComposition: 95% wool, 5% elastane.\n\nMade in Bulgaria.\n\nSize 36. Waist width 38 cm, length 106 cm.\n\nNotes: slight tiny marks on inner crotch. A few barely visible marks in other places. A few tiny pulled threads.\n\nThis item has been curated through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "Chloe women Black"
+    "Title": "CHLOE trousers"
   },
   {
     "images": [
@@ -1060,12 +1052,12 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: leggings",
+      "subcategory: Leggings",
       "brand: FENDI",
       "colour: Black",
       "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Contemporary FENDI leggings. These chic leggings embody modern luxury. They are crafted for a sleek, flattering silhouette. The design features a versatile black hue. This exclusive piece is new with tags. Size: Not specified. Composition: Not specified. Dimensions: Not specified. Sold by Our trusted seller, a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary Fendi leggings. Black color. Designed for athletic activities. Crafted in Italy. These sleek leggings embody Fendi's luxurious aesthetic for activewear. No label size. No composition label. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1078,7 +1070,7 @@
       "SIZE: 44 IT",
       "PRODUCT_DESCRIPTION_EN: FENDI Black Cut Off Leggings\n\nDesigned with a FF monogram down either side seam , tonal black circular branding to the left hip and a high waistband.\n\nSize: IT44\nMeasurements: 35cm Waist , 89cm Length\nComposition: 75% Polyamide , 25% Elastane\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "FENDI women Black"
+    "Title": "FENDI Leggings"
   },
   {
     "images": [
@@ -1092,8 +1084,8 @@
       "subcategory: Trousers",
       "brand: JOSEPH",
       "colour: Black",
-      "condition: Very good condition",
-      "Description: Contemporary black trousers by JOSEPH in a premium virgin wool blend. These trousers epitomize modern elegance. They are crafted for a fluid drape and a refined silhouette. They feature a sophisticated high-waisted, straight-leg design, offering a flattering and elongated look. The rich black hue ensures versatility and effortless chic. Details include a discreet front zip and hook closure, with two subtle slant pockets. The trousers are fully lined for ultimate comfort and a smooth fit. Size FR 36 / US 4. Composition: 96% Virgin Wool, 4% Elastane. Dimensions: Total length 105 cm, Waist width 35 cm, Crotch length 30 cm, Leg width at hem 20 cm. Condition: Very good condition. Sold by Our VIP Seller, a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "condition: Never worn",
+      "Description: These elegant black trousers from JOSEPH offer a sophisticated addition to any wardrobe. A truly timeless piece, perfect for versatile styling. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1106,7 +1098,7 @@
       "SIZE: 36 IT",
       "PRODUCT_DESCRIPTION_EN: Joseph Double satin trousers. Straight leg cargo trousers with button closure and buckle closure to the front. 70% Acetate,26% Viscose, 4% Polyurethane. Made in Italy.\nSize: 36IT. Measurements: Waist: 32cm, Hip: 44cm, Inseam: 82cm, Length: 116cm.\nNote: Small stain to the waistband.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "JOSEPH women Black"
+    "Title": "JOSEPH Trousers"
   },
   {
     "images": [
@@ -1119,14 +1111,14 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: flared trousers",
+      "subcategory: Gucci",
       "brand: GUCCI",
       "colour: Navy Blue",
       "condition: Good condition",
-      "defects 1: Grade: Minor, Location: On the fabric of the pant leg, Type: Exterior stains/spots",
-      "defects 2: Grade: Minor, Location: Near the waistband, Type: Exterior stains/spots",
+      "defects 1: Grade: Minor, Location: On the lower front leg fabric, Type: Exterior stains/spots",
+      "defects 2: Grade: Minor, Location: Near the waistband on the upper front, Type: Exterior stains/spots",
       "Country of Origin: IT",
-      "Description: Contemporary navy blue flared trousers by GUCCI. This elegant piece showcases a sophisticated flared silhouette. It is designed for a flattering, leg-lengthening effect. The trousers feature a high-waisted cut. They are thoughtfully detailed with a concealed front zip and hook closure. Practical belt loops offer versatility. Two functional side pockets and two refined back welt pockets provide subtle utility. The piece is unlined for a smooth, comfortable drape. No additional elements accompany this item. Size: Not specified. Composition: Not specified. Dimensions: Not specified. Condition: Good condition. Notes: Minor exterior stains are present on the fabric of the pant leg. Additional minor stains are visible near the waistband. Sold by a valued member of our VIP community. Authenticity and quality have been meticulously checked. This item is in stock in our Italian warehouse, ready for shipment within 24 hours."
+      "Description: Contemporary tailored trouser by GUCCI. This Navy Blue piece offers a refined, classic silhouette. Ideal for a business wardrobe. Features a classic waistband with belt loops, and side slit pockets. Condition: Good condition. Notes: Minor exterior stains/spots on the lower front leg fabric. Minor exterior stains/spots near the waistband on the upper front."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1139,7 +1131,7 @@
       "SIZE: 38 FR",
       "PRODUCT_DESCRIPTION_EN: Gucci Navy Trouser\nDesigned with loose leg tailoring, side pockets, belt loops and a zip fly closure.\nSize: FR38\nComposition: 97% Viscose , 3% Elastane\nMeasurements: 36.5cm Waist , 98cm Length\nNote: Two small stains to the front.\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "GUCCI women Navy Blue"
+    "Title": "GUCCI Trouser"
   },
   {
     "images": [
@@ -1150,11 +1142,11 @@
     "estimated": [
       "gender: women",
       "category: clothing",
-      "subcategory: Track pants",
+      "subcategory: Flared Track Pants",
       "brand: Palm Angels",
       "colour: Black",
-      "condition: Very good condition",
-      "Description: Contemporary black track pants by Palm Angels. Crafted from a premium technical fabric. These highly sought-after essentials offer a blend of luxury and comfort. They feature a sleek, relaxed silhouette. An elasticated waistband ensures an effortless fit. The iconic white side stripes define their signature style. Two practical side slip pockets enhance functionality. Not sold with additional elements. Size S/36. Composition: 100% Polyester. Dimensions: Waist 34 cm, Inseam 75 cm, Length 100 cm. Condition: Very good condition. No visible flaws. Sold by VIP Member, a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "condition: Never worn",
+      "Description: Contemporary Flared Track Pants by Palm Angels. These iconic black track pants feature the brand's signature white side stripes. Designed with a flattering flared leg silhouette. An elasticated waistband ensures a comfortable fit. Equipped with side pockets. Condition: Never worn. No label size."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1167,7 +1159,7 @@
       "SIZE: XS International",
       "PRODUCT_DESCRIPTION_EN: Black velvet trousers. Elasticated waist. White signature embroidery on the front. Ecru stripe on the side. Composition: 80% cotton, 18% polyamide, 2% elastane. Size: XS international. Dimensions: 31cm (waist width) x 40cm (hip width) x 25cm (inseam length) x 104cm (length) x 24cm (bottom width). Made in Italy. Note: very slight marks at the waist due to the hanger."
     ],
-    "Title": "Palm Angels women Black"
+    "Title": "PALM ANGELS Flared Track Pants"
   },
   {
     "images": [
@@ -1178,10 +1170,11 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: trousers",
+      "subcategory: Joggers",
+      "brand: Rick Owens",
       "colour: Black",
       "condition: Very good condition",
-      "Description: A classic pair of men's trousers crafted from a premium wool blend. This elegant black slim-fit design offers a sophisticated silhouette. It features a mid-rise waist with practical belt loops. The front is secured with a discreet zip and hook closure. Two seamless side slip pockets and two back welt pockets enhance its refined utility. The trousers are partially lined for comfort and a smooth drape. Made in Italy. Size: 48 IT. Composition: 98% Wool, 2% Elastane. Dimensions: Total length: 105 cm, Waist width: 44 cm, Inseam: 80 cm, Leg opening: 18 cm. Condition: Very good condition. Sold by a valued member of our VIP community. Authenticity and quality have been rigorously checked. This exclusive piece is in stock in our French warehouse. It ships within 24 hours."
+      "Description: Contemporary. Men's joggers by Rick Owens. These black joggers embody the designer's distinctive avant-garde aesthetic. Crafted from a comfortable fabric, they feature an elasticated waistband with a drawstring closure. The design includes practical side pockets and a modern tapered leg silhouette. A versatile piece perfect for casual outings or elevated streetwear ensembles. Material: Not specified. Condition: Very good condition. No noted defects."
     ],
     "ground_truth": [
       "UNIVERSE: men",
@@ -1194,7 +1187,7 @@
       "SIZE: Not specified International",
       "PRODUCT_DESCRIPTION_EN: Rick Owens black pants. Elasticated waistband with drawstring. Back pockets with velcro strap.\nSize tag is missing.\nMeasurements: Waist 16.5in, Length 41.5in\n\nPlease note: Size and composition tags are missing."
     ],
-    "Title": "men Black"
+    "Title": "RICK OWENS Joggers"
   },
   {
     "images": [
@@ -1210,7 +1203,7 @@
       "colour: Off White",
       "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Contemporary trousers by BRUNELLO CUCINELLI. These off-white trousers embody timeless sophistication. They feature a sleek, tailored straight-leg fit. The mid-rise design offers a flattering silhouette. Details include classic belt loops and discreet side pockets. A hidden zip and hook closure ensures a clean front. These trousers are a versatile wardrobe staple. Size: Not specified. Condition: Never worn. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French / American / UK warehouse, shipped in 24h."
+      "Description: Contemporary trousers by BRUNELLO CUCINELLI. These elegant trousers are presented in a refined Off White shade. Crafted in Italy, they are perfect for business settings, showcasing the brand's renowned quality. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1223,7 +1216,7 @@
       "SIZE: 42 IT",
       "PRODUCT_DESCRIPTION_EN: Beige viscose carrots pants. Hidden hook and zip fly closure on the front. Italian pockets. Loops on the waist. Marked pleats on the front and the back. Back piped pockets. Composition: 55% viscose, 45% wool. Size: 42 IT. Measurement: 38cm (waist width) x 46cm (hips width) x 33cm (crotch length) x 98cm (length) x 16cm (bottom width). Made in Italy. Note: bottom hem leg slightly unstitched."
     ],
-    "Title": "BRUNELLO CUCINELLI women Off White"
+    "Title": "BRUNELLO CUCINELLI trousers"
   },
   {
     "images": [
@@ -1233,14 +1226,16 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Louis Vuitton Perforated Scarf",
       "material: Cashmere",
       "exact Material Composition: 100% CASHMERE",
-      "brand: Louis Vuitton",
+      "brand: LOUIS VUITTON",
       "colour: Black",
-      "condition: Very good condition",
+      "condition: Good condition",
+      "defects 1: Grade: Minor, Location: General surface of the fabric, particularly around the label, Type: Pilling",
+      "defects 2: Grade: Minor, Location: Overall fabric, Type: Washed or Worn",
       "Country of Origin: IT",
-      "Description: Contemporary scarf by Louis Vuitton. This exquisite accessory is crafted from 100% premium cashmere. The timeless black hue enhances its luxurious appeal. It offers unparalleled softness and versatile styling, perfect for elegant layering. Made in Italy. Composition: 100% Cashmere. Condition: Very good condition. Sold by a valued member of our VIP community. Authenticity and quality have been meticulously checked. In stock in our French warehouse, shipped in 24h."
+      "Description: Black cashmere perforated scarf by LOUIS VUITTON. Crafted from luxurious 100% cashmere. This elegant accessory features a distinctive perforated design. Made in Italy. Composition: 100% Cashmere. Condition: Good condition. Notes: Minor pilling visible on the general surface of the fabric, especially around the label. Slight signs of wear consistent with use on the overall fabric."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1252,7 +1247,7 @@
       "CONDITION: Very good condition",
       "PRODUCT_DESCRIPTION_EN: Louis Vuitton scarf in black cashmere. Fringe ends. Made in Italy.\nMeasurements: Length 74.5, Width 14in\nComposition: 100% Cashmere"
     ],
-    "Title": "Louis Vuitton women Black Cashmere"
+    "Title": "LOUIS VUITTON Cashmere Scarf"
   },
   {
     "images": [
@@ -1265,13 +1260,12 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Carré",
       "brand: Hermès",
       "colour: Blue",
-      "model: Cornette de la Galere Patronne de France",
       "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: on the main blue body of the scarf, near the top center fold, Type: Exterior stains/spots",
-      "Description: Contemporary blue silk scarf, \"Cornette de la Galere Patronne de France\" model, by Hermès. This exquisite square scarf features a vibrant blue background, bringing a timeless elegance to any ensemble. It showcases the intricate \"Cornette de la Galere Patronne de France\" pattern, a rich narrative piece from Hermès. Hand-rolled edges enhance its luxurious feel and enduring quality. Size: Classic square format. Composition: 100% silk. Condition: Very good condition. Notes: Minor exterior stain on the main blue body, near the top center fold. Sold by a member of our VIP community. Authenticity and quality are already checked. In stock in our French warehouse. Shipped in 24h."
+      "defects 1: Grade: Minor, Location: Faint light spot near the center of the blue fabric shown in the close-up image., Type: Discolouration",
+      "Description: Contemporary Hermès Carré. This iconic square scarf is crafted from exquisite silk, featuring a vibrant blue hue and an intricate, signature pattern. A versatile accessory, perfect for elevating any ensemble.\nComposition: 100% Silk.\nCondition: Very good condition.\nNotes: Faint light spot near the center of the blue fabric."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1283,7 +1277,7 @@
       "CONDITION: Very good condition",
       "PRODUCT_DESCRIPTION_EN: Hermés"
     ],
-    "Title": "Hermès women Blue"
+    "Title": "HERMÈS Silk Carré"
   },
   {
     "images": [
@@ -1297,14 +1291,16 @@
       "category: accessories",
       "subcategory: Scarf",
       "material: Cashmere",
-      "exact Material Composition: 74% CACHEMIRE 24% SOIE 1% POLYAMIDE 1% FIBRE METALLIC",
+      "exact Material Composition: 74% CACHEMIRE, 24% SOIE SILK, 1% POLYAMIDE, 1% FIBRE METALLIC",
       "other Materials 1: Silk",
       "other Materials 2: Polyamide",
+      "other Materials 3: Lurex",
       "brand: CHANEL",
       "colour: Grey",
       "condition: Very good condition",
+      "defects 1: Grade: Minor, Location: Throughout the fabric surface, Type: Pilling",
       "Country of Origin: IT",
-      "Description: Contemporary Scarf by CHANEL. This luxurious accessory is crafted from the finest Cashmere. It features a sophisticated grey color. The exquisite blend of cashmere and silk offers unparalleled softness. Subtle metallic fibers are woven throughout, adding a refined shimmer. This versatile piece elevates any ensemble. Composition: 74% Cashmere, 24% Silk, 1% Polyamide, 1% Metallic Fiber. Condition: Very good condition. No noted flaws. Sold by a member of our VIP community. Authenticity and quality already checked. In stock in our warehouse. Shipped in 24h."
+      "Description: A luxurious Grey Scarf by CHANEL. Crafted from a sumptuous blend of cashmere and silk, this accessory offers unparalleled softness and elegance. The timeless grey hue ensures versatile styling. Perfect for casual occasions. Size: One size. Composition: 74% Cashmere, 24% Silk. Condition: Very good condition. Notes: Minor pilling throughout the fabric surface."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1316,7 +1312,7 @@
       "CONDITION: Very good condition",
       "PRODUCT_DESCRIPTION_EN: Cashmere and Silk Mix Scarf by CHANEL Paris\n\nA simply beautiful dark grey knit outlined with a dove grey, slightly metallic trim.\nA knitted double C can be found at one end in the metallic dove grey.\n\nComposition: 74% Cashmere , 24% Silk , 1% Polyamide , 1% Metallic Fibre\n\n190 x 70 cm\n\nSold without any original packaging.\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "CHANEL women Grey Cashmere"
+    "Title": "CHANEL Cashmere Scarf One Size"
   },
   {
     "images": [
@@ -1329,12 +1325,11 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: Twilly",
-      "brand: HERMÈS",
+      "subcategory: Mille et Un Lapins",
+      "brand: Hermès",
       "colour: Multicoloured",
-      "model: MILLE ET UN LAPINS",
       "condition: Never worn, with tag",
-      "Description: Contemporary HERMÈS MILLE ET UN LAPINS Twilly. Crafted from exquisite fine silk. This vibrant, multicoloured accessory showcases a whimsical illustrative print. It features signature hand-rolled edges. Size: One Size. Dimensions: Approx. 86 cm length, 5 cm width. Composition: 100% Silk. Condition: Never worn, with tag. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary accessory. This Hermès scarf features the enchanting \"Mille et Un Lapins\" print. It is a famous multicoloured design. The pattern depicts a charming array of rabbits. This luxurious accessory is crafted from silk. It is a versatile square scarf. Condition: Never worn, with tag."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1347,7 +1342,7 @@
       "CONDITION: Never worn, with tag",
       "PRODUCT_DESCRIPTION_EN: \"Mille et un Lapins\" twilly in grey silk twill with pink, orange and yellow details depicting whimsical rabbits, horses and birds. Colourway 06 Gris Perle / Rose / Jaune. Made in France. Sold with box.\r\nMeasurements: length 86cm, width 5cm.\r\nComposition: 100% silk"
     ],
-    "Title": "HERMÈS women Multicoloured"
+    "Title": "HERMÈS Silk scarf"
   },
   {
     "images": [
@@ -1358,7 +1353,7 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Scarf",
       "material: Silk",
       "exact Material Composition: 100% Soie - Silk - Seda",
       "brand: DIOR",
@@ -1366,7 +1361,7 @@
       "condition: Never worn",
       "label Size: U",
       "Country of Origin: IT",
-      "Description: Contemporary scarf from DIOR. Crafted from luxurious silk. This exquisite accessory features an elegant beige hue. Adorned with an iconic House motif print. It is designed for versatile styling. The scarf showcases impeccable hand-rolled edges. Size U. Composition: 100% Silk. Condition: Never worn. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French/American/UK warehouse, shipped in 24h."
+      "Description: Contemporary scarf by DIOR. Crafted in luxurious silk. This elegant piece features a timeless beige hue. Made in Italy. Size: U. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1378,7 +1373,7 @@
       "CONDITION: Very good condition",
       "PRODUCT_DESCRIPTION_EN: Dior Pale Pink Silk Scarf, featuring large tree motif and multicoloured floral design. Made in Italy. Sold without packaging.\nComposition: 100% Silk.\nMeasurements: 90 x 90cm\n\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "DIOR women Beige U Silk"
+    "Title": "DIOR Silk Scarf U"
   },
   {
     "images": [
@@ -1389,12 +1384,12 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Logo Scarf",
       "brand: BALENCIAGA",
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Multicoloured scarf by BALENCIAGA. This accessory features a vibrant multicoloured pattern. Made in Italy. Size: One Size. Composition: Not specified. Dimensions: Not specified. Condition: Never worn. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary Balenciaga Logo Scarf. Crafted from a luxurious multicoloured textile, this striking accessory features a prominent logo pattern. It embodies the brand's contemporary aesthetic, perfect for adding a chic touch to casual looks. Condition: Never worn. Notes: No defects."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1406,7 +1401,7 @@
       "CONDITION: Very good condition",
       "PRODUCT_DESCRIPTION_EN: Black and red reversible wool scarf. Signature Jacquard on all over.  Composition: 100% wool. Measurement: 40cm (width) - length: 240cm. Comes from a private sales. Made in Italy. No packaging."
     ],
-    "Title": "BALENCIAGA women Multicoloured"
+    "Title": "BALENCIAGA Logo Scarf"
   },
   {
     "images": [
@@ -1422,7 +1417,7 @@
       "colour: Multicoloured",
       "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Contemporary LOEWE women's scarf. This exquisite accessory showcases a vibrant multicoloured artistic pattern. It embodies the brand's iconic design aesthetic. The scarf features meticulous hand-rolled edges, affirming its luxurious quality. Made in Italy, this piece is in never-worn condition, presenting no flaws. Sold by a trusted member of our VIP community, this LOEWE scarf has undergone rigorous authenticity and quality checks. It is in stock in our European warehouse, ready for immediate shipment within 24 hours."
+      "Description: Contemporary multicoloured scarf by LOEWE. This vibrant accessory is perfect for adding a chic touch to any casual ensemble. Made in Italy. Condition: Never worn."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1434,7 +1429,7 @@
       "CONDITION: Never worn",
       "PRODUCT_DESCRIPTION_EN: Loewe Scarf. Beige scarf with multicolour Loewe monogram throughout. Tasseled edges. 73% Wool, 20% Silk, 7% Cashmere. Made in Italy.\nThis item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
     ],
-    "Title": "LOEWE women Multicoloured"
+    "Title": "LOEWE Scarf"
   },
   {
     "images": [
@@ -1446,12 +1441,11 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Scarf",
       "brand: Chloé",
       "colour: Navy Blue",
-      "model: CHC25ST073CSK4C8",
-      "condition: Never worn, with tag",
-      "Description: Contemporary scarf from Chloé. Model CHC25ST073CSK4C8. Main material information is not provided. This exquisite scarf is rendered in a deep Navy Blue, offering a versatile and chic accent. No specific pattern or embellishments are detailed. This item is sold with its original tag. Size information is not provided. Material composition details are not available. Dimensions for this scarf are not provided. Condition: Never worn, with tag. No defects are noted. Sold by a valued member of our VIP community. Authenticity and quality have been thoroughly checked. This item is in stock in our French warehouse and is ready to be shipped within 24 hours."
+      "condition: Never worn",
+      "Description: Contemporary Scarf by Chloé. This elegant accessory features a classic Navy Blue hue. Perfect for casual outings, it adds a touch of sophistication to any look. Condition: Never worn. Notes: None."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1463,7 +1457,7 @@
       "CONDITION: Very good condition",
       "PRODUCT_DESCRIPTION_EN: Chloe scarf in navy blue wool-cashmere blend. Gold-toned stud embellishments. Ribbed ends. Made in Italy.\nMeasurements: Length 80in, Width 8.25in\nComposition: 90% Wool, 10% Cashmere"
     ],
-    "Title": "Chloé women Navy Blue"
+    "Title": "CHLOÉ Scarf"
   },
   {
     "images": [
@@ -1475,15 +1469,15 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: Scarf",
+      "subcategory: Twilly",
       "material: Silk",
-      "exact Material Composition: 100% SILK",
-      "brand: Herm\n\n\n\nès",
+      "exact Material Composition: 100% Silk",
+      "brand: Hermes",
       "colour: Multicoloured",
-      "model: BRIDES de GALA",
-      "condition: Never worn, with tag",
+      "model: Brides de Gala",
+      "condition: Very good condition",
       "Country of Origin: FR",
-      "Description: Contemporary Hermès BRIDES de GALA scarf in 100% silk. This iconic Hermès design is highly sought after. A vibrant multicoloured square scarf features the timeless \"Brides de Gala\" equestrian pattern. Hand-rolled edges showcase exquisite artisanal quality. Never worn, complete with its original tag. Size: One Size. Composition: 100% Silk. Dimensions: Approximately 90 cm x 90 cm. Condition: Never worn, with tag. No flaws to note. Sold by VIP Collector, a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary Twilly, Brides de Gala model, from Hermes. Crafted from luxurious 100% silk. This vibrant multicoloured twilly features the iconic Brides de Gala print. Made in France. Size: One Size. Composition: 100% Silk. Condition: Very good condition. Notes: No defects."
     ],
     "ground_truth": [
       "UNIVERSE: women",
@@ -1496,7 +1490,7 @@
       "CONDITION: Good condition",
       "PRODUCT_DESCRIPTION_EN: Multicolor silk \"Brides de Gala\" Twilly 86 chocker fron Contemporary Collection. Red and navy stripes. Equestrian pattern. White brand signature. Pointed ends. Made in France. Composition: 100% Silk. Dimensions: 86 x 5 cm. Notes: Slight blackened discoloured mark on the middle edge of the Twilly."
     ],
-    "Title": "Herm\n\n\n\nès women Multicoloured Silk"
+    "Title": "HERMES Silk Twilly"
   },
   {
     "images": [
@@ -1508,19 +1502,18 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: MONOGRAM KNIT",
       "material: Wool",
-      "exact Material Composition: Body / Corps / Cuerpo / Corpo / Оснобная часть / 本体 / 100% Wool / Lã / Lana / Lâ / Шерсть / 羊毛 / صوف",
+      "exact Material Composition: 100% Wool",
       "brand: MARC JACOBS",
-      "colour: Multicoloured",
-      "model: MONOGRAM KNIT",
-      "condition: Never worn, with tag",
-      "label Size: O/S",
+      "colour: Grey",
+      "condition: Never worn",
+      "label Size: 58/64 (O/S)",
       "Country of Origin: BG",
-      "Description: Contemporary scarf, MONOGRAM KNIT model by MARC JACOBS. Crafted from luxurious wool. This multicoloured scarf features an iconic monogram knit pattern. Sold with its original tag. Size: O/S. Composition: 100% Wool. Condition: Never worn, with tag. Sold by a valued member of our VIP community. Authenticity and quality are fully checked. In stock in our UK warehouse, ready to ship in 24h."
+      "Description: Contemporary Grey monogram knit beanie by MARC JACOBS. Crafted from luxurious 100% Wool. This stylish accessory features an eye-catching monogram pattern, perfect for casual outings. Made in BG. Size: 58/64 (O/S). Composition: 100% Wool. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "MARC JACOBS women Multicoloured O/S Wool"
+    "Title": "MARC JACOBS Wool knit beanie O/S"
   },
   {
     "images": [
@@ -1531,18 +1524,17 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: Scarf",
+      "subcategory: Foulard",
       "material: Silk",
-      "exact Material Composition: 100% SETA SOIE",
+      "exact Material Composition: 100% Silk",
       "brand: FENDI",
       "colour: Multicoloured",
-      "model: FENDI ROMA 1925 ITALY",
-      "condition: Very good condition",
+      "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Contemporary Fendi scarf, model FENDI ROMA 1925 ITALY. Crafted from luxurious silk. This iconic piece is a rare find, celebrating Fendi's rich heritage. It features a versatile square shape and a vibrant multicoloured palette. The sophisticated graphic print showcases the FENDI ROMA 1925 ITALY motif. Made in Italy. This silk accessory drapes beautifully. Sold without additional elements. Size: One size. Composition: 100% silk. Dimensions: Please refer to actual product measurements for precise sizing. Condition: Very good condition. No visible flaws. Sold by [Seller Name], a valued member of our VIP community. Authenticity and quality have been meticulously checked. In stock in our French warehouse, ready for shipment within 24 hours."
+      "Description: Contemporary Foulard by Fendi. Crafted from 100% pure silk. This luxurious multicoloured foulard features a vibrant print. Meticulously hand-rolled edges highlight its quality. Made in Italy. Size: One Size. Composition: 100% Silk. Condition: Never worn. Notes: None."
     ],
     "ground_truth": [],
-    "Title": "FENDI women Multicoloured Silk"
+    "Title": "FENDI Silk Foulard One Size"
   },
   {
     "images": [
@@ -1556,15 +1548,20 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Carré",
+      "material: Cotton",
+      "exact Material Composition: 90% Cotton 6% Cashmere 4% Silk",
+      "other Materials 1: Cashmere",
+      "other Materials 2: Silk",
       "brand: Loro Piana",
       "colour: Multicoloured",
+      "model: Lagune Tropicale",
       "condition: Never worn, with tag",
       "Country of Origin: IT",
-      "Description: Contemporary Loro Piana scarf. Crafted from an exquisite cashmere and silk blend. This luxurious accessory is a rare find, presented in pristine, never-worn condition. It showcases an elegant rectangular silhouette. Adorned with a captivating multicoloured pattern, it exudes vibrant sophistication. Sold with its original tag. One Size. Composition: 50% Cashmere, 50% Silk. Condition: Never worn, with tag. Sold by [Seller Name], a member of our VIP community. Authenticity and quality are already checked. In stock in our [French/American/UK] warehouse, shipped in 24h."
+      "Description: Contemporary carré scarf by Loro Piana, Lagune Tropicale model. Crafted from a luxurious cotton blend. This exquisite square scarf features a vibrant multicoloured tropical print, perfect for elevating casual ensembles. Made in Italy.Size: One size.Composition: 90% Cotton, 6% Cashmere, 4% Silk.Condition: Never worn, with tag.Notes: No defects."
     ],
     "ground_truth": [],
-    "Title": "Loro Piana women Multicoloured"
+    "Title": "LORO PIANA Cotton Carré One Size"
   },
   {
     "images": [
@@ -1576,15 +1573,15 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Balenciaga Logo Print",
       "brand: BALENCIAGA",
       "colour: White",
       "condition: Good condition",
-      "defects 1: Grade: Minor, Location: Small light brown spot visible on one side of the scarf, near the center., Type: Exterior stains/spots",
-      "Description: Contemporary scarf from Balenciaga. This white scarf offers versatile styling. It is a timeless accessory. Good condition. Note a small light brown spot visible on one side of the scarf, near the center. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "defects 1: Grade: Minor, Location: A small brown spot on the main body of the scarf, Type: Exterior stains/spots",
+      "Description: Contemporary white scarf from BALENCIAGA. Features an iconic Balenciaga logo print. Condition: Good condition. Notes: A small brown spot on the main body of the scarf."
     ],
     "ground_truth": [],
-    "Title": "BALENCIAGA women White"
+    "Title": "BALENCIAGA Logo Print Scarf"
   },
   {
     "images": [
@@ -1595,17 +1592,18 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Scarf",
+      "material: Cotton",
+      "exact Material Composition: 100% COTTON",
       "brand: BALENCIAGA",
       "colour: Multicoloured",
       "model: World Food Programme",
       "condition: Never worn",
-      "label Size: M",
       "Country of Origin: IT",
-      "Description: Contemporary scarf, the iconic World Food Programme model by Balenciaga. This striking accessory features a vivid multicoloured palette. It showcases the distinctive graphic print, embodying a powerful message. This piece is a size M. It is in never worn condition. Sold by a valued member of our VIP community, authenticity and quality have been meticulously checked. This exceptional item is in stock in our French warehouse, ready for shipment within 24 hours."
+      "Description: Contemporary multicoloured World Food Programme scarf by Balenciaga. Crafted from soft cotton, this statement accessory features a bold graphic print. A versatile piece that adds a pop of colour and unique style to any look. Composition: 100% Cotton. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "BALENCIAGA women Multicoloured M"
+    "Title": "BALENCIAGA Cotton Scarf"
   },
   {
     "images": [
@@ -1616,15 +1614,14 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Scarf",
       "colour: Multicoloured",
-      "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: Minor wear on the surface of the rectangular label, Type: Other signs of wear",
-      "defects 2: Grade: Minor, Location: Minor fraying and pulled threads on the fringes, Type: Pulled threads",
-      "Description: Multicoloured scarf. A versatile and chic accessory. This piece offers a vibrant touch to any look. Its diverse color palette allows for effortless styling.Condition: Very good condition.Notes: Minor wear on the surface of the rectangular label. Minor fraying and pulled threads on the fringes.Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "condition: Good condition",
+      "defects 1: Grade: Minor, Location: Throughout the gold metallic knit, Type: Pulled threads",
+      "Description: This contemporary multicoloured knit scarf is a vibrant accessory, boasting a rich palette of colours subtly interwoven with shimmering metallic threads. Its versatile nature makes it an ideal piece for elevating casual ensembles with a touch of refined glamour.Size: One size.Composition: Knit with metallic threads.Condition: Good condition.Notes: Minor pulled threads are present throughout the gold metallic knit."
     ],
     "ground_truth": [],
-    "Title": "women Multicoloured"
+    "Title": "Knit Scarf One Size"
   },
   {
     "images": [
@@ -1637,15 +1634,16 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: Scarf",
+      "subcategory: scarf",
       "brand: CHANEL",
       "colour: Pink",
-      "condition: Good condition",
-      "defects 1: Grade: Minor, Location: Small, faint stains visible on both the light and dark pink sections of the scarf., Type: Exterior stains/spots",
-      "Description: CHANEL Scarf. This luxurious pink CHANEL scarf epitomizes timeless elegance. Its sophisticated design enhances any look. The refined accessory is presented in good condition. Small, faint stains are visible on both the light and dark pink sections. Sold by a member of our VIP community. Authenticity and quality are already checked. In stock in our French warehouse, shipped in 24h."
+      "condition: Very good condition",
+      "defects 1: Grade: Minor, Location: Small spot on the lighter pink section visible in image 3, Type: Exterior stains/spots",
+      "defects 2: Grade: Minor, Location: Small spot on the darker pink section near the 'H' of the logo visible in image 5, Type: Exterior stains/spots",
+      "Description: Pink scarf by CHANEL. This sophisticated accessory features a chic two-tone design. Adorned with the iconic CHANEL logo, it is perfect for casual outings. One size. Condition: Very good condition. Notes: Minor exterior spot on the lighter pink section. Small spot on the darker pink section near the 'H' of the logo."
     ],
     "ground_truth": [],
-    "Title": "CHANEL women Pink"
+    "Title": "CHANEL scarf One size"
   },
   {
     "images": [
@@ -1658,14 +1656,14 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: Scarf",
+      "subcategory: Bandeau",
       "brand: LOUIS VUITTON",
       "colour: Multicoloured",
       "condition: Never worn",
-      "Description: Contemporary LOUIS VUITTON scarf. This exquisite piece showcases a vibrant multicoloured design. It is a luxurious and versatile accessory, adding a touch of timeless elegance. One Size. This item is never worn, presented in pristine condition. Sold by ChicTreasures, a valued member of our VIP community. Authenticity and quality are thoroughly checked. In stock in our French warehouse, ready to ship within 24 hours."
+      "Description: Contemporary multicoloured Bandeau from LOUIS VUITTON. Crafted from luxurious silk, this iconic accessory features the vibrant Louis Vuitton monogram print. Its versatile design allows for multiple styling options. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "LOUIS VUITTON women Multicoloured"
+    "Title": "LOUIS VUITTON Silk Bandeau"
   },
   {
     "images": [
@@ -1676,14 +1674,14 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Scarf",
       "brand: Cartier",
       "colour: Pink",
-      "condition: Very good condition",
-      "Description: Contemporary pink Cartier scarf. This exquisite square accessory from Cartier is a statement of refined luxury. It features a vibrant pink hue with a distinctive, intricate pattern. This fine accessory promises to elevate any ensemble.\n\nCondition: Very good condition. No visible defects.\n\nSold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "condition: Never worn",
+      "Description: Contemporary Pink scarf from Cartier. This elegant accessory showcases a striking pink color. Its classic design makes it a versatile addition to any wardrobe. Perfect for casual outings. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "Cartier women Pink"
+    "Title": "CARTIER Scarf"
   },
   {
     "images": [
@@ -1698,11 +1696,11 @@
       "brand: CHANEL",
       "colour: Navy Blue",
       "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: Right side of the patterned section near the bottom, Type: Snags / Pulled thread",
-      "Description: Contemporary accessory, a chic scarf by CHANEL. Material composition not specified. This elegant scarf features a rich navy blue hue. It showcases a refined patterned section, reflecting CHANEL's iconic design aesthetic. One Size. Dimensions not specified. Very good condition. Minor snag on the right side of the patterned section near the bottom. Sold by A trusted seller, a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "defects 1: Grade: Minor, Location: Faint line/crease on the solid dark blue fabric near the patterned end., Type: Storage Marks",
+      "Description: Contemporary scarf by CHANEL. This elegant square accessory is presented in a sophisticated navy blue. It showcases a distinguished patterned design, characteristic of the iconic house, finished with meticulous hand-rolled edges. Ideal for casual outings, adding a luxurious touch to any ensemble. Condition: Very good condition. Notes: Faint line/crease on the solid dark blue fabric near the patterned end, consistent with minor storage marks."
     ],
     "ground_truth": [],
-    "Title": "CHANEL women Navy Blue"
+    "Title": "CHANEL Scarf"
   },
   {
     "images": [
@@ -1716,11 +1714,11 @@
       "subcategory: Scarf",
       "brand: Christian Dior",
       "colour: Pink",
-      "condition: Very good condition",
-      "Description: Contemporary square scarf by Christian Dior. Crafted from luxurious fine silk. This exquisite piece features a beautiful pink hue. Its elegant design showcases the iconic allure of Dior, finished with meticulously hand-rolled edges. A perfect accessory to elevate any ensemble. One Size. Composition: 100% Silk. Dimensions: Approximately 90 cm x 90 cm. Condition: Very good condition. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "condition: Never worn",
+      "Description: Contemporary Scarf by Christian Dior. This elegant accessory, designed for the modern woman, is presented in a charming pink hue. It features meticulously finished edges, showcasing the House's exquisite craftsmanship and attention to detail. A versatile and timeless piece, this scarf is perfect for adding a chic touch to any casual ensemble. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "Christian Dior women Pink"
+    "Title": "CHRISTIAN DIOR Scarf"
   },
   {
     "images": [
@@ -1731,14 +1729,15 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Scarf",
       "brand: Hermès",
       "colour: Multicoloured",
+      "model: Chevalier de l'Artillerie",
       "condition: Never worn",
-      "Description: Hermès multicoloured silk scarf. This luxurious accessory features a vibrant, intricate print. It is an iconic Hermès piece. The scarf is in never worn condition. Size is not labelled. Crafted from 100% silk. Sold by a valued member of our VIP community. Authenticity and quality are already checked. In stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary scarf, model Chevalier de l'Artillerie. From Hermès, crafted from luxurious silk. This exquisite square scarf showcases a vibrant, multicoloured print depicting an intricate equestrian-themed motif. Features hand-rolled edges. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "Hermès women Multicoloured"
+    "Title": "HERMÈS Silk Scarf"
   },
   {
     "images": [
@@ -1751,16 +1750,16 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
-      "brand: Hermes",
+      "subcategory: Scarf",
+      "brand: HERMÈS PARIS",
       "colour: Multicoloured",
-      "model: Les Cles",
+      "model: Les Clés",
       "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: Small white spots on the black border near the top right corner, Type: Exterior stains/spots",
-      "Description: Contemporary scarf, model Les Cles, by Hermès. Crafted from luxurious 100% silk. This highly sought-after piece showcases the iconic 'Les Cles' print. A vibrant multicoloured palette enhances the design. It features finely hand-rolled edges. The scarf is a classic square shape. Dimensions: Approximately 90 cm x 90 cm. Composition: 100% Silk. Condition: Very good condition. Minor flaw: small white spots on the black border near the top right corner. Sold by a valued member of our VIP community. Authenticity and quality have been rigorously checked. This item is in stock in our French warehouse, ready to ship within 24 hours."
+      "defects 1: Grade: Minor, Location: Several small white spots on the black border near one corner, Type: Exterior stains/spots",
+      "Description: Multicoloured silk scarf. Model Les Clés. A timeless piece from HERMÈS PARIS. Crafted in luxurious silk. This iconic square scarf features a vibrant and intricate equestrian-inspired print. Condition: Very good condition. Notes: Several small white spots are present on the black border near one corner."
     ],
     "ground_truth": [],
-    "Title": "Hermes women Multicoloured"
+    "Title": "HERMÈS PARIS Silk Scarf"
   },
   {
     "images": [
@@ -1777,11 +1776,11 @@
       "brand: HERMÈS",
       "colour: Multicoloured",
       "model: Fleurs de Lotus",
-      "condition: Very good condition",
-      "Description: HERMÈS Fleurs de Lotus scarf. This luxurious silk accessory showcases a vibrant multicoloured floral print. The iconic 'Fleurs de Lotus' motif creates an exquisite artistic tableau. It features meticulous hand-rolled edges, a hallmark of Hermès' exceptional craftsmanship. This coveted piece embodies timeless elegance and artistry. Composition: 100% Silk. Condition: Very good condition. This item has been sourced through Vestiaire's Consignment service. It has already been authenticated by Vestiaire's experts and is ready to ship from one of our warehouses."
+      "condition: Never worn",
+      "Description: Contemporary scarf, model Fleurs de Lotus, by Hermès, in silk. This iconic square scarf features a vibrant multicoloured floral print. It is designed with meticulously hand-rolled edges. Composition: 100% silk. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "HERMÈS women Multicoloured"
+    "Title": "HERMÈS Silk Scarf"
   },
   {
     "images": [
@@ -1792,14 +1791,14 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: Scarf",
-      "brand: HERMES",
+      "subcategory: Pleated Scarf",
+      "brand: Hermes",
       "colour: Multicoloured",
-      "condition: Very good condition",
-      "Description: Hermès Scarf. This is an iconic silk twill piece. It boasts a vibrant, multicoloured print. The scarf features meticulous hand-rolled edges. This detail highlights Hermès' exceptional craftsmanship. It is a true statement accessory.\n\nSize: One size.\nComposition: 100% silk.\nDimensions: 90 cm x 90 cm.\nCondition: Very good condition. No visible flaws.\nSold by VIP Seller 123, a member of our VIP community. Authenticity and quality are checked. In stock in our French warehouse. Shipped in 24h."
+      "condition: Never worn",
+      "Description: Contemporary pleated scarf by Hermes. An exquisite accessory crafted from luxurious silk. This elegant piece showcases a vibrant, multicoloured print, typical of Hermes' iconic designs. It offers versatile styling options. One size. Composition: 100% silk. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "HERMES women Multicoloured"
+    "Title": "HERMES Silk Pleated Scarf One Size"
   },
   {
     "images": [
@@ -1810,18 +1809,17 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Early America",
       "material: Silk",
       "exact Material Composition: 100% SOIE",
       "brand: HERMÈS",
-      "colour: Multicoloured",
-      "model: EARLY AMERICA",
+      "colour: Yellow",
       "condition: Very good condition",
       "Country of Origin: FR",
-      "Description: Contemporary scarf, \"Early America\" model by Hermès. Crafted from exquisite silk. This artistic piece features a vibrant multicoloured historical print. It showcases the iconic square shape with meticulously hand-rolled edges. Made in France. Size: One size. Composition: 100% silk. Dimensions: Approximately 90 cm x 90 cm. Condition: Very good condition. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Elevate any ensemble with this exquisite yellow HERMÈS silk scarf. Crafted from 100% pure silk, this luxurious accessory showcases a vibrant 'Early America' themed print, perfect for adding a touch of heritage and color to casual outings. Features impeccable hand-rolled edges, a hallmark of Hermès craftsmanship. One size. Composition: 100% Silk. Condition: Very good condition."
     ],
     "ground_truth": [],
-    "Title": "HERMÈS women Multicoloured Silk"
+    "Title": "HERMÈS Silk scarf"
   },
   {
     "images": [
@@ -1833,15 +1831,14 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
-      "brand: HERMÈS. PARIS",
+      "subcategory: Armes de Chasse",
+      "brand: HERMÈS PARIS",
       "colour: Multicoloured",
-      "model: ARMES DE CHASSE",
-      "condition: Very good condition",
-      "Description: Contemporary HERMÈS. PARIS scarf, model ARMES DE CHASSE. This exquisite accessory features a vibrant multicoloured print. It showcases the iconic 'ARMES DE CHASSE' design. Its generous square shape allows for versatile styling. The rich colour palette with intricate details makes it a true statement item. A timeless piece, it adds sophistication to any ensemble. Size: One Size. Composition: Not provided. Dimensions: Not provided. Condition: Very good condition, no visible flaws. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French / American / UK warehouse, shipped in 24h."
+      "condition: Never worn",
+      "Description: Contemporary multicoloured accessory by HERMÈS PARIS. This exquisite piece showcases the iconic 'Armes de Chasse' motif, a testament to HERMÈS' rich heritage and artistic excellence. The vibrant palette and intricate detailing make it a sophisticated collectible. Ideal for enhancing a professional look or as a cherished decorative item. Condition: Never worn. Notes: None."
     ],
     "ground_truth": [],
-    "Title": "HERMÈS. PARIS women Multicoloured"
+    "Title": "HERMÈS PARIS Armes de Chasse"
   },
   {
     "images": [
@@ -1852,14 +1849,14 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: Scarf",
+      "subcategory: scarf",
       "brand: CHANEL",
       "colour: Multicoloured",
       "condition: Very good condition",
-      "Description: Contemporary CHANEL Scarf. Silk. This exquisite scarf showcases a vibrant multicoloured print, a testament to CHANEL's iconic design. It is a coveted accessory, embodying luxurious style and sophisticated artistry. This piece is perfect for adding a chic touch to any look. One Size. Composition: 100% Silk. Very good condition. Sold by [Seller Name], a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: This captivating multicoloured scarf is an exquisite accessory from the iconic house of CHANEL. Crafted from luxurious silk, it features a vibrant, eye-catching print. This elegant piece is perfect for adding a touch of timeless sophistication to any casual ensemble.Composition: 100% Silk.Condition: Very good condition."
     ],
     "ground_truth": [],
-    "Title": "CHANEL women Multicoloured"
+    "Title": "CHANEL Silk scarf"
   },
   {
     "images": [
@@ -1871,14 +1868,13 @@
       "gender: women",
       "category: accessories",
       "subcategory: Scarf",
-      "brand: HERMÈS PARIS",
+      "brand: Herm\nThe JSON is:```json{",
       "colour: Multicoloured",
-      "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: Edges of the scarf, Type: Storage Marks",
-      "Description: Multicoloured Hermès Paris scarf. This iconic accessory embodies Parisian chic. It features a vibrant, artistic pattern. The design is rich with intricate details. It boasts hand-rolled edges, a hallmark of Hermès craftsmanship. This piece is in very good condition. Minor storage marks are noted on the edges of the scarf. Sold by a member of our VIP community, authenticity and quality already checked. In stock in our French warehouse, shipped in 24h."
+      "condition: Never worn",
+      "Description: Contemporary Hermès scarf. Crafted in luxurious silk. This multicoloured accessory features a vibrant, iconic print. A timeless piece from the prestigious Hermès house. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "HERMÈS PARIS women Multicoloured"
+    "Title": "HERMÈS Silk Scarf"
   },
   {
     "images": [
@@ -1890,13 +1886,13 @@
       "gender: women",
       "category: accessories",
       "subcategory: Scarf",
-      "brand: Hermes",
+      "brand: Hermès",
       "colour: Blue",
       "condition: Never worn",
-      "Description: Contemporary Hermes Scarf. Crafted from luxurious silk. This exquisite piece features elegant blue hues. It showcases an intricate, iconic Hermes equestrian motif. The scarf boasts impeccable hand-rolled edges. It bears the distinctive Hermes signature. This item is never worn. It is in new with tags condition. Size: 90 x 90 cm. Composition: 100% Silk. Dimensions: 90 x 90 cm. Sold by a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped within 24h."
+      "Description: Hermès scarf. Crafted from luxurious silk. This contemporary piece features a vibrant graphic print in shades of blue. An exquisite accessory perfect for everyday wear.Composition: 100% Silk.Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "Hermes women Blue"
+    "Title": "HERMÈS Silk Scarf"
   },
   {
     "images": [
@@ -1907,15 +1903,15 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
-      "brand: Hermes",
+      "subcategory: Scarf",
+      "brand: HERMÈS",
       "colour: Multicoloured",
       "model: ETRIERS",
-      "condition: Very good condition",
-      "Description: Contemporary Hermes scarf, ETRIERS model. Crafted from luxurious silk. This iconic multicoloured print showcases the brand's equestrian heritage. Square silhouette with meticulously hand-rolled edges. Presented with its original Hermes box. One size. Composition: 100% Silk. Dimensions: Length 90 cm, Width 90 cm. Condition: Very good condition. Sold by a valued member of our VIP community. Authenticity and quality are fully verified. In stock at our French warehouse, ready for immediate dispatch within 24 hours."
+      "condition: Never worn",
+      "Description: Contemporary Scarf, model ETRIERS, by HERMÈS. Crafted from luxurious silk. This exquisite multicoloured accessory features the iconic 'ETRIERS' equestrian print, a signature design of the house. Vibrant and timeless. Composition: 100% Silk. Condition: Never worn. No defects."
     ],
     "ground_truth": [],
-    "Title": "Hermes women Multicoloured"
+    "Title": "HERMÈS Silk Scarf"
   },
   {
     "images": [
@@ -1930,17 +1926,15 @@
       "gender: women",
       "category: accessories",
       "subcategory: Scarf",
-      "brand: Hermès",
+      "brand: HERMES",
       "colour: Multicoloured",
       "model: Les Tambours",
       "condition: Good condition",
-      "defects 1: Grade: Minor, Location: Scattered small dark spots on the green fabric, Type: Exterior stains/spots",
-      "defects 2: Grade: Minor, Location: General signs of use throughout the fabric, Type: Washed or Worn",
-      "Country of Origin: FR",
-      "Description: Contemporary Hermès Les Tambours scarf. This multicoloured silk accessory features an iconic print. The design showcases detailed drums and musical motifs. It is a striking square-shaped piece. This item is One Size. Composition: 100% silk. Condition: Good condition. Minor scattered small dark spots are present on the green fabric. General signs of use are visible throughout the fabric. Sold by a member of our VIP community. Authenticity and quality are already checked. In stock in our French warehouse. Shipped in 24h."
+      "defects 1: Grade: Minor, Location: Scattered small dark spots visible on the green fabric sections of the scarf., Type: Exterior stains/spots",
+      "Description: Timeless HERMES scarf. Model 'Les Tambours'. Crafted from luxurious silk. Features a vibrant multicoloured print depicting drums and musical motifs. This iconic square scarf adds an elegant touch to any ensemble. Perfect for casual outings. One size. Composition: 100% Silk. Condition: Good condition. Notes: Minor scattered small dark spots present on the green fabric sections."
     ],
     "ground_truth": [],
-    "Title": "Hermès women Multicoloured"
+    "Title": "HERMES Silk Scarf"
   },
   {
     "images": [
@@ -1952,15 +1946,14 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
-      "brand: Hermès",
+      "subcategory: Les merises",
+      "brand: Herm\nThe JSON you provided has a syntax error. ",
       "colour: Multicoloured",
-      "model: Les merises",
       "condition: Very good condition",
-      "Description: Contemporary scarf, Les merises model, by Hermès. Crafted from luxurious silk. This iconic Hermès piece features a vibrant, intricate pattern. It showcases meticulously hand-rolled edges, a hallmark of Hermès quality. The multicoloured design brings a rich palette to life. Composition: 100% silk. Condition: In very good condition. Sold by a member of our VIP community. Authenticity and quality have been rigorously checked. This exquisite item is in stock in our French warehouse and ships within 24 hours."
+      "Description: This elegant accessory is a square scarf (carré) by Herm. It features the enchanting \"Les Merises\" design. Crafted from luxurious silk, it showcases a vibrant multicoloured palette. The iconic pattern depicts cherries and botanical elements. Hand-rolled edges reflect the meticulous craftsmanship. Composition: 100% Silk. Condition: Very good condition. Notes: No defects to note."
     ],
     "ground_truth": [],
-    "Title": "Hermès women Multicoloured"
+    "Title": "HERM Silk Les merises Scarf Multicoloured"
   },
   {
     "images": [
@@ -1971,18 +1964,17 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Scarf",
       "material: Silk",
-      "exact Material Composition: 100% SETA SILK-SEDA-SOIE SILK-SEIDA-ШЕЛК",
+      "exact Material Composition: 100% SILK",
       "brand: DOLCE & GABBANA",
       "colour: Multicoloured",
-      "model: FL FN090H",
       "condition: Never worn",
       "Country of Origin: IT",
-      "Description: Contemporary scarf, model FL FN090H, by Dolce & Gabbana. Crafted from 100% silk. This multicoloured silk scarf features a captivating, vibrant print. It offers a touch of opulent Italian design. Size: None. Composition: 100% silk. Dimensions: Not specified. Condition: Never worn. Sold by a valued member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary Multicoloured Scarf by DOLCE & GABBANA. Crafted from luxurious silk. Features a vibrant, eye-catching pattern. Made in Italy. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "DOLCE & GABBANA women Multicoloured Silk"
+    "Title": "DOLCE & GABBANA Silk Scarf"
   },
   {
     "images": [
@@ -1995,18 +1987,16 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Piaff",
       "material: Silk",
-      "exact Material Composition: 100% SOIE",
       "brand: Hermès",
       "colour: Multicoloured",
-      "model: Coup de Fouet",
       "condition: Very good condition",
       "Country of Origin: FR",
-      "Description: Contemporary scarf, the iconic 'Coup de Fouet' model by Hermès, meticulously crafted from luxurious 100% silk. This highly desirable piece showcases a vibrant multicoloured equestrian pattern. Its intricate design and hand-rolled edges highlight the exceptional artisanal quality. No additional packaging is included. Size: One Size. Composition: 100% Silk. Condition: Very good condition. No visible flaws. Sold by a member of our VIP community. Authenticity and quality are already checked. In stock in our French warehouse, shipped within 24 hours."
+      "Description: Hermès Piaff scarf in sumptuous silk. This classic accessory showcases a vibrant multicoloured equestrian print. A timeless piece for casual outings. Composition: 100% Silk. Condition: Very good condition."
     ],
     "ground_truth": [],
-    "Title": "Hermès women Multicoloured Silk"
+    "Title": "HERMÈS Silk Piaff Scarf"
   },
   {
     "images": [
@@ -2017,14 +2007,14 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: Scarf",
+      "subcategory: scarf",
       "brand: GUCCI",
       "colour: Multicoloured",
-      "condition: Very good condition",
-      "Description: This luxurious GUCCI Multicoloured Scarf embodies timeless elegance. It is a versatile and chic accessory. The scarf features vibrant, multicoloured hues. Its soft drape offers luxurious comfort. Size: Not specified. Composition: Material not specified. Condition: Very good condition. Sold by a member of our VIP community. Authenticity and quality are already checked. In stock in our French / American / UK warehouse. Shipped in 24h."
+      "condition: Never worn",
+      "Description: Contemporary multicoloured scarf by GUCCI. This vibrant accessory elevates any smart casual ensemble. Its captivating design reflects the iconic brand aesthetic. Size: Undisclosed. Composition: Undisclosed. Condition: Never worn. Notes: None."
     ],
     "ground_truth": [],
-    "Title": "GUCCI women Multicoloured"
+    "Title": "GUCCI scarf"
   },
   {
     "images": [
@@ -2036,14 +2026,14 @@
       "gender: women",
       "category: accessories",
       "subcategory: Scarf",
-      "brand: HERMÈS - PARIS",
+      "brand: HERMÈS",
       "colour: Blue",
-      "model: DIANE",
-      "condition: Very good condition",
-      "Description: The HERMÈS - PARIS DIANE scarf is an embodiment of enduring luxury. This exquisite accessory, a true design icon from HERMÈS - PARIS, captivates with its signature DIANE pattern in a sophisticated blue hue. It offers an elegant touch to any ensemble. The scarf is presented in very good condition, showing no noted defects. Please note, specific material composition and dimensions are not provided. This highly desirable piece is offered by a valued member of our VIP community. Its authenticity and exceptional quality have been rigorously verified by our expert team. It is in stock at our French warehouse, ensuring dispatch within 24 hours."
+      "model: Diane",
+      "condition: Never worn",
+      "Description: Contemporary silk scarf, the iconic Diane model, by HERMÈS. This luxurious piece is crafted from 100% silk. It features a stunning blue color with a sophisticated HERMÈS print, showcasing the brand's renowned artistry. The scarf is elegantly finished with meticulously hand-rolled edges. Size: One size. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "HERMÈS - PARIS women Blue"
+    "Title": "HERMÈS Silk Scarf"
   },
   {
     "images": [
@@ -2055,13 +2045,13 @@
       "gender: women",
       "category: accessories",
       "subcategory: scarf",
-      "brand: Hermes",
-      "colour: Orange",
-      "condition: Very good condition",
-      "Description: Contemporary Hermès scarf in vibrant orange silk. This iconic accessory showcases a timeless, intricate print. It features meticulously hand-rolled edges, a hallmark of Hermès craftsmanship. This piece is in very good condition. Measuring approximately 90 cm x 90 cm, it is crafted from 100% silk. Sold by a member of our VIP community, its authenticity and quality have been thoroughly checked. In stock in our French warehouse, it is ready to be shipped within 24 hours."
+      "brand: HERMÈS PARIS",
+      "colour: Multicoloured",
+      "condition: Never worn",
+      "Description: Contemporary scarf by HERMÈS PARIS. Crafted from luxurious silk, this multicoloured scarf features an iconic artistic print. Its impeccable design is highlighted by signature hand-rolled edges, showcasing the brand's exquisite craftsmanship. A versatile piece perfect for elevating any casual ensemble. Size: One size. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "Hermes women Orange"
+    "Title": "HERMÈS PARIS Silk scarf One size"
   },
   {
     "images": [
@@ -2072,15 +2062,14 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: Scarf",
-      "brand: Herm\nes",
+      "subcategory: Brides de Gala",
+      "brand: Hermès",
       "colour: Multicoloured",
-      "model: Brides de Gala",
-      "condition: Very good condition",
-      "Description: Contemporary Scarf. Brides de Gala model. By Hermès. Crafted from exquisite silk. This iconic piece is highly coveted. It presents in a vibrant multicoloured palette. The celebrated 'Brides de Gala' equestrian print defines its charm. Meticulously hand-rolled edges showcase artisanal quality. Composition: 100% silk. Condition: Very good condition. Sold by a member of our VIP community. Authenticity and quality are verified. In stock in our French warehouse, shipped in 24h."
+      "condition: Never worn",
+      "Description: Contemporary accessory, Brides de Gala model by Hermès. Crafted from luxurious silk. This exquisite square scarf features a vibrant multicoloured Brides de Gala print. It showcases iconic equestrian themes. Meticulously hand-rolled edges highlight Hermès craftsmanship. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "Herm\nes women Multicoloured"
+    "Title": "HERMÈS Silk Brides de Gala"
   },
   {
     "images": [
@@ -2091,18 +2080,17 @@
     "estimated": [
       "gender: women",
       "category: accessories",
-      "subcategory: scarf",
+      "subcategory: Planifleurs",
       "material: Silk",
       "exact Material Composition: 100% SOIE",
-      "brand: HERMÈS PARIS",
+      "brand: Hermès",
       "colour: Pink",
-      "model: Planifleurs",
       "condition: Never worn",
       "Country of Origin: FR",
-      "Description: A luxurious Hermès Paris Planifleurs scarf in exquisite silk. This iconic accessory is a testament to Hermès' unparalleled artistry. It features a vibrant, intricate Planifleurs design in captivating shades of pink. The edges are meticulously hand-rolled, showcasing exceptional craftsmanship. Made in France. This exquisite piece is presented with its original Hermès box. Composition: 100% Silk. Dimensions: Approximately 90cm x 90cm. Condition: Never worn, flawless. Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Pink silk accessory by Hermès, showcasing the exquisite Planifleurs design. This luxurious piece is crafted from 100% silk. Its vibrant pink hue adds a sophisticated pop of color. Perfect for elegant styling. Made in France. Size: One size. Composition: 100% Silk. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "HERMÈS PARIS women Pink Silk"
+    "Title": "HERMÈS Silk Planifleurs"
   },
   {
     "images": [
@@ -2119,11 +2107,11 @@
       "subcategory: suit",
       "brand: TOM FORD",
       "colour: Brown",
-      "condition: Very good condition",
-      "Description: Contemporary men's suit by Tom Ford. This luxurious brown suit is crafted from a premium fabric blend. It offers a sophisticated silhouette. The jacket features a classic single-breasted design. It is adorned with elegant notched lapels. Long sleeves extend to refined buttoned cuffs. Three flap pockets enhance its tailored appeal. A single chest pocket adds a distinguished touch. The jacket is fully lined for exceptional comfort. The matching trousers are flat-fronted. They boast practical belt loops. Two side pockets and two back welt pockets provide functionality. Size: No size label is present. Please refer to actual garment measurements for precise fit. Composition: Not specified (premium fabric blend). Dimensions: Specific measurements unavailable. Please refer to detailed listing for accurate sizing. Condition: Very good condition. No notable flaws are observed. Sold by [Seller Name], a valued member of our VIP community. Authenticity and quality have been rigorously checked. This exquisite item is in stock in our French warehouse. It ships within 24 hours."
+      "condition: Never worn",
+      "Description: Contemporary men's suit from TOM FORD. This exquisite piece embodies the brand's signature luxury and impeccable tailoring. Presented in a sophisticated brown, it is designed for a distinguished presence in business settings. The jacket boasts classic notched lapels, a structured silhouette, and meticulous hand-finished details, reflecting TOM FORD's commitment to sartorial excellence. The accompanying trousers offer a refined, streamlined fit. This suit is a timeless investment, representing modern elegance and unparalleled craftsmanship. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "TOM FORD men Brown"
+    "Title": "TOM FORD Suit"
   },
   {
     "images": [
@@ -2137,14 +2125,15 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: suit",
+      "subcategory: Suit",
       "brand: Dior",
       "colour: Grey",
+      "model: Dior",
       "condition: Very good condition",
-      "Description: Contemporary men's suit by Dior, crafted from a luxurious wool blend. This classic grey suit features a timeless silhouette. The jacket presents notched lapels, a refined two-button closure, and practical flap pockets. It is fully lined for comfort and structure. The accompanying trousers offer a clean, flat-front design with belt loops, discreet side pockets, and two back pockets. Size: Not specified. Please refer to measurements. Composition: Not specified. Measurements: Available upon request. Condition: Very good condition. No visible defects. Sold by a member of our VIP community. Authenticity and quality have been thoroughly checked. This item is in stock in our French/American/UK warehouse, ready to ship within 24 hours."
+      "Description: Contemporary grey suit from Dior. This impeccably tailored piece embodies classic elegance, perfect for business settings. The jacket features a single-breasted design, notched lapels, and a two-button front closure. It is complete with front flap pockets and a chest pocket, fully lined for a smooth drape. The matching trousers offer a timeless straight-leg cut, belt loops, and practical side and back pockets with a secure zip and hook closure. Its elegant grey hue ensures versatility.Composition: High-quality fabric blend.Condition: Very good condition."
     ],
     "ground_truth": [],
-    "Title": "Dior men Grey"
+    "Title": "DIOR High-quality fabric Suit"
   },
   {
     "images": [
@@ -2161,11 +2150,11 @@
       "subcategory: suit",
       "brand: PRADA",
       "colour: Grey",
-      "condition: Never worn",
-      "Description: Contemporary men's suit by PRADA. Crafted from a luxurious fabric, this piece exemplifies sartorial elegance. The classic grey hue offers versatile styling. The jacket features a single-breasted design with sophisticated notched lapels. It includes a two-button closure and practical flap pockets. The matching trousers are tailored with a straight leg. They offer a clean silhouette with belt loops, a zip and hook closure, convenient side pockets, and neat back pockets. The jacket is fully lined, ensuring comfort and a smooth drape. Size: No label size is indicated for this piece; please refer to detailed measurements for accurate sizing. Composition: Premium fabric blend, ensuring both comfort and durability. Condition: New, never worn. Sold by a valued member of our VIP community. Authenticity and quality are fully checked."
+      "condition: Very good condition",
+      "Description: Contemporary grey suit by PRADA. Crafted from a refined wool blend for a structured, elegant silhouette. The jacket features notched lapels, a two-button closure, and long sleeves with buttoned cuffs. It includes two flap pockets at the front and a single chest pocket, fully lined for comfort and a pristine drape. The matching tailored trousers boast a straight leg, belt loops, side slip pockets, and two back buttoned pockets, secured with a zip and hook front closure. This sophisticated ensemble is perfect for business settings and formal occasions, embodying PRADA's signature understated luxury. Condition: Very good condition. Composition: Wool blend."
     ],
     "ground_truth": [],
-    "Title": "PRADA men Grey"
+    "Title": "PRADA Wool suit"
   },
   {
     "images": [
@@ -2179,15 +2168,15 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: suit",
+      "subcategory: Suit",
       "brand: Dior",
       "colour: Black",
-      "condition: Very good condition",
+      "condition: Never worn",
       "label Size: 46",
-      "Description: Contemporary black suit from Dior. This two-piece set embodies sophisticated tailoring. The jacket features classic notched lapels and a single-breasted button closure. It includes flap pockets and a chest pocket. The interior is fully lined. The matching trousers offer a timeless straight-leg cut with side pockets and back welt pockets. This piece is a true statement of refined menswear.Size: Men's 46.Condition: Very good condition.Sold by a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary suit by Dior. This elegant two-piece suit in black is a timeless garment for men. Perfect for formal occasions. The blazer features a classic notched lapel and a single-breasted front button closure. It includes two flap pockets at the front and a chest pocket. Fully lined for comfort and structure. The matching trousers are tailored with a straight leg. Size: 46. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "Dior men Black 46"
+    "Title": "DIOR Suit 46"
   },
   {
     "images": [
@@ -2204,11 +2193,11 @@
       "subcategory: Suit",
       "brand: DIOR",
       "colour: Grey",
-      "condition: Very good condition",
-      "Description: Contemporary Grey Suit. DIOR by Kim Jones. Crafted from a premium suiting fabric, this ensemble epitomizes modern elegance. The classic single-breasted blazer features sharp notched lapels, a sleek two-button closure, and refined flap pockets. It is expertly tailored and fully lined, ensuring a flawless drape and superior comfort. Matching trousers complete this sophisticated look. Condition: Very good condition. Sold by a valued member of our VIP community. This piece has undergone rigorous authenticity and quality checks by our experts. In stock in one of our global warehouses, it is ready for dispatch within 24 hours."
+      "condition: Never worn",
+      "Description: Contemporary suit, a sophisticated piece by DIOR. This two-piece men's suit is crafted in a refined grey premium suiting fabric, ideal for business settings. The jacket features classic notched lapels, long sleeves with elegant buttoned cuffs, and a sleek button-front closure. It is complete with functional front pockets and a smooth, full lining. The coordinating trousers present a timeless straight-leg silhouette, with standard pockets and a clean front zip and button fastening. Size: Not specified. Composition: Not specified. Condition: Never worn. Notes: None."
     ],
     "ground_truth": [],
-    "Title": "DIOR men Grey"
+    "Title": "DIOR Suit"
   },
   {
     "images": [
@@ -2219,14 +2208,14 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: jumpsuit",
-      "brand: HOMME PLISSE ISSEY MIYAKE",
+      "subcategory: Boiler Suit",
+      "brand: H\nME PLISS\n ISSEY MIYAKE",
       "colour: Black",
-      "condition: Never worn, with tag",
-      "Description: Contemporary black jumpsuit from HOMME PLISSE ISSEY MIYAKE. It is crafted from the brand's iconic signature pleated polyester. This piece offers a fluid, sculptural silhouette. It features a relaxed fit. The design showcases the distinct micro-pleated texture. It has a classic round neckline. A concealed front zip closure ensures a seamless look. Two discreet side pockets add functionality. The garment is unlined, offering lightweight comfort.Size: Not specified.Composition: 100% pleated polyester.Measurements: Not provided.Condition: New with tags. No flaws.Sold by a valued member of our VIP community. Authenticity and quality are fully checked. In stock in our warehouse. Shipped within 24 hours."
+      "condition: Never worn",
+      "Description: Contemporary black boiler suit from H ME PLISS ISSEY MIYAKE. This striking piece is crafted from the brand's iconic pleated technical fabric. It offers exceptional comfort and a distinctive, fluid drape. The suit features a classic collar and a front button closure. Long sleeves with buttoned cuffs complete the design. Two discreet side pockets add functionality. Its versatile design transitions seamlessly from smart casual to modern avant-garde looks. Size: M International. Composition: 100% Polyester. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "HOMME PLISSE ISSEY MIYAKE men Black"
+    "Title": "H ME PLISS ISSEY MIYAKE Pleated Polyester Boiler Suit"
   },
   {
     "images": [
@@ -2241,16 +2230,15 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: suit",
+      "subcategory: Suit",
       "brand: TOM FORD",
       "colour: Navy Blue",
       "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: Visible small specks on the fabric surface, Type: Other signs of wear",
-      "Country of Origin: IT",
-      "Description: This exceptional Navy Blue Suit by TOM FORD embodies sophisticated elegance. It is a testament to unparalleled craftsmanship. The suit is presented in very good condition. It shows only minor, visible small specks on the fabric surface. This exclusive piece is sold by a valued member of our VIP community. Its authenticity and quality have been thoroughly checked. The item is in stock in our French warehouse. It is ready for shipment within 24 hours."
+      "defects 1: Grade: Minor, Location: On the fabric surface, as seen in the close-up image., Type: Pilling",
+      "Description: This sophisticated men's suit by TOM FORD is crafted from a luxurious navy blue fabric. The single-breasted jacket features sharp notched lapels and a two-button front closure. It is designed with long sleeves, buttoned cuffs, and classic flap pockets. The jacket is fully lined for a superior finish. The matching trousers offer a tailored fit, complete with belt loops and functional side pockets. This ensemble is ideal for business settings and formal occasions. Size: Not specified. Composition: Not specified. Condition: Very good condition. Notes: Minor pilling on the fabric surface, as seen in the close-up image."
     ],
     "ground_truth": [],
-    "Title": "TOM FORD men Navy Blue"
+    "Title": "TOM FORD Suit"
   },
   {
     "images": [
@@ -2272,14 +2260,15 @@
       "subcategory: suit",
       "brand: GUCCI",
       "colour: Pink",
-      "condition: Good condition",
-      "defects 1: Grade: Moderate, Location: Back of pants below pockets, Type: Exterior stains/spots",
-      "defects 2: Grade: Minor, Location: Upper left sleeve/shoulder area of jacket, Type: Exterior stains/spots",
+      "condition: Fair condition",
+      "defects 1: Grade: Minor, Location: Faint dark discolouration on the upper left shoulder of the blazer, Type: Discolouration",
+      "defects 2: Grade: Moderate, Location: Brown spot on the right sleeve of the blazer, Type: Exterior stains/spots",
+      "defects 3: Grade: Moderate, Location: Multiple large stains on the upper back of the pants, Type: Exterior stains/spots",
       "Country of Origin: IT",
-      "Description: Contemporary men's suit by Gucci. This unique piece highlights the brand's innovative spirit. The distinguished single-breasted jacket features classic notched lapels. It has long sleeves with buttoned cuffs. A two-button front closure offers a refined look. Two front flap pockets and a single chest pocket are present. The jacket is fully lined. The coordinating straight-leg trousers complete the ensemble. They feature a mid-rise waist with belt loops. A zip fly with hook and button closure ensures a secure fit. Side slip pockets and rear welt pockets add functionality. Presented in a striking pink color, this suit makes a bold statement. It offers unparalleled style. Size not indicated. Composition details unavailable. Dimensions not available. Good condition. Minor stain on the upper left sleeve/shoulder area of the jacket. Moderate stain on the back of the pants below the pockets. Sold by a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary men's suit by GUCCI. This refined two-piece tailored suit comes in an eye-catching pink shade. The blazer features classic notched lapels, long sleeves, and a single-breasted silhouette with front button closures. It is detailed with piped pockets. The matching trousers are designed with a straight leg, a concealed front closure, and practical side and back pockets. Made in Italy. Condition: Fair condition. Notes: Faint dark discolouration on the upper left shoulder of the blazer. Brown spot on the right sleeve of the blazer. Multiple large stains on the upper back of the pants."
     ],
     "ground_truth": [],
-    "Title": "GUCCI men Pink"
+    "Title": "GUCCI Suit"
   },
   {
     "images": [
@@ -2293,15 +2282,15 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: suit",
+      "subcategory: Suit",
       "brand: TOM FORD",
       "colour: Navy Blue",
       "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: Minor flattening of corduroy pile throughout the garment, consistent with general wear., Type: Other signs of wear",
-      "Description: TOM FORD navy blue corduroy suit. This exquisite two-piece suit embodies refined sartorial elegance. The blazer features a classic single-breasted design with notched lapels and flap pockets. The matching trousers present a sleek flat-front silhouette. Fully lined for comfort and a smooth drape. Very good condition. Minor flattening of the corduroy pile is present throughout the garment, consistent with general wear. Sold by a member of our VIP community. Authenticity and quality have been rigorously checked. In stock in one of our warehouses, shipped in 24h."
+      "defects 1: Grade: Minor, Location: Slight flattening of the corduroy nap throughout the garment, consistent with light wear, Type: Other signs of wear",
+      "Description: Contemporary men's suit by TOM FORD. Crafted in a rich navy blue corduroy. The jacket features notched lapels, a two-button closure, and flap pockets. The trousers include belt loops and side pockets. Fully lined. No size label. No composition label. Condition: Very good condition. Notes: Minor flattening of the corduroy nap throughout the garment, consistent with light wear."
     ],
     "ground_truth": [],
-    "Title": "TOM FORD men Navy Blue"
+    "Title": "TOM FORD Corduroy Suit"
   },
   {
     "images": [
@@ -2315,21 +2304,21 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: trousers",
+      "subcategory: Tuxedo Trousers",
       "material: Wool",
-      "exact Material Composition: 55% LANA, 25% POLIAMMIDE, 15% VISCOSA, 5% ELASTAN",
-      "other Materials 1: Polyamide",
-      "other Materials 2: Viscose",
+      "exact Material Composition: ESTERNO - FABRIC: 59% LANA - WOOL - 24% SETA - SILK - 15% POLIAMMIDICA - POLYAMIDE - 2% ELASTANE FODERA - LINING: 100% VISCOSA - VISCOSE",
+      "other Materials 1: Silk",
+      "other Materials 2: Polyamide",
       "other Materials 3: Elastane",
+      "other Materials 4: Viscose",
       "brand: GUCCI",
       "colour: Grey",
-      "condition: Very good condition",
-      "label Size: 7 - 48 R",
-      "Country of Origin: CH",
-      "Description: Contemporary trousers from GUCCI. Crafted from a luxurious wool blend, these men's trousers feature a refined grey hue. They offer a classic straight-leg cut with belt loops. Designed with a front zip and button closure, along with practical side slip pockets and back welt pockets. This piece is in very good condition. Size: Label size 7 - 48 R, equivalent to a men's 32-33 US waist. Composition: 55% Wool, 25% Polyamide, 15% Viscose, 5% Elastane. Dimensions: Waist 43 cm, Inseam 81 cm, Total Length 106 cm, Leg Opening 19 cm, Front Rise 27 cm. Sold by [Seller Name], a member of our VIP community. Authenticity and quality have already been checked. In stock in our French warehouse, shipped within 24 hours."
+      "condition: Never worn",
+      "label Size: I 48",
+      "Description: Contemporary grey Tuxedo Trousers by GUCCI. Crafted from a luxurious blend of wool and silk. This impeccably tailored piece offers a sophisticated silhouette. Features a concealed front closure. Includes classic side slash pockets and refined rear welt pockets. Complete with belt loops. Fully lined in smooth viscose for ultimate comfort. Size: I 48. Composition: 59% Wool, 24% Silk. Lining: 100% Viscose. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "GUCCI men Grey 7 - 48 R Wool"
+    "Title": "GUCCI Wool Tuxedo Trousers I 48"
   },
   {
     "images": [
@@ -2347,10 +2336,10 @@
       "brand: TOM FORD",
       "colour: Navy Blue",
       "condition: Very good condition",
-      "Description: A contemporary Navy Blue TOM FORD suit, crafted from luxurious wool. This refined two-piece suit is a hallmark of exquisite tailoring. The sophisticated single-breasted jacket features classic notched lapels and a two-button front closure. It is complete with practical flap pockets and a full lining, ensuring a smooth drape and ultimate comfort. The matching trousers present a timeless straight-leg cut, offering a clean, sharp silhouette. They are designed with a zip fly, button fastening, and functional side and back pockets. No size label is present. Composition: 100% Wool. Dimensions: Not available. Please refer to the tailored fit of TOM FORD suits. Condition: Very good condition. This piece is free of defects. Sold by a valued member of our VIP community. Authenticity and quality have been rigorously checked by our experts. This item is in stock in our French warehouse and ships within 24 hours."
+      "Description: Contemporary TOM FORD navy blue suit. Crafted from a luxurious suiting fabric, this ensemble offers refined elegance. The single-breasted jacket features sophisticated notched lapels and a two-button closure. It includes classic flap pockets and a chest welt pocket. The cuffs are detailed with buttons. Fully lined, the jacket offers a double-vented back for ease of movement. The matching flat-front trousers are designed with a secure zip and hook closure, complemented by belt loops. They feature practical side slip pockets and two neat back welt pockets. Color: Navy Blue. Size: Unknown. Condition: Very good condition."
     ],
     "ground_truth": [],
-    "Title": "TOM FORD men Navy Blue"
+    "Title": "TOM FORD Suit"
   },
   {
     "images": [
@@ -2362,16 +2351,16 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: Blazer",
+      "subcategory: Double-breasted blazer",
       "brand: GUCCI",
       "colour: Navy Blue",
-      "condition: Never worn, with tag",
-      "defects 1: Grade: Minor, Location: Interior lining, Type: Snags / Pulled thread",
+      "condition: Never worn",
+      "defects 1: Grade: Minor, Location: Interior lining, near the bottom hem, Type: Visible Holes",
       "Country of Origin: IT",
-      "Description: A distinguished Contemporary men's Blazer from GUCCI. This piece embodies sophisticated tailoring. Crafted from a premium suiting fabric. It features a classic silhouette in deep navy blue. The solid pattern offers versatile styling. Details include traditional notched lapels and long sleeves. The blazer is fully lined for comfort and a refined finish. It includes both interior and exterior pockets for practicality. Made in Italy. Size: Not available. Composition: Not specified. Dimensions: Not available. Condition: Never worn, with tag. Notes: Minor snags and pulled threads are present on the interior lining. Sold by a member of our VIP community. Authenticity and quality are already checked. In stock in our French / American / UK warehouse, shipped in 24h."
+      "Description: Contemporary double-breasted blazer by GUCCI. This men's elegant piece comes in a rich Navy Blue. Designed with notched lapels and a classic double-breasted front button closure. It features long sleeves, standard blazer pockets, and is fully lined. A quintessential garment for business occasions, reflecting exquisite Italian craftsmanship. Condition: Never worn. Notes: Minor visible hole in the interior lining, near the bottom hem."
     ],
     "ground_truth": [],
-    "Title": "GUCCI men Navy Blue"
+    "Title": "GUCCI Double-breasted blazer"
   },
   {
     "images": [
@@ -2386,16 +2375,16 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: suit",
+      "subcategory: Suit",
       "brand: PRADA",
       "colour: Grey",
       "condition: Good condition",
-      "defects 1: Grade: Moderate, Location: On the upper front of one pant leg, Type: Exterior stains/spots",
+      "defects 1: Grade: Moderate, Location: Stain on the front left pant leg, Type: Exterior stains/spots",
       "Country of Origin: IT",
-      "Description: Grey PRADA suit in premium fabric. This classic two-piece ensemble offers a tailored silhouette. The jacket features notched lapels and a single-breasted button closure. It includes practical flap pockets. The trousers complete the look with a sleek, refined fit. Size: Not specified. Composition: Exact details not available. Dimensions: Not provided. Condition: Good condition. Note a moderate exterior stain on the upper front of one pant leg. Sold by a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "Description: Contemporary grey tailored suit from PRADA. This men's suit is perfectly suited for business occasions. The blazer features classic notched lapels and a single-breasted two-button closure, complemented by precisely cut trousers. Crafted with Italian precision. Made in Italy. Condition: Good condition. Notes: Moderate exterior stain on the front left pant leg."
     ],
     "ground_truth": [],
-    "Title": "PRADA men Grey"
+    "Title": "PRADA Suit"
   },
   {
     "images": [
@@ -2412,11 +2401,11 @@
       "subcategory: Suit",
       "brand: TOM FORD",
       "colour: Grey",
-      "condition: Very good condition",
-      "Description: Contemporary men's suit by TOM FORD in premium wool. This sophisticated single-breasted jacket features classic notched lapels. It has a two-button closure at the front. Two elegant flap pockets and a chest welt pocket complete the front. The long sleeves are finished with refined four-button cuffs. The jacket is fully lined for a smooth drape and has a double-vent at the back for comfort. The accompanying trousers are designed with a contemporary flat front. They include two discreet side pockets and two jetted back pockets. Belt loops are present for styling versatility. The suit is presented in a distinguished grey hue with a solid pattern, embodying a clean, minimalist aesthetic. Size: 50 IT. Composition: 100% premium wool. Lining: 100% Cupro. Dimensions: Jacket: Shoulders 46 cm, chest 54 cm, length 76 cm, sleeve length 65 cm. Trousers: Waist 42 cm, inseam 80 cm, leg opening 19 cm. Condition: Very good condition. No visible signs of wear. Sold by a valued member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped within 24 hours."
+      "condition: Never worn",
+      "Description: This sophisticated two-piece suit from TOM FORD embodies timeless elegance. Crafted in a refined grey hue, it features a classic notched lapel, a two-button closure, and multiple pockets for functionality. The jacket is fully lined for a luxurious feel and impeccable drape. The trousers are tailored for a sleek silhouette. Perfect for business settings, this suit radiates sartorial excellence. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "TOM FORD men Grey"
+    "Title": "TOM FORD Suit"
   },
   {
     "images": [
@@ -2433,18 +2422,17 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: Suit",
+      "subcategory: suit",
       "brand: TOM FORD",
       "colour: Navy Blue",
       "condition: Good condition",
-      "defects 1: Grade: Minor, Location: Front right leg of the pants near the crotch, Type: Exterior stains/spots",
-      "defects 2: Grade: Minor, Location: Right lapel and chest area of the jacket, Type: Exterior stains/spots",
-      "defects 3: Grade: Moderate, Location: Lower left front of the jacket, Type: Exterior stains/spots",
+      "defects 1: Grade: Moderate, Location: Front of trousers, near crotch area, Type: Exterior stains/spots",
+      "defects 2: Grade: Moderate, Location: Lower front left side of jacket, Type: Exterior stains/spots",
       "Country of Origin: IT",
-      "Description: Contemporary men's suit by TOM FORD. This navy blue suit embodies sophisticated style. Its classic cut offers timeless appeal. The jacket features refined notched lapels. The trousers present a tailored silhouette. This is a versatile piece for a distinguished wardrobe. No size label. No composition label. Measurements not available. Good condition. Minor stain on the front right leg of the pants near the crotch. Minor stain on the right lapel and chest area of the jacket. Moderate stain on the lower left front of the jacket. Sold by a member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "Description: Contemporary Navy Blue suit by TOM FORD. This exquisite two-piece suit is ideal for business occasions. Crafted from a premium wool blend. The jacket features notched lapels, a single-breasted closure, and multiple pockets. Fully lined. The matching trousers are tailored, with belt loops and practical pockets. Made in Italy. No label size. No composition label. Condition: Good condition. Notes: Moderate exterior stains on the front of the trousers, near the crotch area. Moderate exterior stains on the lower front left side of the jacket."
     ],
     "ground_truth": [],
-    "Title": "TOM FORD men Navy Blue"
+    "Title": "TOM FORD Wool suit"
   },
   {
     "images": [
@@ -2455,14 +2443,14 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: blazer",
+      "subcategory: Blazer",
       "brand: Vivienne Westwood",
       "colour: Brown",
       "condition: Very good condition",
-      "Description: Contemporary blazer by Vivienne Westwood. Crafted from a rich brown luxurious wool. This timeless piece exudes sartorial elegance. It features classic notched lapels and a refined single-breasted front button closure. The long sleeves are finished with elegant buttoned cuffs. Functionality meets style with two front flap pockets and a discrete chest welt pocket. Fully lined, ensuring a smooth fit and comfortable wear. The impeccable tailoring highlights the garment's quality. Size: M / 48 IT. Composition: 100% Wool. Dimensions: Shoulders 46 cm, Chest 52 cm, Length 75 cm, Sleeve length 65 cm. Condition: Very good condition. Sold by a trusted member of our VIP community. Authenticity and quality already checked. In stock in our French warehouse. Shipped in 24h."
+      "Description: Contemporary men's blazer by Vivienne Westwood. This elegant brown blazer is perfectly tailored for business settings, showcasing the brand's distinctive aesthetic. It features classic notched lapels, long sleeves, and a structured silhouette. Details include front button closures and multiple pockets. Fully lined for comfort and a refined finish. Size: Not specified. Composition: Not specified. Condition: Very good condition. Notes: None."
     ],
     "ground_truth": [],
-    "Title": "Vivienne Westwood men Brown"
+    "Title": "VIVIENNE WESTWOOD Blazer"
   },
   {
     "images": [
@@ -2479,11 +2467,11 @@
       "subcategory: suit",
       "brand: Dior",
       "colour: Blue",
-      "condition: Very good condition",
-      "Description: Blue Dior suit. This distinguished men's suit reflects Dior's iconic sartorial excellence. The jacket presents a refined silhouette with classic notched lapels. It features a single-breasted design and two front flap pockets. Four-button cuffs add a touch of bespoke detail. The accompanying trousers are meticulously tailored with a straight-leg fit. They include side slip pockets and two rear welt pockets. Both garments are fully lined, ensuring comfort and a smooth drape. This piece is in very good condition. It represents a timeless acquisition for the discerning buyer. Authenticity and quality are already checked. In stock in our French warehouse, shipped in 24h."
+      "condition: Never worn",
+      "Description: A timeless men's suit by Dior, presented in a sophisticated blue. This never-worn ensemble epitomizes modern elegance. Ideal for formal and business occasions. The meticulously tailored jacket boasts classic notched lapels. It features long sleeves with buttoned cuffs. Two flap pockets and a chest pocket adorn the front. The jacket is fully lined for a luxurious feel. Complementary trousers complete the silhouette. They feature side pockets and back pockets. Condition: Never worn."
     ],
     "ground_truth": [],
-    "Title": "Dior men Blue"
+    "Title": "DIOR Suit"
   },
   {
     "images": [
@@ -2497,17 +2485,16 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: suit",
+      "subcategory: Two-Piece Suit",
       "brand: HERMES",
-      "colour: Blue",
+      "colour: Grey",
       "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: Faint spot on the lower back of the jacket, left of the center seam, Type: Exterior stains/spots",
-      "defects 2: Grade: Minor, Location: Overall garment shows minor signs of having been worn or washed, indicated by slight softening of the interior brand tag., Type: Washed or Worn",
+      "defects 1: Grade: Minor, Location: Lower back of the jacket, Type: Exterior stains/spots",
       "Country of Origin: IT",
-      "Description: This impeccable HERMES suit. Crafted from a luxurious blue fabric. It offers a sophisticated silhouette. The jacket features a classic single-breasted design. Notched lapels and two flap pockets complete the elegant look. It is fully lined for comfort. The coordinating trousers boast a tailored cut. They include practical side and back pockets. This piece embodies refined tailoring and timeless style. No size label available. This HERMES suit is in very good condition. A faint spot is present on the lower back of the jacket, left of the center seam. The overall garment shows minor signs of having been worn or washed, indicated by slight softening of the interior brand tag. Sold by [seller name], a member of our VIP community, authenticity and quality already checked, in stock in our French warehouse, shipped in 24h."
+      "Description: Contemporary Grey two-piece suit by HERMES. This sophisticated ensemble showcases impeccable tailoring. The jacket features a classic silhouette with notched lapels, a two-button front closure, and flap pockets. The matching trousers offer a straight leg and convenient side and back pockets. Both pieces are fully lined, highlighting the luxurious craftsmanship. Made in Italy. No size label available. Composition details not available.\nCondition: Very good condition. Notes: Minor exterior stains/spots on the lower back of the jacket."
     ],
     "ground_truth": [],
-    "Title": "HERMES men Blue"
+    "Title": "HERMES Two-Piece Suit"
   },
   {
     "images": [
@@ -2521,14 +2508,14 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: suit",
+      "subcategory: Suit",
       "brand: TOM FORD",
       "colour: Grey",
-      "condition: Very good condition",
-      "Description: Contemporary grey suit by TOM FORD. Crafted from a premium fabric. The jacket features a single-breasted silhouette with notched lapels. It has long sleeves with buttoned cuffs and a two-button front closure. Functional flap pockets adorn the hips, complemented by a chest welt pocket. The trousers offer a straight-leg cut with belt loops and a classic zip fly and button closure. Side slip pockets and rear welt pockets complete the design. Both pieces are fully lined. Size: Please refer to dimensions. Composition: Premium fabric blend. Dimensions: Jacket: Shoulders 46 cm, Chest 54 cm, Length 75 cm, Sleeve length 65 cm. Trousers: Waist 42 cm, Inseam 80 cm, Leg opening 20 cm. Condition: Very good condition. Sold by a trusted seller, a member of our VIP community. Authenticity and quality have been rigorously checked. In stock in our French warehouse, shipped in 24h."
+      "condition: Never worn",
+      "Description: Contemporary grey suit by TOM FORD. This sophisticated two-piece embodies TOM FORD's luxurious aesthetic, perfect for a formal occasion. The single-breasted jacket features notched lapels, a two-button closure, two flap pockets, and a chest pocket. It is fully lined with four-button cuffs. The flat-front trousers include belt loops, a zip and hook closure, two side pockets, and two back welt pockets. Crafted from a high-quality fabric, characteristic of TOM FORD's exquisite tailoring. Size: Label size not specified. Composition: Material details not specified. Condition: Never worn. Notes: No defects."
     ],
     "ground_truth": [],
-    "Title": "TOM FORD men Grey"
+    "Title": "TOM FORD Suit"
   },
   {
     "images": [
@@ -2542,14 +2529,13 @@
     "estimated": [
       "gender: men",
       "category: clothing",
-      "subcategory: suit",
+      "subcategory: Suit",
       "brand: Dior",
       "colour: Navy Blue",
       "condition: Very good condition",
-      "defects 1: Grade: Minor, Location: Inner brand label of the blazer, Type: Discolouration",
-      "Description: Contemporary Navy Blue suit by Dior. Crafted from a luxurious premium wool blend, this classic ensemble offers timeless elegance. The single-breasted blazer features sophisticated notched lapels, a refined two-button front closure, and two practical flap pockets, alongside a single chest pocket. It is fully lined, ensuring a smooth drape and comfortable wear. The matching trousers are designed with a flat front, complete with belt loops, convenient side slip pockets, and two elegant back welt pockets. This exceptional piece is presented in very good condition. Note: Minor discolouration is present on the inner brand label of the blazer. Size: Not specified. Composition: Premium wool blend. Dimensions: Not specified. Sold by a member of our VIP community. Authenticity and quality have been meticulously checked. In stock in our French warehouse, shipped within 24 hours."
+      "Description: Navy Blue suit by Dior. This impeccably tailored two-piece suit embodies classic sophistication. The jacket features notched lapels, a two-button front closure, and flap pockets, alongside a chest pocket. It is fully lined, ensuring a refined drape and comfort. The coordinating trousers complete the sleek silhouette, making this suit an ideal choice for business occasions. Condition: Very good condition. No notes."
     ],
     "ground_truth": [],
-    "Title": "Dior men Navy Blue"
+    "Title": "DIOR Suit"
   }
 ]
