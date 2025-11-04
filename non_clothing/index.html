@@ -1,0 +1,821 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vestiaire Collective AI listing</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-color: #f8f9fa;
+            color: #333;
+        }
+
+        /* Header with logo spaces */
+        .header {
+            background-color: #000;
+            height: 80px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 40px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .header-title {
+            color: white;
+            font-size: 24px;
+            font-weight: 700;
+            text-align: center;
+            flex: 1;
+            margin: 0 20px;
+        }
+
+        .logo-left, .logo-right {
+            width: 150px;
+            height: 100%; /* use full header height */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .logo-left img, .logo-right img {
+            max-height: 60px;
+            max-width: 140px;
+            width: auto;
+            height: auto;
+        }
+
+        .main-content {
+            padding: 40px 20px;
+        }
+
+        .page-title {
+            display: none;
+        }
+
+        .controls {
+            text-align: center;
+            margin-bottom: 30px;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .control-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .controls label {
+            font-weight: 600;
+            color: #555;
+            white-space: nowrap;
+        }
+
+        .controls select {
+            padding: 8px 12px;
+            border: 2px solid #e0e0e0;
+            border-radius: 6px;
+            font-family: 'Montserrat', sans-serif;
+            font-size: 14px;
+            background-color: white;
+            cursor: pointer;
+            transition: border-color 0.3s ease;
+            min-width: 120px;
+        }
+
+        .controls select:focus {
+            outline: none;
+            border-color: #007bff;
+        }
+
+        .filter-controls {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+            margin-bottom: 30px;
+        }
+
+        .filter-title {
+            font-size: 18px;
+            font-weight: 700;
+            margin-bottom: 15px;
+            text-align: center;
+            color: #333;
+        }
+
+        .filter-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+        }
+
+        .clear-filters {
+            text-align: center;
+            margin-top: 15px;
+        }
+
+        .clear-filters button {
+            padding: 8px 16px;
+            border: none;
+            background: #dc3545;
+            color: white;
+            border-radius: 6px;
+            cursor: pointer;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 600;
+            transition: background 0.3s ease;
+        }
+
+        .clear-filters button:hover {
+            background: #c82333;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        /* Single item per row */
+        .item {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            margin-bottom: 30px;
+            overflow: hidden;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 30px rgba(0,0,0,0.12);
+        }
+
+        .item-header {
+            background: #000;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        .item-header h3 {
+            font-size: 20px;
+            font-weight: 700;
+            margin: 0;
+        }
+
+        .item-content {
+            display: flex;
+            padding: 25px;
+            gap: 30px;
+            align-items: flex-start;
+        }
+
+        .images {
+            flex: 1;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .images img {
+            width: 120px;
+            height: 120px;
+            object-fit: cover;
+            border-radius: 8px;
+            opacity: 0;
+            transition: opacity 0.5s ease-in-out, transform 0.3s ease;
+            cursor: pointer;
+            border: 2px solid #f0f0f0;
+        }
+
+        .images img:hover {
+            transform: scale(1.05);
+            border-color: #007bff;
+        }
+
+        .visible {
+            opacity: 1 !important;
+        }
+
+        .labels {
+            flex: 2;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 25px;
+        }
+
+        .tag-section {
+            flex: 1;
+        }
+
+        .tag-section h4 {
+            font-size: 16px;
+            font-weight: 700;
+            margin-bottom: 15px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #333;
+        }
+
+        .tag-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .tag {
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 600;
+            transition: transform 0.2s ease;
+        }
+
+        .tag:hover {
+            transform: scale(1.05);
+        }
+
+        .estimated .tag {
+            background: #000;
+            color: white;
+            border: 1px solid #333;
+        }
+
+        .ground-truth .tag {
+            background: #e9ecef;
+            color: #333;
+            border: 1px solid #ddd;
+        }
+
+        /* Description features styles */
+        .description-section {
+            grid-column: 1 / -1;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            margin-top: 20px;
+            padding-top: 20px;
+            border-top: 2px solid #f0f0f0;
+        }
+
+        .feature-box {
+            background: #f8f9fa;
+            border-radius: 8px;
+            padding: 15px;
+        }
+
+        .feature-box h4 {
+            font-size: 14px;
+            font-weight: 700;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .common-features h4 {
+            color: #28a745;
+        }
+
+        .photo-status h4 {
+            color: #007bff;
+        }
+
+        .feature-list {
+            list-style: none;
+            padding: 0;
+        }
+
+        .feature-list li {
+            padding: 4px 0;
+            font-size: 13px;
+            position: relative;
+            padding-left: 15px;
+        }
+
+        .feature-list li:before {
+            content: "•";
+            position: absolute;
+            left: 0;
+            font-weight: bold;
+        }
+
+        .common-features .feature-list li:before {
+            color: #28a745;
+        }
+
+        .photo-status .feature-list li:before {
+            color: #007bff;
+        }
+
+        .pagination {
+            text-align: center;
+            margin: 40px 0;
+        }
+
+        .pagination button {
+            padding: 12px 24px;
+            margin: 0 8px;
+            border: none;
+            cursor: pointer;
+            border-radius: 8px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            font-family: 'Montserrat', sans-serif;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .pagination button:hover:not(:disabled) {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .pagination button:disabled {
+            background: #bdc3c7;
+            cursor: not-allowed;
+            transform: none;
+        }
+
+        #pageInfo {
+            font-weight: 600;
+            color: #555;
+            margin: 0 15px;
+        }
+
+        .results-info {
+            text-align: center;
+            margin: 20px 0;
+            font-weight: 600;
+            color: #555;
+        }
+
+        /* Fullscreen image popup */
+        .popup {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.9);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .popup img {
+            max-width: 90%;
+            max-height: 90%;
+            border-radius: 10px;
+            box-shadow: 0 0 30px rgba(255, 255, 255, 0.3);
+        }
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            .header {
+                padding: 0 20px;
+            }
+
+            .header-title {
+                font-size: 18px;
+                margin: 0 10px;
+            }
+
+            .logo-left, .logo-right {
+                width: 100px;
+                height: 40px;
+                font-size: 10px;
+            }
+
+            .controls {
+                flex-direction: column;
+                gap: 15px;
+            }
+
+            .filter-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .item-content {
+                flex-direction: column;
+                padding: 20px;
+            }
+
+            .labels {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .description-section {
+                grid-template-columns: 1fr;
+                gap: 15px;
+            }
+
+            .images img {
+                width: 100px;
+                height: 100px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header with logo spaces -->
+    <div class="header">
+        <div class="logo-left"><img src="aistetic_logo.avif"></div>
+        <div class="logo-right"><img src="VC_logo.png"></div>
+    </div>
+
+    <div class="main-content">
+        <!-- Items Per Page Selector -->
+        <div class="controls">
+            <div class="control-group">
+                <label for="itemsPerPage">Items per page:</label>
+                <select id="itemsPerPage">
+                    <option value="5">5</option>
+                    <option value="10" selected>10</option>
+                    <option value="15">15</option>
+                    <option value="20">20</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Filter Controls -->
+        <div class="filter-controls">
+            <div class="filter-title">Filter Results</div>
+            <div class="filter-grid" id="filterGrid">
+                <!-- Filters will be dynamically generated here -->
+            </div>
+            <div class="clear-filters">
+                <button id="clearFilters">Clear All Filters</button>
+            </div>
+        </div>
+
+        <!-- Results Info -->
+        <div class="results-info" id="resultsInfo">
+            <!-- Results count will be displayed here -->
+        </div>
+
+        <!-- Pagination Controls (Top) -->
+        <div class="pagination">
+            <button id="prevPageTop" disabled>← Previous</button>
+            <span id="pageInfoTop">Page 1</span>
+            <button id="nextPageTop">Next →</button>
+        </div>
+
+        <!-- Image Gallery -->
+        <div class="container">
+            <div id="gallery">Loading...</div>
+        </div>
+
+        <!-- Pagination Controls -->
+        <div class="pagination">
+            <button id="prevPage" disabled>← Previous</button>
+            <span id="pageInfo">Page 1</span>
+            <button id="nextPage">Next →</button>
+        </div>
+    </div>
+
+    <!-- Fullscreen Popup for Zoomed Image -->
+    <div class="popup" id="imagePopup">
+        <img id="popupImg" src="" alt="Zoomed Image">
+    </div>
+
+    <script>
+        let data = [];  // Stores loaded JSON data
+        let filteredData = []; // Stores filtered data
+        let currentPage = 1;
+        let itemsPerPage = 10;
+        let filters = {}; // Stores current filter values
+        let availableFilters = {}; // Stores all possible filter values
+
+        // Function to load JSON data
+        async function loadData() {
+            try {
+                const response = await fetch('output.json');
+                data = await response.json();
+                filteredData = [...data]; // Initialize filtered data
+                extractFilters();
+                generateFilterControls();
+                updateResultsInfo();
+                updatePagination();
+                renderPage();
+            } catch (error) {
+                console.error("Error loading JSON data:", error);
+                document.getElementById("gallery").innerText = "Failed to load data.";
+            }
+        }
+
+        // Extract all possible filter values from the data
+        function extractFilters() {
+            availableFilters = {};
+
+            data.forEach(item => {
+                if (item.attributes) {
+                    Object.keys(item.attributes).forEach(key => {
+                        if (!availableFilters[key]) {
+                            availableFilters[key] = new Set();
+                        }
+                        availableFilters[key].add(item.attributes[key]);
+                    });
+                }
+            });
+
+            // Convert sets to sorted arrays
+            Object.keys(availableFilters).forEach(key => {
+                availableFilters[key] = Array.from(availableFilters[key]).sort();
+            });
+        }
+
+        // Generate filter controls dynamically
+        function generateFilterControls() {
+            const filterGrid = document.getElementById("filterGrid");
+            filterGrid.innerHTML = "";
+
+            Object.keys(availableFilters).forEach(filterKey => {
+                const controlGroup = document.createElement("div");
+                controlGroup.className = "control-group";
+
+                const label = document.createElement("label");
+                label.textContent = filterKey + ":";
+                label.setAttribute("for", "filter_" + filterKey);
+
+                const select = document.createElement("select");
+                select.id = "filter_" + filterKey;
+                select.addEventListener("change", handleFilterChange);
+
+                // Add default "All" option
+                const defaultOption = document.createElement("option");
+                defaultOption.value = "";
+                defaultOption.textContent = "All";
+                select.appendChild(defaultOption);
+
+                // Add options for each possible value
+                availableFilters[filterKey].forEach(value => {
+                    const option = document.createElement("option");
+                    option.value = value;
+                    option.textContent = value;
+                    select.appendChild(option);
+                });
+
+                controlGroup.appendChild(label);
+                controlGroup.appendChild(select);
+                filterGrid.appendChild(controlGroup);
+            });
+        }
+
+        // Handle filter changes
+        function handleFilterChange(event) {
+            const filterKey = event.target.id.replace("filter_", "");
+            const filterValue = event.target.value;
+
+            if (filterValue === "") {
+                delete filters[filterKey];
+            } else {
+                filters[filterKey] = filterValue;
+            }
+
+            applyFilters();
+        }
+
+        // Apply all active filters
+        function applyFilters() {
+            filteredData = data.filter(item => {
+                return Object.keys(filters).every(filterKey => {
+                    return item.attributes && item.attributes[filterKey] === filters[filterKey];
+                });
+            });
+
+            currentPage = 1; // Reset to first page when filters change
+            updateResultsInfo();
+            updatePagination();
+            renderPage();
+        }
+
+        // Clear all filters
+        function clearAllFilters() {
+            filters = {};
+
+            // Reset all select elements
+            Object.keys(availableFilters).forEach(filterKey => {
+                const select = document.getElementById("filter_" + filterKey);
+                if (select) {
+                    select.value = "";
+                }
+            });
+
+            filteredData = [...data];
+            currentPage = 1;
+            updateResultsInfo();
+            updatePagination();
+            renderPage();
+        }
+
+        // Update results info
+        function updateResultsInfo() {
+            const resultsInfo = document.getElementById("resultsInfo");
+            const activeFiltersCount = Object.keys(filters).length;
+
+            if (activeFiltersCount === 0) {
+                resultsInfo.textContent = `Showing ${filteredData.length} items`;
+            } else {
+                resultsInfo.textContent = `Showing ${filteredData.length} items (${activeFiltersCount} filter${activeFiltersCount > 1 ? 's' : ''} applied)`;
+            }
+        }
+
+        function renderPage() {
+            const gallery = document.getElementById("gallery");
+            gallery.innerHTML = ""; // Clear previous content
+
+            if (filteredData.length === 0) {
+                gallery.innerHTML = '<div style="text-align: center; padding: 40px; color: #666;">No items match the current filters.</div>';
+                return;
+            }
+
+            const start = (currentPage - 1) * itemsPerPage;
+            const end = start + itemsPerPage;
+            const paginatedData = filteredData.slice(start, end);
+
+            paginatedData.forEach(item => {
+                let div = document.createElement("div");
+                div.classList.add("item");
+
+                // Build description section HTML
+                let descriptionHTML = '';
+                if (item.description || item.photo_capture_status) {
+                    descriptionHTML = `
+                        <div class="description-section">
+                            <div class="feature-box common-features">
+                                <h4>Common Features</h4>
+                                <ul class="feature-list">
+                                    ${(item.description?.common || []).map(feature => `<li>${feature}</li>`).join('')}
+                                </ul>
+                            </div>
+                            <div class="feature-box photo-status">
+                                <h4>Photo Capture Status</h4>
+                                <ul class="feature-list">
+                                    ${(item.photo_capture_status || []).map(status => `<li>${status}</li>`).join('')}
+                                </ul>
+                            </div>
+                        </div>
+                    `;
+                }
+
+                div.innerHTML = `
+                    <div class="item-header">
+                        <h3>${item.Title}</h3>
+                    </div>
+                    <div class="item-content">
+                        <div class="images"></div>
+                        <div class="labels">
+                            <div class="tag-section estimated">
+                                <h4>Aistetic</h4>
+                                <div class="tag-container">
+                                    ${item.estimated.map(tag => `<span class="tag">${tag}</span>`).join("")}
+                                </div>
+                            </div>
+                            <div class="tag-section ground-truth">
+                                <h4>Ground Truth</h4>
+                                <div class="tag-container">
+                                    ${item.ground_truth.map(tag => `<span class="tag">${tag}</span>`).join("")}
+                                </div>
+                            </div>
+                            ${descriptionHTML}
+                        </div>
+                    </div>
+                `;
+
+                let imgDiv = div.querySelector(".images");
+                item.images.forEach(url => {
+                    let img = document.createElement("img");
+                    img.src = url;
+                    img.alt = "Garment Image";
+                    img.loading = "lazy";
+                    img.addEventListener("click", () => openPopup(url));
+                    imgDiv.appendChild(img);
+                });
+
+                gallery.appendChild(div);
+            });
+
+            updatePagination();
+            observeImages(); // Activate lazy load animation
+        }
+
+        // Update pagination controls
+        function updatePagination() {
+            const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+            const pageText = `Page ${currentPage} of ${totalPages}`;
+
+            // Update both top and bottom pagination
+            document.getElementById("pageInfo").innerText = pageText;
+            document.getElementById("pageInfoTop").innerText = pageText;
+
+            const isPrevDisabled = (currentPage === 1);
+            const isNextDisabled = (currentPage === totalPages || totalPages === 0);
+
+            // Update both sets of buttons
+            document.getElementById("prevPage").disabled = isPrevDisabled;
+            document.getElementById("nextPage").disabled = isNextDisabled;
+            document.getElementById("prevPageTop").disabled = isPrevDisabled;
+            document.getElementById("nextPageTop").disabled = isNextDisabled;
+        }
+
+        // Lazy load image visibility (fade-in effect)
+        function observeImages() {
+            const images = document.querySelectorAll(".images img");
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add("visible");
+                    }
+                });
+            }, { threshold: 0.1 });
+
+            images.forEach(img => observer.observe(img));
+        }
+
+        // Open zoomed-in popup
+        function openPopup(imageUrl) {
+            document.getElementById("popupImg").src = imageUrl;
+            document.getElementById("imagePopup").style.display = "flex";
+        }
+
+        // Close popup when clicking outside image or pressing "Esc"
+        document.getElementById("imagePopup").addEventListener("click", (e) => {
+            if (e.target.id === "imagePopup") {
+                document.getElementById("imagePopup").style.display = "none";
+            }
+        });
+
+        document.addEventListener("keydown", (e) => {
+            if (e.key === "Escape") {
+                document.getElementById("imagePopup").style.display = "none";
+            }
+        });
+
+        // Event listeners for pagination
+        document.getElementById("prevPage").addEventListener("click", () => {
+            if (currentPage > 1) {
+                currentPage--;
+                renderPage();
+                window.scrollTo({ top: 0, behavior: "smooth" });
+            }
+        });
+
+        document.getElementById("nextPage").addEventListener("click", () => {
+            const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+            if (currentPage < totalPages) {
+                currentPage++;
+                renderPage();
+                window.scrollTo({ top: 0, behavior: "smooth" });
+            }
+        });
+
+        // Event listeners for top pagination
+        document.getElementById("prevPageTop").addEventListener("click", () => {
+            if (currentPage > 1) {
+                currentPage--;
+                renderPage();
+                window.scrollTo({ top: 0, behavior: "smooth" });
+            }
+        });
+
+        document.getElementById("nextPageTop").addEventListener("click", () => {
+            const totalPages = Math.ceil(filteredData.length / itemsPerPage);
+            if (currentPage < totalPages) {
+                currentPage++;
+                renderPage();
+                window.scrollTo({ top: 0, behavior: "smooth" });
+            }
+        });
+
+        // Update items per page
+        document.getElementById("itemsPerPage").addEventListener("change", (event) => {
+            itemsPerPage = parseInt(event.target.value, 10);
+            currentPage = 1;
+            renderPage();
+        });
+
+        // Clear filters button
+        document.getElementById("clearFilters").addEventListener("click", clearAllFilters);
+
+        // Load data when the page loads
+        loadData();
+    </script>
+
+</body>
+</html>

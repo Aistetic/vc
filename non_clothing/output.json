@@ -1,0 +1,637 @@
+[
+  {
+    "images": [
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wicker-anagram-basket-loewe-handbag-60114065-1_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wicker-anagram-basket-loewe-handbag-60114065-2_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wicker-anagram-basket-loewe-handbag-60114065-3_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wicker-anagram-basket-loewe-handbag-60114065-4_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wicker-anagram-basket-loewe-handbag-60114065-5_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wicker-anagram-basket-loewe-handbag-60114065-6_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wicker-anagram-basket-loewe-handbag-60114065-7_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wicker-anagram-basket-loewe-handbag-60114065-8_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wicker-anagram-basket-loewe-handbag-60114065-9_2.jpg"
+    ],
+    "estimated": [
+      "gender: Women ",
+      "category: bags",
+      "subcategory: handbags",
+      "other Materials 1: Leather",
+      "designer: Loewe",
+      "colour: Beige",
+      "condition: Fair condition",
+      "defects 1: Grade: Moderate, Location: Bottom edge, Type: Tears",
+      "defects 2: Grade: Moderate, Location: Side edge, Type: Tears",
+      "Country of Origin: FR",
+      "occasion: Everyday Elegance",
+      "Description: Beige wicker handbag from Loewe. Features straps. The bag showcases the Loewe logo in brown leather. Made in France. Notes: The bottom and side edges show moderate tears."
+    ],
+    "ground_truth": [
+      "UNIVERSE: women",
+      "MATERIAL: Wicker",
+      "CATEGORY: bags",
+      "SUBCATEGORY: totes",
+      "MODEL: Anagram Basket",
+      "COLOUR: beige",
+      "BRAND: Loewe",
+      "CONDITION: Fair condition",
+      "PRODUCT_DESCRIPTION_EN: Small Anagram Basket bag in iraca palm and calfskin \n\nHas a split in one side hence fair condition - could possibly be repaired by someone with expertise. Iâve glued the edges to stop the fraying from progressing further. \nHandles and leather accents all in very good condition\nThis is the small size"
+    ],
+    "photo_capture_status": [
+      "Front Shot: Captured - front photo visible",
+      "Back Shot: Captured - back photo visible",
+      "Size: Not Captured - no size label photo",
+      "Material: Captured - composition label photo visible",
+      "Additional Garment Imagery (Feature & Defect Analysis): Separate additional photos provided",
+      "Care Instructions: Not Captured - no care label photo",
+      "Original Tags: Not Captured - no original tags in photos"
+    ],
+    "attributes": {
+      "Data set": "C2C",
+      "Country of Origin visible": "True",
+      "Back Image Present": "true",
+      "Front Image Present": "true",
+      "Size label visible": "false",
+      "Care label visible": "false",
+      "Material label visible": "true",
+      "Original tags present": "false",
+      "Additional image present": "true"
+    },
+    "Title": "C2C102: LOEWE Straps handbags Beige Wicker",
+    "description": {
+      "common": [
+        "Small size",
+        "Made from iraca palm and calfskin",
+        "Handles and leather accents"
+      ]
+    }
+  },
+  {
+    "images": [
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-1_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-2_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-3_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-4_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-5_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-6_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-7_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-8_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-9_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-10_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-11_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-12_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-13_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-cloth-speedy-louis-vuitton-handbag-60090461-14_2.jpg"
+    ],
+    "estimated": [
+      "gender: Women ",
+      "category: bags",
+      "subcategory: handbags",
+      "designer: Louis Vuitton",
+      "colour: Brown",
+      "model: Speedy",
+      "condition: Good condition",
+      "defects 1: Grade: Moderate, Location: Corners of the bag, Type: Visible wear on corners",
+      "defects 2: Grade: Moderate, Location: Hardware, Type: Scratches/oxidation",
+      "defects 3: Grade: Minor, Location: Interior lining, Type: Interior stains/spots",
+      "defects 4: Grade: Moderate, Location: Leather handles, Type: Discolouration",
+      "occasion: Everyday Elegance",
+      "Description: Brown leather Speedy handbag by Louis Vuitton. This handbag is perfect for everyday elegance. It features pockets. The corners of the bag show visible wear. The hardware has scratches and oxidation. The interior lining has minor stains. The leather handles show discolouration."
+    ],
+    "ground_truth": [
+      "UNIVERSE: women",
+      "CATEGORY: bags",
+      "SUBCATEGORY: handbags",
+      "MODEL: Speedy",
+      "COLOUR: brown",
+      "BRAND: Louis Vuitton",
+      "CONDITION: Good condition",
+      "PRODUCT_DESCRIPTION_EN: Louis Vuitton Vintage Monogram Speedy 30 Boston Bag\n\n\nThe vachetta leather has undergone professional colour restoration on handles and end tags; piping and panel on base have not as already very decent.\n\nVery good vintage condition, Listing as good however to ensure Platform criteria is met!\n\n\nMade in USA ~ original tag intact ~ Talon zipper.\n\nthis American version seems to be sturdier; using thicker materials and even the body feels heavier. \nReally sound bag.\nSeems a tiny bit bigger as well"
+    ],
+    "photo_capture_status": [
+      "Front Shot: Captured - front photo visible",
+      "Back Shot: Not Captured - no back photo",
+      "Size: Not Captured - no size label photo",
+      "Material: Not Captured - no composition label photo",
+      "Additional Garment Imagery (Feature & Defect Analysis): Separate additional photos provided",
+      "Care Instructions: Not Captured - no care label photo",
+      "Original Tags: Not Captured - no original tags in photos"
+    ],
+    "attributes": {
+      "Data set": "C2C",
+      "Country of Origin visible": "False",
+      "Back Image Present": "false",
+      "Front Image Present": "true",
+      "Size label visible": "false",
+      "Care label visible": "false",
+      "Material label visible": "false",
+      "Original tags present": "false",
+      "Additional image present": "true"
+    },
+    "Title": "C2C101: LOUIS VUITTON Pockets handbags Brown Leather",
+    "description": {
+      "common": [
+        "Louis Vuitton Speedy handbag",
+        "Brown leather",
+        "Very good vintage condition",
+        "Handles show discolouration"
+      ]
+    }
+  },
+  {
+    "images": [
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-patent-leather-so-kate-christian-louboutin-heels-60316556-1_3.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-patent-leather-so-kate-christian-louboutin-heels-60316556-2_3.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-patent-leather-so-kate-christian-louboutin-heels-60316556-3_3.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-patent-leather-so-kate-christian-louboutin-heels-60316556-4_3.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-patent-leather-so-kate-christian-louboutin-heels-60316556-5_3.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-patent-leather-so-kate-christian-louboutin-heels-60316556-6_3.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-patent-leather-so-kate-christian-louboutin-heels-60316556-7_3.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-patent-leather-so-kate-christian-louboutin-heels-60316556-8_3.jpg"
+    ],
+    "estimated": [
+      "gender: Women ",
+      "category: shoes",
+      "subcategory: heels",
+      "designer: Christian Louboutin",
+      "colour: Beige",
+      "condition: Good condition",
+      "defects 1: Grade: Moderate, Location: Heel tips, Type: Other signs of wear",
+      "defects 2: Grade: Moderate, Location: Sole, Type: Other signs of wear",
+      "occasion: Evening & Formal",
+      "Description: Beige leather heels from Christian Louboutin. These elegant heels feature a pointed toe and straps. Perfect for evening and formal occasions. Notes: Moderate signs of wear are visible on the heel tips and sole."
+    ],
+    "ground_truth": [
+      "UNIVERSE: women",
+      "MATERIAL: Leather",
+      "CATEGORY: shoes",
+      "SUBCATEGORY: heels",
+      "MODEL: So Kate",
+      "COLOUR: beige",
+      "BRAND: Christian Louboutin",
+      "CONDITION: Good condition",
+      "SIZE: 37 EU",
+      "PRODUCT_DESCRIPTION_EN: Christian Louboutin so Kate 120\n\n- 100% Authentic\n- These are an older model so the nude is more beige\n- Lots of life left, but check the photos for their full condition as there are flaws such as chipping\n- EU 37 / UK 4\n- No box will be included"
+    ],
+    "photo_capture_status": [
+      "Front Shot: Captured - front photo visible",
+      "Back Shot: Captured - back photo visible",
+      "Size: Not Captured - no size label photo",
+      "Material: Not Captured - no composition label photo",
+      "Additional Garment Imagery (Feature & Defect Analysis): Separate additional photos provided",
+      "Care Instructions: Not Captured - no care label photo",
+      "Original Tags: Not Captured - no original tags in photos"
+    ],
+    "attributes": {
+      "Data set": "C2C",
+      "Country of Origin visible": "False",
+      "Back Image Present": "true",
+      "Front Image Present": "true",
+      "Size label visible": "false",
+      "Care label visible": "false",
+      "Material label visible": "false",
+      "Original tags present": "false",
+      "Additional image present": "true"
+    },
+    "Title": "C2C103: CHRISTIAN LOUBOUTIN Straps heels Beige Leather",
+    "description": {
+      "common": [
+        "Beige color",
+        "Pointed toe",
+        "Heels",
+        "Signs of wear"
+      ]
+    }
+  },
+  {
+    "images": [
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/pink-patent-leather-vlogo-valentino-garavani-heels-60275608-1_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/pink-patent-leather-vlogo-valentino-garavani-heels-60275608-2_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/pink-patent-leather-vlogo-valentino-garavani-heels-60275608-3_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/pink-patent-leather-vlogo-valentino-garavani-heels-60275608-4_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/pink-patent-leather-vlogo-valentino-garavani-heels-60275608-5_2.jpg"
+    ],
+    "estimated": [
+      "gender: Women ",
+      "category: shoes",
+      "subcategory: heels",
+      "exact Material Composition: 100% PELLE DI AGNELLO - LAMBSKIN",
+      "other Materials 1: Silk",
+      "designer: Valentino",
+      "colour: Pink",
+      "condition: Good condition",
+      "defects 1: Grade: Minor, Location: Heel, Type: Scratches/oxidation",
+      "occasion: Evening & Formal",
+      "Description: Pink Valentino heels. Crafted from lambskin leather. Features include straps. Perfect for evening and formal occasions. Notes: Minor scratches and oxidation are present on the heel."
+    ],
+    "ground_truth": [
+      "UNIVERSE: women",
+      "MATERIAL: Patent leather",
+      "CATEGORY: shoes",
+      "SUBCATEGORY: heels",
+      "MODEL: Vlogo",
+      "COLOUR: pink",
+      "BRAND: Valentino Garavani",
+      "CONDITION: Never worn, with tag",
+      "SIZE: 5 UK",
+      "PRODUCT_DESCRIPTION_EN: Valentino Vlogo Heels\nbrand new, never worn\nsize 5 uk (38eu)"
+    ],
+    "photo_capture_status": [
+      "Front Shot: Captured - front photo visible",
+      "Back Shot: Not Captured - no back photo",
+      "Size: Captured - size label photo visible",
+      "Material: Captured - composition label photo visible",
+      "Additional Garment Imagery (Feature & Defect Analysis): Separate additional photos provided",
+      "Care Instructions: Not Captured - no care label photo",
+      "Original Tags: Captured - original tags visible in photos"
+    ],
+    "attributes": {
+      "Data set": "C2C",
+      "Country of Origin visible": "False",
+      "Back Image Present": "false",
+      "Front Image Present": "true",
+      "Size label visible": "true",
+      "Care label visible": "false",
+      "Material label visible": "true",
+      "Original tags present": "true",
+      "Additional image present": "true"
+    },
+    "Title": "C2C104: VALENTINO Straps heels Pink Leather",
+    "description": {
+      "common": [
+        "Valentino heels",
+        "crafted from leather"
+      ]
+    }
+  },
+  {
+    "images": [
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-gucci-gloves-60608330-1_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-gucci-gloves-60608330-2_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-gucci-gloves-60608330-3_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-gucci-gloves-60608330-4_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-gucci-gloves-60608330-5_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-gucci-gloves-60608330-6_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-gucci-gloves-60608330-7_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/black-leather-gucci-gloves-60608330-8_2.jpg"
+    ],
+    "estimated": [
+      "gender: Women ",
+      "category: accessories",
+      "subcategory: gloves",
+      "exact Material Composition: 100% CERVO-DEER-CERT-HIRSCH",
+      "other Materials 1: Silk",
+      "designer: Gucci",
+      "colour: Black",
+      "condition: Never worn, with tag",
+      "label Size: 9",
+      "Country of Origin: IT",
+      "occasion: Everyday Elegance",
+      "Description: Black leather gloves from Gucci. Crafted from CERVO-DEER-CERT-HIRSCH leather. The gloves feature a cuff detail with silver-tone metal eyelets and studs. Made in Italy. Size 9. Composition: 100% CERVO-DEER-CERT-HIRSCH."
+    ],
+    "ground_truth": [
+      "UNIVERSE: women",
+      "MATERIAL: Leather",
+      "CATEGORY: accessories",
+      "SUBCATEGORY: gloves",
+      "COLOUR: black",
+      "BRAND: Gucci",
+      "CONDITION: Never worn, with tag",
+      "SIZE: M/21.5cm",
+      "PRODUCT_DESCRIPTION_EN: WomenÕs Gucci gloves in leather with metal eyelets and 100% silk lining. Never worn and come with original tags and dust bag. Size M/21.5cm."
+    ],
+    "photo_capture_status": [
+      "Front Shot: Captured - front photo visible",
+      "Back Shot: Not Captured - no back photo",
+      "Size: Captured - size label photo visible",
+      "Material: Captured - composition label photo visible",
+      "Additional Garment Imagery (Feature & Defect Analysis): Separate additional photos provided",
+      "Care Instructions: Captured - care label photo visible",
+      "Original Tags: Captured - original tags visible in photos"
+    ],
+    "attributes": {
+      "Data set": "C2C",
+      "Country of Origin visible": "True",
+      "Back Image Present": "false",
+      "Front Image Present": "true",
+      "Size label visible": "true",
+      "Care label visible": "true",
+      "Material label visible": "true",
+      "Original tags present": "true",
+      "Additional image present": "true"
+    },
+    "Title": "C2C105: GUCCI gloves Black Leather 9",
+    "description": {
+      "common": [
+        "Leather material",
+        "Metal eyelets",
+        "Size M/21.5cm",
+        "Never worn",
+        "Original tags included"
+      ]
+    }
+  },
+  {
+    "images": [
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-cashmere-loro-piana-gloves-59163812-1_1.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-cashmere-loro-piana-gloves-59163812-2_1.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-cashmere-loro-piana-gloves-59163812-3_1.jpg"
+    ],
+    "estimated": [
+      "gender: Women ",
+      "category: accessories",
+      "subcategory: gloves",
+      "designer: Loro Piana",
+      "colour: Beige",
+      "condition: Very good condition",
+      "Country of Origin: IT",
+      "occasion: Everyday Elegance",
+      "Description: Beige wool gloves from Loro Piana. Made in Italy. These gloves are perfect for everyday elegance. "
+    ],
+    "ground_truth": [
+      "UNIVERSE: women",
+      "MATERIAL: Cashmere",
+      "CATEGORY: accessories",
+      "SUBCATEGORY: gloves",
+      "COLOUR: beige",
+      "BRAND: Loro Piana",
+      "CONDITION: Very good condition",
+      "SIZE: S International",
+      "PRODUCT_DESCRIPTION_EN: Brown LORO PIANA crochet knitted cashmere gloves. \nSize small. \nMade in Italy. Sold without packaging. \n100% cashmere. \nDetails: light pilling. "
+    ],
+    "photo_capture_status": [
+      "Front Shot: Captured - front photo visible",
+      "Back Shot: Captured - back photo visible",
+      "Size: Not Captured - no size label photo",
+      "Material: Captured - composition label photo visible",
+      "Additional Garment Imagery (Feature & Defect Analysis): No separate additional photos",
+      "Care Instructions: Not Captured - no care label photo",
+      "Original Tags: Not Captured - no original tags in photos"
+    ],
+    "attributes": {
+      "Data set": "C2C",
+      "Country of Origin visible": "True",
+      "Back Image Present": "true",
+      "Front Image Present": "true",
+      "Size label visible": "false",
+      "Care label visible": "false",
+      "Material label visible": "true",
+      "Original tags present": "false",
+      "Additional image present": "false"
+    },
+    "Title": "C2C106: LORO PIANA Gloves Beige Wool",
+    "description": {
+      "common": [
+        "Made in Italy",
+        "Loro Piana",
+        "gloves"
+      ]
+    }
+  },
+  {
+    "images": [
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-wool-gucci-hat-60128544-1_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-wool-gucci-hat-60128544-2_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-wool-gucci-hat-60128544-3_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-wool-gucci-hat-60128544-4_2.jpg"
+    ],
+    "estimated": [
+      "gender: Women ",
+      "category: accessories",
+      "subcategory: hats",
+      "exact Material Composition: 100% Lana Wool",
+      "designer: Gucci",
+      "colour: Black",
+      "condition: Very good condition",
+      "label Size: L",
+      "Country of Origin: IT",
+      "occasion: Everyday Elegance",
+      "Description: Black wool hat from Gucci. Made from 100% Lana Wool. Features a classic beanie shape. Made in Italy. Size L."
+    ],
+    "ground_truth": [
+      "UNIVERSE: women",
+      "MATERIAL: Wool",
+      "CATEGORY: accessories",
+      "SUBCATEGORY: hats",
+      "COLOUR: brown",
+      "BRAND: Gucci",
+      "CONDITION: Never worn",
+      "SIZE: L International",
+      "PRODUCT_DESCRIPTION_EN: Brown beanie hat, Gucci label on the side and silk/wool combination very soft to touch never been worn no tags"
+    ],
+    "photo_capture_status": [
+      "Front Shot: Captured - front photo visible",
+      "Back Shot: Captured - back photo visible",
+      "Size: Captured - size label photo visible",
+      "Material: Captured - composition label photo visible",
+      "Additional Garment Imagery (Feature & Defect Analysis): No separate additional photos",
+      "Care Instructions: Captured - care label photo visible",
+      "Original Tags: Not Captured - no original tags in photos"
+    ],
+    "attributes": {
+      "Data set": "C2C",
+      "Country of Origin visible": "True",
+      "Back Image Present": "true",
+      "Front Image Present": "true",
+      "Size label visible": "true",
+      "Care label visible": "true",
+      "Material label visible": "true",
+      "Original tags present": "false",
+      "Additional image present": "false"
+    },
+    "Title": "C2C107: GUCCI hat Black Wool L",
+    "description": {
+      "common": [
+        "Beanie shape",
+        "Gucci label"
+      ]
+    }
+  },
+  {
+    "images": [
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wool-lack-of-colour-hat-59772140-1_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wool-lack-of-colour-hat-59772140-2_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wool-lack-of-colour-hat-59772140-3_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wool-lack-of-colour-hat-59772140-4_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/beige-wool-lack-of-colour-hat-59772140-5_2.jpg"
+    ],
+    "estimated": [
+      "gender: Women ",
+      "category: accessories",
+      "subcategory: hats",
+      "exact Material Composition: 100% AUSTRALIAN WOOL. SPOT CLEAN. MADE IN",
+      "designer: Lack Of Color",
+      "colour: Beige",
+      "model: THE ZULU",
+      "condition: Never worn, with tag",
+      "label Size: 55CM(S)",
+      "Country of Origin: China",
+      "occasion: Everyday Elegance",
+      "Description: Beige hat from Lack Of Color. The model is THE ZULU. Crafted from 100% Australian wool. Features a ribbon detail. Size: 55CM(S)."
+    ],
+    "ground_truth": [
+      "UNIVERSE: women",
+      "MATERIAL: Wool",
+      "CATEGORY: accessories",
+      "SUBCATEGORY: hats",
+      "COLOUR: beige",
+      "BRAND: Lack Of Colour",
+      "CONDITION: Never worn, with tag",
+      "SIZE: 55cm/Small",
+      "PRODUCT_DESCRIPTION_EN: Brand new with tags purchased from Harvey Nichols. 55cm 100% wool. Easy to wear."
+    ],
+    "photo_capture_status": [
+      "Front Shot: Captured - front photo visible",
+      "Back Shot: Captured - back photo visible",
+      "Size: Captured - size label photo visible",
+      "Material: Captured - composition label photo visible",
+      "Additional Garment Imagery (Feature & Defect Analysis): Separate additional photos provided",
+      "Care Instructions: Captured - care label photo visible",
+      "Original Tags: Captured - original tags visible in photos"
+    ],
+    "attributes": {
+      "Data set": "C2C",
+      "Country of Origin visible": "True",
+      "Back Image Present": "true",
+      "Front Image Present": "true",
+      "Size label visible": "true",
+      "Care label visible": "true",
+      "Material label visible": "true",
+      "Original tags present": "true",
+      "Additional image present": "true"
+    },
+    "Title": "C2C108: LACK OF COLOR hat Beige Wool 55CM(S)",
+    "description": {
+      "common": [
+        "100% wool",
+        "55cm size"
+      ]
+    }
+  },
+  {
+    "images": [
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-1_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-2_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-3_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-4_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-5_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-6_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-7_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-7_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-9_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-10_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-11_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-12_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-13_2.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-other-louis-vuitton-purse-60118598-14_2.jpg"
+    ],
+    "estimated": [
+      "gender: Women ",
+      "category: accessories",
+      "subcategory: wallets",
+      "designer: Louis Vuitton",
+      "colour: Brown",
+      "condition: Very good condition",
+      "defects 1: Grade: Minor, Location: On the button, Type: Scratches/oxidation",
+      "Country of Origin: FR",
+      "occasion: Everyday Elegance",
+      "Description: This wallet is from Louis Vuitton. It is crafted from brown leather. The wallet features the iconic Monogram pattern. It is made in France. It is designed for everyday elegance. The wallet has a button closure. It has card slots. Notes: Minor scratches and oxidation are present on the button."
+    ],
+    "ground_truth": [
+      "UNIVERSE: women",
+      "MATERIAL: Other",
+      "CATEGORY: accessories",
+      "SUBCATEGORY: purses, wallets & cases",
+      "COLOUR: brown",
+      "BRAND: Louis Vuitton",
+      "CONDITION: Good condition",
+      "PRODUCT_DESCRIPTION_EN: Classic Porte Carte Louis Vuitton\nMonogram canvas card holder with gold-tone snap button. Compact and elegant, perfect for cards, passes, or small essentials.\n¥ Authentic Louis Vuitton\nmonogram canvas ( please see serial number)\n¥ Brown leather interior\n¥ Gold-tone snap closure\n¥ Includes original LV dust bag\n¥ Comes with 5 clear plastic card inserts (used)\nThis is second-hand, so please don't expect mint condition. The monogram exterior is in good overall shape, interior shows light signs of wear, and the plastic card inserts have visible use marks (see photos).\n\n"
+    ],
+    "photo_capture_status": [
+      "Front Shot: Captured - front photo visible",
+      "Back Shot: Not Captured - no back photo",
+      "Size: Not Captured - no size label photo",
+      "Material: Captured - composition label photo visible",
+      "Additional Garment Imagery (Feature & Defect Analysis): Separate additional photos provided",
+      "Care Instructions: Not Captured - no care label photo",
+      "Original Tags: Not Captured - no original tags in photos"
+    ],
+    "attributes": {
+      "Data set": "C2C",
+      "Country of Origin visible": "True",
+      "Back Image Present": "false",
+      "Front Image Present": "true",
+      "Size label visible": "false",
+      "Care label visible": "false",
+      "Material label visible": "true",
+      "Original tags present": "false",
+      "Additional image present": "true"
+    },
+    "Title": "C2C109: LOUIS VUITTON wallets Brown Leather",
+    "description": {
+      "common": [
+        "Louis Vuitton",
+        "Monogram pattern",
+        "button closure"
+      ]
+    }
+  },
+  {
+    "images": [
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-mulberry-purse-60103073-1_4.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-mulberry-purse-60103073-2_4.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-mulberry-purse-60103073-3_4.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-mulberry-purse-60103073-4_4.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-mulberry-purse-60103073-5_4.jpg",
+      "https://images.vestiairecollective.com/images/resized/w=1024,q=75,f=auto,/produit/brown-leather-mulberry-purse-60103073-6_4.jpg"
+    ],
+    "estimated": [
+      "gender: Women ",
+      "category: bags",
+      "subcategory: handbags",
+      "designer: Mulberry",
+      "colour: Brown",
+      "model: Darley",
+      "condition: Never worn, with tag",
+      "occasion: Everyday Elegance",
+      "Description: Brown leather Darley handbag from Mulberry. Features pockets. The bag has a flap closure with a gold-tone turn lock. The interior features multiple compartments. This handbag is perfect for everyday elegance."
+    ],
+    "ground_truth": [
+      "UNIVERSE: women",
+      "MATERIAL: Leather",
+      "CATEGORY: accessories",
+      "SUBCATEGORY: purses, wallets & cases",
+      "COLOUR: brown",
+      "BRAND: Mulberry",
+      "CONDITION: Never worn, with tag",
+      "PRODUCT_DESCRIPTION_EN: Mulberry Darley Medium Silky Calf Leather Wallet, Oak\nNever used"
+    ],
+    "photo_capture_status": [
+      "Front Shot: Captured - front photo visible",
+      "Back Shot: Captured - back photo visible",
+      "Size: Captured - size label photo visible",
+      "Material: Captured - composition label photo visible",
+      "Additional Garment Imagery (Feature & Defect Analysis): Separate additional photos provided",
+      "Care Instructions: Not Captured - no care label photo",
+      "Original Tags: Captured - original tags visible in photos"
+    ],
+    "attributes": {
+      "Data set": "C2C",
+      "Country of Origin visible": "False",
+      "Back Image Present": "true",
+      "Front Image Present": "true",
+      "Size label visible": "true",
+      "Care label visible": "false",
+      "Material label visible": "true",
+      "Original tags present": "true",
+      "Additional image present": "true"
+    },
+    "Title": "C2C110: MULBERRY Pockets handbags Brown Leather",
+    "description": {
+      "common": [
+        "Leather material",
+        "Darley style",
+        "Flap closure"
+      ]
+    }
+  }
+]
